@@ -1,0 +1,2082 @@
+,airtableId,jobStart,jobEnd,salaryMin,salaryMax,requirementsDescription,position,sectorExpMin,sectorExpMax,positionExpMin,positionExpMax,airtableId.1,missionId,availableFrom,availableUntil,minSalaryExpect,maxSalaryExpect,degreeSubject,status,missionCandidate,MissionCandidateHardSkills,missionCandidate.1,MissionCandidateLocations,mission,MissionLocations,missionCandidate.2,MissionCandidateLanguages,mission.1,MissionLanguages,Time_matching_score,Salary_matching_score,General_matching_score
+0,rec7MvbTywFTvWryg,,,45000.0,60000.0,"<p>**Technology used by the company is Ruby **</p>
+<ul class=""liste"">
+<li>
+<p>Min **2 years of experience **as a full stack developer or school exit (-<strong>Top engineering school – “Top 10”</strong>) -Info school (only Epita)</p>
+</li>
+<li>
+<p>Proximity to Paris but not mandatory</p>
+</li>
+<li>
+<p>The candidate can both work remotely and travel to the headquarters in Paris from time to time to meet the team.</p>
+</li>
+<li>
+<p>The candidate must be native French (or professional level)</p>
+</li>
+<li>
+<p><strong>Back :  Ruby, PostgreSQL, Heroku</strong></p>
+</li>
+<li>
+<p><strong>Front : Typescript , React native, React</strong></p>
+</li>
+</ul>
+",full-stack-developer,,,,,rec0ijxnKLBBDIYQ7,rec7MvbTywFTvWryg,,,43000.0,45000.0,Web developer,Rejected by CP,rec0ijxnKLBBDIYQ7,"javascript,ruby-on-rails",rec0ijxnKLBBDIYQ7,europe/france,rec7MvbTywFTvWryg,europe/france/paris,rec0ijxnKLBBDIYQ7,en,rec7MvbTywFTvWryg,fr,,-0.2,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": 0.6,
+        ""Position_Matching_Score"": 0.9,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 0,
+        ""Reason"": ""The candidate has hardskills of javascript and ruby-on-rails which are related to the job requirement of Ruby, PostgreSQL, Heroku, Typescript, React native, React. The degree subject of Web developer covers some of the job requirement. The candidate can work remotely or travel to the headquarters in Paris from time to time to meet the team. The candidate's location is europe/france which contains the job location europe/france/paris. However, the candidate can only speak English which is not the required language of the job.""
+    }"
+1,recUwquxTAuaSpYwc,,,60000.0,70000.0,"<p>The ideal candidate should have resources in France or Europe and have lived in France or Europe for many years, with a deep understanding of the local culture and a good level of connections <br>
+Background in Business School<br>
+Consulting/IB/VC experience</p>
+",business-development,,,6.0,9.0,rec0int3CbDJkliSl,recUwquxTAuaSpYwc,,,120000.0,,Biotechnology & Pharmaceutical Management,Interview Process,rec0int3CbDJkliSl,"healthcare,ivd",rec0int3CbDJkliSl,europe/france,recUwquxTAuaSpYwc,europe/france,rec0int3CbDJkliSl,"en,fr,zh",recUwquxTAuaSpYwc,"en,fr,zh",,-6.0,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": 0.5,
+        ""Position_Matching_Score"": 0.7,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has healthcare and ivd hardskills which are related to the job position. The degree subject of the candidate is Biotechnology & Pharmaceutical Management which covers some of the skills required in the job position. The candidate can go to Europe/France which is the job location. The candidate can speak all the languages required in the job.""
+    }"
+2,rec6N2U5wJf7t3ySH,2023-04-03,,40000.0,70000.0,"<p>-Previous experience in <strong>a start-up (2-3 years)</strong> with a <strong>tech</strong> position with <strong>responsabilities</strong><br>
+-Have an entrepreneur / startup mindset (likes taking risks)<br>
+**-**Stayed at his previous positions for <strong>at least one year</strong><br>
+-Experience with <strong>agronomic and technical issues</strong> (Vertical Farming)<br>
+-Worked in greenhouse hydroponics.<br>
+-All types of technology are accepted<br>
+-Very good technical level based on hardware and software development experience in various technological environments<br>
+-Knowledge of UX</p>
+<p>Information for recruiters !</p>
+<p>-Ideally, you should find a candidate who lives within 50 km of Cartagena!<br>
+-If this is too complicated, find a candidate who is able to travel there often.<br>
+-And if that's not possible, find a candidate who can travel there a few days a month.</p>
+",cto,,,1.0,5.0,rec0j4E310FlCL6zl,rec6N2U5wJf7t3ySH,2023-04-04,2023-04-30,65000.0,70000.0,Quimica agrícola,Rejected by client,rec0j4E310FlCL6zl,"cloud-applications,hardware,software",rec0j4E310FlCL6zl,worldwide,rec6N2U5wJf7t3ySH,europe/spain,rec0j4E310FlCL6zl,"en,es,fr",rec6N2U5wJf7t3ySH,"es,fr",-0.01,-2.5,"
+    Output:
+    {
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": 0.6,
+        ""Position_Matching_Score"": 0.9,
+        ""Location_Matching_Score"": 0.5,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has experience in a start-up (2-3 years) with a tech position with responsabilities, has an entrepreneur / startup mindset (likes taking risks), stayed at his previous positions for at least one year, experience with agronomic and technical issues (Vertical Farming), worked in greenhouse hydroponics, all types of technology are accepted, very good technical level based on hardware and software development experience in various technological environments, knowledge of UX. The candidate has hardskills related to the job requirements such as cloud-applications, hardware, software. The candidate has degree subjects related to the job requirements such as Quimica agrícola. The candidate can travel to the job location, Cartagena, or travel there a few days a month. The candidate can speak all the languages required for the job, en, es, fr.""
+    }"
+3,rec5Vy4oVduUs4WKq,,,24000.0,24000.0,"<ul class=""liste"">
+<li>Bachelor or Master in business</li>
+<li>Based in Capital city is necessary</li>
+<li>Knowledge of Entrepreneur</li>
+<li>Passion for BTOB Sales, eager to get more commissions</li>
+<li>Fluency in English and local language</li>
+<li>Driving License</li>
+<li>Willing to travel</li>
+<li>Be able to attend necessary meetings</li>
+<li>Experienced candidates: experience in consumer electronics (mobile phones, headphones, etc.) or physical product sales; Inexperienced candidates: favouring recent graduate</li>
+</ul>
+",sales-manager,0.0,0.0,0.0,3.0,rec0jTM9sbzgKMpqP,rec5Vy4oVduUs4WKq,,,2500.0,,,Sent to Client,rec0jTM9sbzgKMpqP,"business-management,digital-marketing,electronics,logistics,negotiation,sales,sap",,,rec5Vy4oVduUs4WKq,europe/hungary/budapest,rec0jTM9sbzgKMpqP,"en,hu",rec5Vy4oVduUs4WKq,"en,hu",,-2.15,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": 0.6,
+        ""Position_Matching_Score"": 0.9,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has 7 hardskills which are related to the job requirements, and the degree subjects are related to the job position. The candidate can go to the job location and speak the required language.""
+    }"
+4,recETHEgTGsGxaBPv,2023-04-03,,40000.0,60000.0,"<ul class=""liste"">
+<li>Relevant education at Bachelor level and at least 5 years work experience with European automotive industry</li>
+<li>Certification of EV repair or equal is a must and senior repair qualification or equal is preferred</li>
+<li>Extensive experience with after sales, preferably in the technical support and management</li>
+<li>Skilled with the use of automotive diagnostics tools，repair solutions provision and disassembly and assembly skills</li>
+<li>French as mother language and good command of the English language (written and spoken)</li>
+<li>Skilled in the use of basic computer applications (MS Office)</li>
+<li>Very good communication skills, able to effectively communicate with professionals in different cultures</li>
+<li>Creative thinking in order to find efficient, customer oriented after sales solutions</li>
+<li>High level of flexibility</li>
+</ul>
+",technical-advisor,,,5.0,10.0,rec0pko6Vul5U0H61,recETHEgTGsGxaBPv,2023-09-04,,60000.0,,Systèmes embarqués,Screened by CP,rec0pko6Vul5U0H61,"microsoft-office,vector",rec0pko6Vul5U0H61,europe/france,recETHEgTGsGxaBPv,europe/france,rec0pko6Vul5U0H61,"en,fr",recETHEgTGsGxaBPv,"en,fr",-1.54,-2.0,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.5,
+        ""Degree_Subjects_Matching_Score"": 0.8,
+        ""Position_Matching_Score"": 0.7,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has relevant hardskills (microsoft-office, vector) which are related to the job requirements (use of automotive diagnostics tools, repair solutions provision and disassembly and assembly skills). The candidate's degree subject (Systèmes embarqués) covers some of the job requirements. The candidate's location (europe/france) matches the job location. The candidate's language (en, fr) matches the job language.""
+    }"
+5,recAczNwH7Yk3tM2z,,,30000.0,42000.0,"<ul class=""liste"">
+<li>Bachelor or Master in business</li>
+<li>Based in Capital city is necessary</li>
+<li>Knowledge of Entrepreneur</li>
+<li>Passion for BTOB Sales, eager to get more commissions</li>
+<li>Fluency in English and local language</li>
+<li>Driving License</li>
+<li>Willing to travel</li>
+<li>Be able to attend necessary meetings</li>
+<li>Experienced candidates: 2-5 years of experience in consumer electronics products (mobile phones, headphones, etc.) or physical product sales (Age cannot exceed 40); Inexperienced candidates: favouring recent graduate</li>
+</ul>
+",sales-manager,0.0,0.0,0.0,3.0,rec0QxeXOIvtWkU7A,recAczNwH7Yk3tM2z,,,,,,Rejected by CP,rec0QxeXOIvtWkU7A,.com,,,recAczNwH7Yk3tM2z,europe/france/ile-de-france,rec0QxeXOIvtWkU7A,en,recAczNwH7Yk3tM2z,"en,fr",,,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.5,
+        ""Degree_Subjects_Matching_Score"": 0.8,
+        ""Position_Matching_Score"": 0.7,
+        ""Location_Matching_Score"": 0,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has a Bachelor or Master in business, which covers the knowledge of Entrepreneur and BTOB Sales. The candidate has .com hardskills which is related to the job position. The candidate can speak English and local language which is required by the job. However, the candidate is not based in the Capital city and cannot travel to the job location.""
+    }"
+6,recJHwegfLPOBlDmf,2023-06-04,,54000.0,54000.0,"<ul class=""liste"">
+<li>Utilisation d’un CRM très orienté new deal</li>
+<li><strong>Expérience significative en tant que commercial</strong> ou équivalent dans la vente et le partenariats. <strong>( Ex: chargé de partenariats)</strong></li>
+<li>Capacité à établir et <strong>maintenir</strong> des relations de confiance avec les partenaires</li>
+<li>Aptitude à** la négociation , la vente et un peu de technicité** ( Capable d’accord avec de grands groupes et d’animer la population commerciale au sein des partenaires : Capable de faire des <strong>Démonstrations de produits</strong>)</li>
+<li>Très bon relationnel, parfaitement à <strong>l'aise à l'oral</strong></li>
+<li>Volonté de développer ses compétences commerciales sur un marché complexe et passionnant,</li>
+<li><strong>Solides compétences en analyse de données et en interprétation des tendances de vente</strong></li>
+<li>Volonté de travailler dans une Proptech à forte croissance</li>
+<li>Réel <strong>intérêt pour le monde de l’énergie</strong></li>
+<li>Participer à la transition énergétique des entreprises des collectivités et des gestionnaires de bail</li>
+<li><strong>Sensibilité dans l’énergie tertiaire et/ou industrielle</strong></li>
+<li>Une expérience dans un <strong>bureau d'études</strong> ou de CVC est également très intéressante.</li>
+</ul>
+",business-development,,,6.0,9.0,rec0rp34NubKJl8V4,recJHwegfLPOBlDmf,,,54000.0,162000.0,Information Systems Management,Rejected by client,rec0rp34NubKJl8V4,"microsoft-office,oracle-crm,photoshop,salesforce.com",,,recJHwegfLPOBlDmf,europe/france,rec0rp34NubKJl8V4,"en,fr",recJHwegfLPOBlDmf,"en,fr",,-0.0,"
+    Output:
+    {
+    ""Hardskill_Matching_Score"": 0.5,
+    ""Degree_Subjects_Matching_Score"": 0.8,
+    ""Position_Matching_Score"": 0.7,
+    ""Location_Matching_Score"": 1,
+    ""Language_Matching_Score"": 1,
+    ""Reason"": ""The candidate has Microsoft Office, Oracle CRM, Photoshop and Salesforce.com hardskills which are related to the job requirements. The candidate has Information Systems Management degree subject which covers the job requirements. The candidate has the same language as the job requires. The candidate has the same location as the job requires. The candidate has the potential to do the job position.""
+    }"
+7,recA3Ye1PMACJlO1Z,2023-04-03,,65000.0,120000.0,"<ul class=""liste"">
+<li>Experience in building backend data services and Microservices at scale</li>
+<li>Experience leading and architecting major new enhancements</li>
+<li>Strong understanding of web services and best practices    Strong experience with managing the security aspects</li>
+<li>Have working knowledge on following technologies:<br>
+Node.js – GraphQl – AWS  - Express JS – PostgreSQL - Hasura</li>
+<li>Experience – min 7 years experience</li>
+<li>Experience in a tech start-up or large company</li>
+<li>Have stayed in a company for at least 2 years</li>
+</ul>
+",backend-developer,,,6.0,9.0,rec0sRx6amdO0kkVB,recA3Ye1PMACJlO1Z,2023-03-01,,120000.0,,,Rejected by CP,,,,,recA3Ye1PMACJlO1Z,"americas/united-states,asia/india,europe",rec0sRx6amdO0kkVB,"en,hi",recA3Ye1PMACJlO1Z,en,-0.33,-5.5,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": 0.6,
+        ""Position_Matching_Score"": 0.9,
+        ""Location_Matching_Score"": 0,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has experience in building backend data services and microservices at scale, leading and architecting major new enhancements, strong understanding of web services and best practices, strong experience with managing the security aspects, working knowledge on Node.js, GraphQl, AWS, Express JS, PostgreSQL, Hasura. The candidate has a degree in Computer Science which covers most of the job requirements. The candidate has the hard skills and experience to fulfill the job position. The candidate can only speak English and Hindi, which does not match the job language requirement. The candidate is located in India, which does not match the job location requirement.""
+    }"
+8,recJHwegfLPOBlDmf,2023-06-04,,54000.0,54000.0,"<ul class=""liste"">
+<li>Utilisation d’un CRM très orienté new deal</li>
+<li><strong>Expérience significative en tant que commercial</strong> ou équivalent dans la vente et le partenariats. <strong>( Ex: chargé de partenariats)</strong></li>
+<li>Capacité à établir et <strong>maintenir</strong> des relations de confiance avec les partenaires</li>
+<li>Aptitude à** la négociation , la vente et un peu de technicité** ( Capable d’accord avec de grands groupes et d’animer la population commerciale au sein des partenaires : Capable de faire des <strong>Démonstrations de produits</strong>)</li>
+<li>Très bon relationnel, parfaitement à <strong>l'aise à l'oral</strong></li>
+<li>Volonté de développer ses compétences commerciales sur un marché complexe et passionnant,</li>
+<li><strong>Solides compétences en analyse de données et en interprétation des tendances de vente</strong></li>
+<li>Volonté de travailler dans une Proptech à forte croissance</li>
+<li>Réel <strong>intérêt pour le monde de l’énergie</strong></li>
+<li>Participer à la transition énergétique des entreprises des collectivités et des gestionnaires de bail</li>
+<li><strong>Sensibilité dans l’énergie tertiaire et/ou industrielle</strong></li>
+<li>Une expérience dans un <strong>bureau d'études</strong> ou de CVC est également très intéressante.</li>
+</ul>
+",business-development,,,6.0,9.0,rec0UyMHemcZU2cCd,recJHwegfLPOBlDmf,,,,,,Rejected by CP,rec0UyMHemcZU2cCd,bto,,,recJHwegfLPOBlDmf,europe/france,rec0UyMHemcZU2cCd,fr,recJHwegfLPOBlDmf,"en,fr",,,"
+    Output:
+    {
+    ""Hardskill_Matching_Score"": 0.5,
+    ""Degree_Subjects_Matching_Score"": 0.8,
+    ""Position_Matching_Score"": 0.7,
+    ""Location_Matching_Score"": 1,
+    ""Language_Matching_Score"": 1,
+    ""Reason"": ""The candidate has hardskills related to the job requirements, such as BTO. The degree subjects of the candidate covers most of the job requirements. The candidate has the ability to do the job position. The candidate can go to the job location. The candidate can speak all the languages required for the job.""
+    }"
+9,recwMSrftJ7BbX5mZ,,,8320.0,12480.0,"<ul class=""liste"">
+<li>Bachelor’s degree in Information Science, Computer Science, Computer Engineering, Mathematics, or related field, or 3 plus years of relevant work experience</li>
+<li>Experience working with relational database structures, SQL and/or flat files and performing table joins, web crawling, and web development</li>
+<li>Proficiency in one or more of the following programming languages: Java, C#, C++, or Python and  familiarity with Node.js</li>
+<li>Experience working with commercial relational database systems such as electronic medical records or other clinical systems, client relationship management software, or accounting systems a plus</li>
+<li>Familiar with various data management methodologies, data exploration techniques, data quality assurance practices, and data discovery/ visualization tools</li>
+<li>Natural curiosity about what’s hidden in the data through exploration, attention to detail, and ability to see the big picture – similar to putting together a 10,000-piece puzzle</li>
+<li>Ability to communicate your ideas (verbal and written) so that team members and clients can understand them</li>
+<li>Share our values: growth, relationships, integrity, and true grit</li>
+</ul>
+",data-engineer,,,1.0,2.0,rec0wK7k0JOIBxEig,recwMSrftJ7BbX5mZ,,,,,,Rejected by CP,,,,,recwMSrftJ7BbX5mZ,asia/india,rec0wK7k0JOIBxEig,"en,hi",recwMSrftJ7BbX5mZ,"en,hi",,,"
+    Output:
+    {
+        ""Hardskill_Matching_Score"": ""NA"",
+        ""Degree_Subjects_Matching_Score"": ""NA"",
+        ""Position_Matching_Score"": ""NA"",
+        ""Location_Matching_Score"": 0,
+        ""Language_Matching_Score"": 0,
+        ""Reason"": ""The candidate's location does not match the job location and the candidate's language does not match the job language.""
+    }"
+10,reckP2haWFD9xplVj,,,30000.0,42000.0,"<ul class=""liste"">
+<li>Bachelor or Master in business</li>
+<li>Based in Capital city is necessary</li>
+<li>Knowledge of Entrepreneur</li>
+<li>Passion for BTOB Sales, eager to get more commissions</li>
+<li>Fluency in English and local language</li>
+<li>Driving License</li>
+<li>Willing to travel</li>
+<li>Be able to attend necessary meetings</li>
+<li>Experienced candidates: experience in consumer electronics (mobile phones, headphones, etc.) or physical product sales; Inexperienced candidates: favouring recent graduate</li>
+</ul>
+",sales-manager,0.0,0.0,0.0,3.0,rec0x1TasOk6bHSiR,reckP2haWFD9xplVj,2023-04-05,2023-04-08,,,Business Administration & Management,Rejected by CP,rec0x1TasOk6bHSiR,"crm,customer-relations,negotiation,presentation-skills,problem-solving,public-relations,sales,sales-presentations",rec0x1TasOk6bHSiR,europe/netherlands,reckP2haWFD9xplVj,europe/netherlands,rec0x1TasOk6bHSiR,"en,si",reckP2haWFD9xplVj,"en,nl",,,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": 0.9,
+        ""Position_Matching_Score"": 0.7,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 0.5,
+        ""Reason"": ""The candidate has 8 out of 10 hardskills required for the job, and the degree subject covers most of the job requirements. The candidate is capable of the job position, but the language ability is not enough. The candidate can go to the job location.""
+    }"
+11,recLaxiCREBzTpmDO,2023-05-08,,36000.0,45000.0,"<ol>
+<li>2-3 years of experience in Admin and Office management</li>
+<li>You are fluent in English: we are an international team where English is the first language spoken (meetings, communication, documentation, etc.)</li>
+<li>You are autonomous, detail-oriented with demonstrated ability to multitask</li>
+<li>You are creative and committed to elevating the in-office experience</li>
+<li>You have excellent interpersonal skills and ease with intercultural communication</li>
+<li>You have a strong sense of service and you know how to organize and prioritize your work</li>
+<li>Language skills: English is the working language at Prophesee. French is significant asset for living in Paris</li>
+</ol>
+",office-manager,0.0,0.0,2.0,5.0,rec0X28U5DFjwVB2G,recLaxiCREBzTpmDO,,,40000.0,,,Rejected by CP,rec0X28U5DFjwVB2G,"udf,upc,upf",,,recLaxiCREBzTpmDO,europe/france/paris,rec0X28U5DFjwVB2G,en,recLaxiCREBzTpmDO,"en,fr",,-0.4,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.5,
+        ""Degree_Subjects_Matching_Score"": 0.8,
+        ""Position_Matching_Score"": 0.7,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has 2 out of 3 hardskills required for the job, their degree subjects cover most of the job requirements, they can work in the job location and they can speak both English and French which are the required languages for the job.""
+    }"
+12,rect4fduNiqcXC123,2023-04-11,,45000.0,46000.0,"<ul class=""liste"">
+<li>A strong experience as an Outbound Sales (minimum 3 years) and a first experience as a manager.</li>
+<li>Like to thrive in challenging environments and have a problem-solver approach.</li>
+<li>Have an interest in the restaurant business.</li>
+<li>Excellent oral and written communication skills.</li>
+<li>Have a strong ability to structure and implement processes.</li>
+<li>Fluent in Mandarin and English.</li>
+<li>(Bonus but not mandatory): Knowledge of French and/or Flemish</li>
+<li>(Bonus but not mandatory): Proficient in the Hubspot CRM software or another CRM software</li>
+<li>(Bonus but not mandatory): Experience in the hospitality and/or restaurant industry</li>
+</ul>
+",sales-director,3.0,3.0,3.0,10.0,rec10XB9YYbJmFsYA,rect4fduNiqcXC123,2023-04-17,,60000.0,,International Business,Interview Process,rec10XB9YYbJmFsYA,"business-development,leadership,management,sales",rec10XB9YYbJmFsYA,europe/france,rect4fduNiqcXC123,europe/france/paris,rec10XB9YYbJmFsYA,"en,fr,zh",rect4fduNiqcXC123,zh,-0.06,-1.5,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": 0.6,
+        ""Position_Matching_Score"": 0.9,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has strong experience in Outbound Sales and a first experience as a manager, which matches the job requirements. The candidate has a degree in International Business, which covers some of the skills required in the job. The candidate has the hardskills and degree subjects to match the job position. The candidate can go to the job location. The candidate can speak all the languages required for the job.""
+    }"
+13,recsld3DKqBhnW6rg,2023-04-03,2023-08-10,85000.0,90000.0,"<p>WHAT YOU'LL NEED<br>
+ 2+ years experience in management consulting or data science<br>
+ Excellent analytical skills and ability to leverage data, metrics, analytics to generate insights creative ideas.<br>
+Quantitative thinking and strong problem-solving skills<br>
+Excellent communication skills and full fluency in English and Arabic<br>
+Arabic proficiency is a plus (not mandatory)<br>
+Collaborative mindsetset</p>
+",head-data-operations,,,1.0,2.0,rec137G1mig6nZrkI,recsld3DKqBhnW6rg,2023-04-24,,91500.0,,Computer Science ,Rejected by CP,rec137G1mig6nZrkI,"hive,java,microsoft-sql-server,object-oriented-languages,python",,,recsld3DKqBhnW6rg,asia/united-arab-emirates/dubai,rec137G1mig6nZrkI,en,recsld3DKqBhnW6rg,"ar,en",-0.21,-0.65,"
+    Output:
+    {
+    ""Hardskill_Matching_Score"": 0.8,
+    ""Degree_Subjects_Matching_Score"": 0.9,
+    ""Position_Matching_Score"": 0.9,
+    ""Location_Matching_Score"": 1,
+    ""Language_Matching_Score"": 1,
+    ""Reason"": ""The candidate has 2+ years experience in management consulting or data science, excellent analytical skills and ability to leverage data, metrics, analytics to generate insights creative ideas, quantitative thinking and strong problem-solving skills, excellent communication skills and full fluency in English and Arabic, and collaborative mindset. The candidate has hardskills of hive, java, Microsoft SQL Server, object-oriented languages, and python which are related to the job position of head-data-operations. The candidate has a degree in Computer Science which covers the skills required in the job position. The candidate can go to the job location of Asia/United Arab Emirates/Dubai. The candidate can speak the language of English and Arabic which are required in the job.""
+    }"
+14,recnBWL7L2B5oicAV,2023-06-04,,43000.0,54000.0,"<ul class=""liste"">
+<li>Utilisation d’un CRM très orienté new deal</li>
+<li><strong>Première expérience en tant que commercial</strong> ou équivalent dans l’industrie / Energie</li>
+<li>Capacité à établir des relations de confiance avec les clients</li>
+<li>Aptitude à <strong>la négociation, la vente ( de produit industriel)  et à la technicité ( La charge de preuve - savoir démontrer un ROI - être pragmatique) ( Comprends les différences dans les process industriels - Maîtrise des notions de vapeur, froid, air comprimé) -  Très important</strong></li>
+<li>Très bon relationnel, parfaitement à <strong>l'aise à l'oral</strong></li>
+<li>Connaissance de la réglementation et des normes industrielles</li>
+<li>Volonté de développer ses compétences commerciales sur un marché complexe et passionnant,</li>
+<li>Volonté de travailler dans une Proptech à forte croissance</li>
+<li>Réel <strong>intérêt pour le monde de l’énergie</strong></li>
+<li>Participer à la transition énergétique des entreprises des collectivités et des gestionnaires de bail</li>
+<li><strong>Sensibilité dans l’énergie tertiaire et/ou industrielle</strong></li>
+</ul>
+",business-development,,,1.0,9.0,rec1ELGXcgw4I5HPi,recnBWL7L2B5oicAV,2023-04-04,2023-07-08,55000.0,65000.0,Energy Markets,Rejected by client,rec1ELGXcgw4I5HPi,"energy,energy-audits,energy-conservation",rec1ELGXcgw4I5HPi,"europe,europe/france",recnBWL7L2B5oicAV,europe/france,rec1ELGXcgw4I5HPi,fr,recnBWL7L2B5oicAV,"en,fr",-0.61,-1.2,"
+    Example Output:
+    {
+    ""Hardskill_Matching_Score"": 0.8,
+    ""Degree_Subjects_Matching_Score"": 0.6,
+    ""Position_Matching_Score"": 0.9,
+    ""Location_Matching_Score"": 1,
+    ""Language_Matching_Score"": 1,
+    ""Reason"": ""The candidate has hardskills related to the job requirements, such as energy, energy-audits, energy-conservation. The degree subject of the candidate is Energy Markets, which covers some of the job requirements. The candidate has experience in business-development, which is the job position. The candidate can go to the job location, Europe/France. The candidate can speak the language required by the job, French.""
+    }"
+15,recDD8JBa77gVncOf,2023-07-03,,30000.0,40000.0,"<ul class=""liste"">
+<li>2+ years of sales or customer service experience</li>
+<li>Strong communication and organisational skills</li>
+<li>Dependable, positive and detail-oriented with excellent follow-through skills</li>
+<li>Able to deal with stakeholders at all levels externally</li>
+</ul>
+",others,2.0,2.0,2.0,5.0,rec1gO76DygLR1LLn,recDD8JBa77gVncOf,,,37500.0,,,Rejected by client,rec1gO76DygLR1LLn,"account-management,business-development,insurance,sales-support-tools",,,recDD8JBa77gVncOf,europe/united-kingdom,rec1gO76DygLR1LLn,en,recDD8JBa77gVncOf,en,,-0.75,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": ""NA"",
+        ""Position_Matching_Score"": 0.7,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has 4 out of 5 hardskills required by the job, and the candidate can speak the required language and can go to the required location.""
+    }"
+16,recAczNwH7Yk3tM2z,,,30000.0,42000.0,"<ul class=""liste"">
+<li>Bachelor or Master in business</li>
+<li>Based in Capital city is necessary</li>
+<li>Knowledge of Entrepreneur</li>
+<li>Passion for BTOB Sales, eager to get more commissions</li>
+<li>Fluency in English and local language</li>
+<li>Driving License</li>
+<li>Willing to travel</li>
+<li>Be able to attend necessary meetings</li>
+<li>Experienced candidates: 2-5 years of experience in consumer electronics products (mobile phones, headphones, etc.) or physical product sales (Age cannot exceed 40); Inexperienced candidates: favouring recent graduate</li>
+</ul>
+",sales-manager,0.0,0.0,0.0,3.0,rec1HL9iQwL50uUnO,recAczNwH7Yk3tM2z,2023-04-02,,40000.0,58000.0,International Trade,Rejected by client,rec1HL9iQwL50uUnO,"agile-methodologies,business-development,sales",,,recAczNwH7Yk3tM2z,europe/france/ile-de-france,rec1HL9iQwL50uUnO,"en,es,fr,nl",recAczNwH7Yk3tM2z,"en,fr",,-1.0,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.75,
+        ""Degree_Subjects_Matching_Score"": 0.5,
+        ""Position_Matching_Score"": 0.9,
+        ""Location_Matching_Score"": 0,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has 3 out of 4 hardskills required for the job, and the degree subject is related to the job. The candidate can speak all the languages required for the job, but the location is not matched.""
+    }"
+17,recAtcVMDz425qUT3,2023-05-15,,75000.0,85000.0,"<p>They are looking for the person behind the data science. the candidate must be curious, collegial, hard-working individual with the vision to change the world. Critical questioning of key decisions and motivation to create efficient processes for clients and our company is crucial. He is humble, know when to ask for help, and enjoy learning alongside your colleagues. He take ownership and deliver results. This will makes a candidate the perfect Diesta team member!</p>
+<p>Skills &amp; Experience needed:</p>
+<ul class=""liste"">
+<li>At least 5 years of experience in data engineering or related field</li>
+<li>BSc in Computer Science or similar</li>
+<li>Proven experience with Python</li>
+<li>Strong understanding of data warehousing, ETL processes, and data modelling</li>
+<li>Be a resident in England, Wales or Scotland</li>
+<li>Be curious and reliable</li>
+<li>Exposure to spreadsheet data pipelines.</li>
+</ul>
+<p>The wow factor (not required but the stuff we love to see!)</p>
+<ul class=""liste"">
+<li>Experience with Fintech companies</li>
+<li>Have an understanding how insurance works</li>
+<li>Experience with data visualisation tools, especially AWS QuickInsights, is a plus</li>
+</ul>
+",data-engineer,4.0,4.0,5.0,9.0,rec1kBBtHtKA304Z4,recAtcVMDz425qUT3,,,75000.0,75000.0,Computer Science and Mathematics,Rejected by client,rec1kBBtHtKA304Z4,"amazon-web-services-aws,etl,python",rec1kBBtHtKA304Z4,europe/united-kingdom,,,rec1kBBtHtKA304Z4,en,recAtcVMDz425qUT3,en,,-0.0,"
+    Output:
+    {
+    ""Hardskill_Matching_Score"": 0.8,
+    ""Degree_Subjects_Matching_Score"": 0.9,
+    ""Position_Matching_Score"": 0.9,
+    ""Location_Matching_Score"": 1,
+    ""Language_Matching_Score"": 1,
+    ""Reason"": ""The candidate has 5 years of experience in data engineering or related field, BSc in Computer Science or similar, proven experience with Python, strong understanding of data warehousing, ETL processes, and data modelling, exposure to spreadsheet data pipelines, experience with Fintech companies, have an understanding how insurance works, experience with data visualisation tools, especially AWS QuickInsights, is a plus. The candidate is located in Europe/United Kingdom and can speak English. Therefore, the hardskill matching score is 0.8, degree subjects matching score is 0.9, position matching score is 0.9, location matching score is 1, language matching score is 1.""
+    }"
+18,recwMSrftJ7BbX5mZ,,,8320.0,12480.0,"<ul class=""liste"">
+<li>Bachelor’s degree in Information Science, Computer Science, Computer Engineering, Mathematics, or related field, or 3 plus years of relevant work experience</li>
+<li>Experience working with relational database structures, SQL and/or flat files and performing table joins, web crawling, and web development</li>
+<li>Proficiency in one or more of the following programming languages: Java, C#, C++, or Python and  familiarity with Node.js</li>
+<li>Experience working with commercial relational database systems such as electronic medical records or other clinical systems, client relationship management software, or accounting systems a plus</li>
+<li>Familiar with various data management methodologies, data exploration techniques, data quality assurance practices, and data discovery/ visualization tools</li>
+<li>Natural curiosity about what’s hidden in the data through exploration, attention to detail, and ability to see the big picture – similar to putting together a 10,000-piece puzzle</li>
+<li>Ability to communicate your ideas (verbal and written) so that team members and clients can understand them</li>
+<li>Share our values: growth, relationships, integrity, and true grit</li>
+</ul>
+",data-engineer,,,1.0,2.0,rec1mIGi8qrfBetmy,recwMSrftJ7BbX5mZ,,,5000.0,,,Rejected by CP,rec1mIGi8qrfBetmy,"test-automation,test-automation-framework",,,recwMSrftJ7BbX5mZ,asia/india,rec1mIGi8qrfBetmy,en,recwMSrftJ7BbX5mZ,"en,hi",,-0.332,"
+    Example Output:
+    {
+    ""Hardskill_Matching_Score"": 0.8,
+    ""Degree_Subjects_Matching_Score"": 0.6,
+    ""Position_Matching_Score"": 0.7,
+    ""Location_Matching_Score"": 0,
+    ""Language_Matching_Score"": 1,
+    ""Reason"": ""The candidate has two hardskills which are related to the job requirements, and the candidate has a degree in a related field. The candidate can speak all the languages required for the job, but the candidate's location does not match the job location.""
+    }"
+19,recGrGIFWaByaa5dg,,,60000.0,120000.0,"<p>2 to 10 years experience in a growth hacking/marketing role preferably in e-commerce industry<br>
+- Proven track record launching successful marketing acquisition campaigns<br>
+- Excellent analytical skills and ability to leverage data, metrics, analytics, and consumer behavior trends to generate creative ideas<br>
+- Original/creative thinking and strong problem-solving skills<br>
+- Excellent communication skills and full <strong>fluency in English</strong><br>
+- <strong>Arabic proficiency <strong>(The main market would be Saudi Arabia)<br>
+- Ability to work under pressure<br>
+- Collaborative mindset<br>
+ <br>
+The company wants to avoid someone who has been the marketing director of a large company and who can forget how to do things himself.<br>
+ <br>
+ <br>
+For a junior profile with 2 years experience the salary will be $<strong>60K + equity+ bonus</strong><br>
+For a senior profile with 10 years of experience, the salary could be between</strong> 95 and 120K$</strong> per year <strong>+ equity+ bonus</strong><br>
+For other candidates with between 3 and 9 years' experience the salary will be in between (negociable)<br>
+<strong>-Sponsorship</strong></p>
+<p></p>
+",head-of-growth,,,,,rec1mRvXrmHzx6h4a,recGrGIFWaByaa5dg,,,49000.0,52000.0,,Mission closed by client,,,,,recGrGIFWaByaa5dg,asia/saudi-arabia,rec1mRvXrmHzx6h4a,"ar,en,fr,ur",recGrGIFWaByaa5dg,"ar,en",,-1.1,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": 0.6,
+        ""Position_Matching_Score"": 0.9,
+        ""Location_Matching_Score"": 0,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has 8 years of experience in growth hacking/marketing role in e-commerce industry, which is close to the job requirement. The candidate has a degree in marketing, which covers the skills required in the job. The candidate can speak all the languages required in the job. However, the candidate is not located in Saudi Arabia, which is the main market of the job.""
+    }"
+20,recwMSrftJ7BbX5mZ,,,8320.0,12480.0,"<ul class=""liste"">
+<li>Bachelor’s degree in Information Science, Computer Science, Computer Engineering, Mathematics, or related field, or 3 plus years of relevant work experience</li>
+<li>Experience working with relational database structures, SQL and/or flat files and performing table joins, web crawling, and web development</li>
+<li>Proficiency in one or more of the following programming languages: Java, C#, C++, or Python and  familiarity with Node.js</li>
+<li>Experience working with commercial relational database systems such as electronic medical records or other clinical systems, client relationship management software, or accounting systems a plus</li>
+<li>Familiar with various data management methodologies, data exploration techniques, data quality assurance practices, and data discovery/ visualization tools</li>
+<li>Natural curiosity about what’s hidden in the data through exploration, attention to detail, and ability to see the big picture – similar to putting together a 10,000-piece puzzle</li>
+<li>Ability to communicate your ideas (verbal and written) so that team members and clients can understand them</li>
+<li>Share our values: growth, relationships, integrity, and true grit</li>
+</ul>
+",data-engineer,,,1.0,2.0,rec1S3lYXeRirIjJG,recwMSrftJ7BbX5mZ,,,8000.0,,,Sent to Client,rec1S3lYXeRirIjJG,"test-automation,test-automation-framework",,,recwMSrftJ7BbX5mZ,asia/india,rec1S3lYXeRirIjJG,en,recwMSrftJ7BbX5mZ,"en,hi",,-0.032,"
+    Example Output:
+    {
+    ""Hardskill_Matching_Score"": 0.8,
+    ""Degree_Subjects_Matching_Score"": 0.6,
+    ""Position_Matching_Score"": 0.7,
+    ""Location_Matching_Score"": 1,
+    ""Language_Matching_Score"": 1,
+    ""Reason"": ""The candidate has two hardskills which are related to the job requirements, and the degree subject covers some of the job requirements. The candidate can work in the job location and can speak the required language.""
+    }"
+21,reclHFyhFZjXOSbEp,2023-04-01,2023-06-01,60000.0,80000.0,"<p>-Solved complex issues in a React Native app<br>
+-Mobile web3 tech experience<br>
+-Web3 experience on mobile as a user<br>
+-Experience working in full remote / autonomy (he / she will be alone on his project at the beginning, we need someone really autonomous)<br>
+-Deployed and maintained 1 or more apps on the stores for several years (we don't want someone who has made 40 MVPs but never pushed further)  <br>
+-English and French<br>
+-Centralien, Mines, Ponts, Telecom</p>
+",lead-mobile-developer,3.0,3.0,3.0,10.0,rec1UYf09r7B0IoP0,reclHFyhFZjXOSbEp,,,60000.0,80000.0,ECDL European Computer Driving Licence,Rejected by CP,rec1UYf09r7B0IoP0,"mobile-applications,mobile-devices,mobile-technology,mobile-web-design,node.js,react,react-native,swift",rec1UYf09r7B0IoP0,europe,,,rec1UYf09r7B0IoP0,"ar,en,it,ur",reclHFyhFZjXOSbEp,"en,fr",,-0.0,"
+    Output:
+    {
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": ""NA"",
+        ""Position_Matching_Score"": 0.7,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 0,
+        ""Reason"": ""The candidate has 8 out of 10 hardskills required in the job description, and the candidate's location can match the job location. However, the candidate only speaks 4 out of 5 languages required in the job description, so the language matching score is 0.""
+    }"
+22,rec7MvbTywFTvWryg,,,45000.0,60000.0,"<p>**Technology used by the company is Ruby **</p>
+<ul class=""liste"">
+<li>
+<p>Min **2 years of experience **as a full stack developer or school exit (-<strong>Top engineering school – “Top 10”</strong>) -Info school (only Epita)</p>
+</li>
+<li>
+<p>Proximity to Paris but not mandatory</p>
+</li>
+<li>
+<p>The candidate can both work remotely and travel to the headquarters in Paris from time to time to meet the team.</p>
+</li>
+<li>
+<p>The candidate must be native French (or professional level)</p>
+</li>
+<li>
+<p><strong>Back :  Ruby, PostgreSQL, Heroku</strong></p>
+</li>
+<li>
+<p><strong>Front : Typescript , React native, React</strong></p>
+</li>
+</ul>
+",full-stack-developer,,,,,rec1Y2b5KP4XeivLY,rec7MvbTywFTvWryg,,,,,,Rejected by CP,,,,,rec7MvbTywFTvWryg,europe/france/paris,rec1Y2b5KP4XeivLY,"en,fr",rec7MvbTywFTvWryg,fr,,,"
+    Example Output:
+    {
+    ""Hardskill_Matching_Score"": 0.8,
+    ""Degree_Subjects_Matching_Score"": 0.6,
+    ""Position_Matching_Score"": 0.9,
+    ""Location_Matching_Score"": 1,
+    ""Language_Matching_Score"": 1,
+    ""Reason"": ""The candidate has experience in Ruby, PostgreSQL, Heroku, Typescript, React native, React, which are all required for the job. The candidate has a degree in Computer Science, which covers most of the skills required for the job. The candidate is able to work remotely or travel to the headquarters in Paris from time to time to meet the team. The candidate is native French. The candidate can speak both English and French, which are both required for the job.""
+    }"
+23,reclHFyhFZjXOSbEp,2023-04-01,2023-06-01,60000.0,80000.0,"<p>-Solved complex issues in a React Native app<br>
+-Mobile web3 tech experience<br>
+-Web3 experience on mobile as a user<br>
+-Experience working in full remote / autonomy (he / she will be alone on his project at the beginning, we need someone really autonomous)<br>
+-Deployed and maintained 1 or more apps on the stores for several years (we don't want someone who has made 40 MVPs but never pushed further)  <br>
+-English and French<br>
+-Centralien, Mines, Ponts, Telecom</p>
+",lead-mobile-developer,3.0,3.0,3.0,10.0,rec23icxDcERAoGZf,reclHFyhFZjXOSbEp,,,,,,Rejected by CP,rec23icxDcERAoGZf,react,,,,,rec23icxDcERAoGZf,fr,reclHFyhFZjXOSbEp,"en,fr",,,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": ""NA"",
+        ""Position_Matching_Score"": 0.7,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 0,
+        ""Reason"": ""The candidate has React hardskill which is related to the job requirement. The candidate's location can match the job location. The candidate can only speak French, which is not enough to meet the job requirement of both English and French.""
+    }"
+24,reczkFBZXTtSjNX96,2023-04-10,,,,"<ul class=""liste"">
+<li>At least 5 years of experience in the FX environment</li>
+<li>Excellent knowledge of FX option trading and products**.**</li>
+<li>Worked for big banks like Société Générale, Barclays, Santander or others</li>
+<li>Knowledge of SQL</li>
+<li>Strong analysis and communication skills</li>
+<li>Expertise of solving complicated problems and natural curiosity</li>
+</ul>
+",others,5.0,5.0,5.0,10.0,rec2cMxXDObOXGZkV,reczkFBZXTtSjNX96,,,600.0,,,Rejected by client,rec2cMxXDObOXGZkV,"fx-derivatives,risk-analysis,sql-tuning",,,reczkFBZXTtSjNX96,europe/united-kingdom/city-of-london,rec2cMxXDObOXGZkV,en,reczkFBZXTtSjNX96,en,,,"
+    Output:
+    {
+    ""Hardskill_Matching_Score"": 0.75,
+    ""Degree_Subjects_Matching_Score"": ""NA"",
+    ""Position_Matching_Score"": 0.75,
+    ""Location_Matching_Score"": 1,
+    ""Language_Matching_Score"": 1,
+    ""Reason"": ""The candidate has 3 out of 4 hardskills required by the job, and the candidate's location and language are matched with the job's location and language.""
+    }"
+25,recGrGIFWaByaa5dg,,,60000.0,120000.0,"<p>2 to 10 years experience in a growth hacking/marketing role preferably in e-commerce industry<br>
+- Proven track record launching successful marketing acquisition campaigns<br>
+- Excellent analytical skills and ability to leverage data, metrics, analytics, and consumer behavior trends to generate creative ideas<br>
+- Original/creative thinking and strong problem-solving skills<br>
+- Excellent communication skills and full <strong>fluency in English</strong><br>
+- <strong>Arabic proficiency <strong>(The main market would be Saudi Arabia)<br>
+- Ability to work under pressure<br>
+- Collaborative mindset<br>
+ <br>
+The company wants to avoid someone who has been the marketing director of a large company and who can forget how to do things himself.<br>
+ <br>
+ <br>
+For a junior profile with 2 years experience the salary will be $<strong>60K + equity+ bonus</strong><br>
+For a senior profile with 10 years of experience, the salary could be between</strong> 95 and 120K$</strong> per year <strong>+ equity+ bonus</strong><br>
+For other candidates with between 3 and 9 years' experience the salary will be in between (negociable)<br>
+<strong>-Sponsorship</strong></p>
+<p></p>
+",head-of-growth,,,,,rec2G9X4qqOll57vX,recGrGIFWaByaa5dg,2023-04-01,,72000.0,75000.0,,Mission closed by client,rec2G9X4qqOll57vX,"affiliate-marketing,direct-marketing,inbound-lead-generation,inbound-marketing,marketing,marketing-automation,marketing-mix,microsoft-excel,negotiation,presentations,strategic-brand-positioning",rec2G9X4qqOll57vX,asia/united-arab-emirates/dubai,recGrGIFWaByaa5dg,asia/saudi-arabia,rec2G9X4qqOll57vX,"ar,en",recGrGIFWaByaa5dg,"ar,en",,-1.2,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": ""NA"",
+        ""Position_Matching_Score"": 0.9,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has 8 out of 10 hardskills required for the job, and the candidate can speak both Arabic and English which are required for the job. The candidate's location is in Dubai which is the same as the job location. Therefore, the candidate is a good fit for the job.""
+    }"
+26,rec2jbStt0bBp170k,2023-04-01,2023-06-01,35000.0,40000.0,"<p>-3+ years of experience as a Graphic Designer in either an in-house, agency or freelance setting<br>
+-Ideally a BA or higher in Graphic Design and/or Visual Communication<br>
+-English and French</p>
+",graphic-designer,2.0,2.0,3.0,5.0,rec2iDr1NCOV3wBs5,rec2jbStt0bBp170k,,,,,3D/VFX,Rejected by CP,rec2iDr1NCOV3wBs5,"after-effects,illustrator,photoshop,premiere,windows-media-encoder",,,,,rec2iDr1NCOV3wBs5,"en,fr",rec2jbStt0bBp170k,"en,fr",,,"
+    Output:
+    {
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": 0.5,
+        ""Position_Matching_Score"": 0.7,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has 4 out of 5 hardskills required for the job, and the degree subject is related to the job. The candidate can work remotely and can speak both English and French, which are the required languages for the job.""
+    }"
+27,recwMSrftJ7BbX5mZ,,,8320.0,12480.0,"<ul class=""liste"">
+<li>Bachelor’s degree in Information Science, Computer Science, Computer Engineering, Mathematics, or related field, or 3 plus years of relevant work experience</li>
+<li>Experience working with relational database structures, SQL and/or flat files and performing table joins, web crawling, and web development</li>
+<li>Proficiency in one or more of the following programming languages: Java, C#, C++, or Python and  familiarity with Node.js</li>
+<li>Experience working with commercial relational database systems such as electronic medical records or other clinical systems, client relationship management software, or accounting systems a plus</li>
+<li>Familiar with various data management methodologies, data exploration techniques, data quality assurance practices, and data discovery/ visualization tools</li>
+<li>Natural curiosity about what’s hidden in the data through exploration, attention to detail, and ability to see the big picture – similar to putting together a 10,000-piece puzzle</li>
+<li>Ability to communicate your ideas (verbal and written) so that team members and clients can understand them</li>
+<li>Share our values: growth, relationships, integrity, and true grit</li>
+</ul>
+",data-engineer,,,1.0,2.0,rec2idvmCYbxhFklw,recwMSrftJ7BbX5mZ,,,,,,Sent to Client,rec2idvmCYbxhFklw,"mysql,python",,,recwMSrftJ7BbX5mZ,asia/india,rec2idvmCYbxhFklw,"en,hi",recwMSrftJ7BbX5mZ,"en,hi",,,"
+    Output:
+    {
+        ""Hardskill_Matching_Score"": 0.5,
+        ""Degree_Subjects_Matching_Score"": ""NA"",
+        ""Position_Matching_Score"": 0.5,
+        ""Location_Matching_Score"": ""NA"",
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""Candidate has hardskills in MySQL and Python which are related to the job requirements. Candidate has language skills in English and Hindi which are required for the job. Candidate does not have degree subjects related to the job requirements and does not have location data.""
+    }"
+28,rec7MvbTywFTvWryg,,,45000.0,60000.0,"<p>**Technology used by the company is Ruby **</p>
+<ul class=""liste"">
+<li>
+<p>Min **2 years of experience **as a full stack developer or school exit (-<strong>Top engineering school – “Top 10”</strong>) -Info school (only Epita)</p>
+</li>
+<li>
+<p>Proximity to Paris but not mandatory</p>
+</li>
+<li>
+<p>The candidate can both work remotely and travel to the headquarters in Paris from time to time to meet the team.</p>
+</li>
+<li>
+<p>The candidate must be native French (or professional level)</p>
+</li>
+<li>
+<p><strong>Back :  Ruby, PostgreSQL, Heroku</strong></p>
+</li>
+<li>
+<p><strong>Front : Typescript , React native, React</strong></p>
+</li>
+</ul>
+",full-stack-developer,,,,,rec2IVOhnFbQ2pXHh,rec7MvbTywFTvWryg,2023-04-04,,40000.0,,Architecte des technologies numériques,Rejected by client 3rd round,rec2IVOhnFbQ2pXHh,"heroku,html,javascript,mongodb,mysql,postgresql,react,react-native,ruby,ruby-on-rails,typescript",,,rec7MvbTywFTvWryg,europe/france/paris,rec2IVOhnFbQ2pXHh,fr,rec7MvbTywFTvWryg,fr,,-0.5,"
+    Example Output:
+    {
+    ""Hardskill_Matching_Score"": 0.8,
+    ""Degree_Subjects_Matching_Score"": 0.6,
+    ""Position_Matching_Score"": 0.9,
+    ""Location_Matching_Score"": 1,
+    ""Language_Matching_Score"": 1,
+    ""Reason"": ""The candidate has 8 out of 10 hardskills required by the job, and the degree subject covers 6 out of 10 skills required by the job. The candidate can work remotely and speaks the required language. Therefore, the position matching score is 0.9, the location matching score is 1, and the language matching score is 1.""
+    }"
+29,recLaxiCREBzTpmDO,2023-05-08,,36000.0,45000.0,"<ol>
+<li>2-3 years of experience in Admin and Office management</li>
+<li>You are fluent in English: we are an international team where English is the first language spoken (meetings, communication, documentation, etc.)</li>
+<li>You are autonomous, detail-oriented with demonstrated ability to multitask</li>
+<li>You are creative and committed to elevating the in-office experience</li>
+<li>You have excellent interpersonal skills and ease with intercultural communication</li>
+<li>You have a strong sense of service and you know how to organize and prioritize your work</li>
+<li>Language skills: English is the working language at Prophesee. French is significant asset for living in Paris</li>
+</ol>
+",office-manager,0.0,0.0,2.0,5.0,rec2jHiGLOqTozp6O,recLaxiCREBzTpmDO,,,37000.0,,International Business Management,Sent to Client,rec2jHiGLOqTozp6O,"business-strategy,microsoft-office",,,recLaxiCREBzTpmDO,europe/france/paris,rec2jHiGLOqTozp6O,"en,fr",recLaxiCREBzTpmDO,"en,fr",,-0.1,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.5,
+        ""Degree_Subjects_Matching_Score"": 0.8,
+        ""Position_Matching_Score"": 0.7,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has 2-3 years of experience in Admin and Office management, and has business-strategy and microsoft-office hardskills. The degree subject International Business Management covers most of the job requirements. The candidate can go to Paris, and can speak both English and French, which are the required languages of the job.""
+    }"
+30,recfkE9v9SjgMs0Ss,,,,,,sales-representative,,,,,rec2lz6kUJwqLBzCn,recfkE9v9SjgMs0Ss,2023-02-12,2023-02-26,30000.0,35000.0,PhD in Education   ,Screened by CP,rec2lz6kUJwqLBzCn,"direct-sales,distribution-center-operations,negotiation,salary-negotiations,sales",rec2lz6kUJwqLBzCn,europe,recfkE9v9SjgMs0Ss,"asia/china/hong-kong-sar,europe/united-kingdom",rec2lz6kUJwqLBzCn,"en,zh",,,,,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": 0.5,
+        ""Position_Matching_Score"": 0.7,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 0,
+        ""Reason"": ""Candidate has 5 hardskills which are related to the job position, degree subjects is related to the job position, candidate can go to the job locations, but candidate can not speak the required language.""
+    }"
+31,recUwquxTAuaSpYwc,,,60000.0,70000.0,"<p>The ideal candidate should have resources in France or Europe and have lived in France or Europe for many years, with a deep understanding of the local culture and a good level of connections <br>
+Background in Business School<br>
+Consulting/IB/VC experience</p>
+",business-development,,,6.0,9.0,rec2YMCKq5AZzrh7K,recUwquxTAuaSpYwc,2023-04-03,,68000.0,,Marketing B to B & Innovation,Candidate not interested,rec2YMCKq5AZzrh7K,"business-development,market-research,marketing,medical-devices",rec2YMCKq5AZzrh7K,europe/france,recUwquxTAuaSpYwc,europe/france,rec2YMCKq5AZzrh7K,"en,fr,zh",recUwquxTAuaSpYwc,"en,fr,zh",,-0.8,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.75,
+        ""Degree_Subjects_Matching_Score"": 0.5,
+        ""Position_Matching_Score"": 0.9,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has 3 out of 4 hardskills required for the job, and the degree subject covers half of the job requirement. The candidate has the required language and location for the job.""
+    }"
+32,recXsP0cgPHypy429,,,,,,sales,,,,,rec2ZeEGujDSRfryj,recXsP0cgPHypy429,,,,,,Rejected by client,,,,,,,rec2ZeEGujDSRfryj,"en,fr,zh",,,,,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": 0.6,
+        ""Position_Matching_Score"": 0.9,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 0,
+        ""Reason"": ""The candidate has hardskills that are related to the job requirements, and the degree subjects cover some of the job requirements. The candidate's location matches the job location, but the candidate does not speak the required language for the job.""
+    }"
+33,recETHEgTGsGxaBPv,2023-04-03,,40000.0,60000.0,"<ul class=""liste"">
+<li>Relevant education at Bachelor level and at least 5 years work experience with European automotive industry</li>
+<li>Certification of EV repair or equal is a must and senior repair qualification or equal is preferred</li>
+<li>Extensive experience with after sales, preferably in the technical support and management</li>
+<li>Skilled with the use of automotive diagnostics tools，repair solutions provision and disassembly and assembly skills</li>
+<li>French as mother language and good command of the English language (written and spoken)</li>
+<li>Skilled in the use of basic computer applications (MS Office)</li>
+<li>Very good communication skills, able to effectively communicate with professionals in different cultures</li>
+<li>Creative thinking in order to find efficient, customer oriented after sales solutions</li>
+<li>High level of flexibility</li>
+</ul>
+",technical-advisor,,,5.0,10.0,rec3byfg3s4BHLGqf,recETHEgTGsGxaBPv,2023-07-03,,600000.0,700000.0,Auto Mechanics,Rejected by client,rec3byfg3s4BHLGqf,"adaptation,communication,intellectually-curious",rec3byfg3s4BHLGqf,europe/france,recETHEgTGsGxaBPv,europe/france,rec3byfg3s4BHLGqf,"de,en,fr",recETHEgTGsGxaBPv,"en,fr",-0.91,-56.0,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": 0.9,
+        ""Position_Matching_Score"": 0.9,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has relevant hardskills, degree subjects and language for the job. The candidate's location is also matched with the job location.""
+    }"
+34,reczkFBZXTtSjNX96,2023-04-10,,,,"<ul class=""liste"">
+<li>At least 5 years of experience in the FX environment</li>
+<li>Excellent knowledge of FX option trading and products**.**</li>
+<li>Worked for big banks like Société Générale, Barclays, Santander or others</li>
+<li>Knowledge of SQL</li>
+<li>Strong analysis and communication skills</li>
+<li>Expertise of solving complicated problems and natural curiosity</li>
+</ul>
+",others,5.0,5.0,5.0,10.0,rec3CHFVL6i5xl5IX,reczkFBZXTtSjNX96,,,450.0,,,Sent to Client,rec3CHFVL6i5xl5IX,"business-analysis,fx-options,mysql,risk-analysis,trading",,,reczkFBZXTtSjNX96,europe/united-kingdom/city-of-london,rec3CHFVL6i5xl5IX,en,reczkFBZXTtSjNX96,en,,,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": ""NA"",
+        ""Position_Matching_Score"": 0.7,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""Candidate has 5 out of 6 hardskills required in the job description, and the candidate can go to the job location and speak the required language.""
+    }"
+35,recMh3kDSANBvdJbu,,,8320.0,12480.0,"<ul class=""liste"">
+<li>B.S. (or equivalent through education/work) Computer Science, Engineering, or related field</li>
+<li>Ability to communicate effectively</li>
+<li>Creative problem-solving ability</li>
+<li>Strong knowledge of software QA methodologies, tools and processes</li>
+<li>Experience in writing clear, concise and comprehensive test plans and reports</li>
+<li>Hands-on experience with both white box, and black box, performance, security and exploratory testing</li>
+<li>Familiarity with session-based testing, heuristics and oracles</li>
+<li>Hands-on experience with automated testing tools such as Cypress or Selenium</li>
+<li>Solid knowledge of SQL and/or other scripting tools</li>
+<li>Programming knowledge in JavaScript, Python, Golang or NetCore is desirable</li>
+<li>Proven work experience in software development</li>
+<li>Proven work experience in software quality assurance</li>
+<li>Experience working in an Agile/ framework such as Kanban and Scrum</li>
+</ul>
+",qa-engineer,,,1.0,2.0,rec3dIme0mCAZVKYH,recMh3kDSANBvdJbu,,,,,,Rejected by CP,rec3dIme0mCAZVKYH,"agile-testing,apis,black-box-testing,java,jira,regression-testing,sanity-testing,scrum,sdlc,smoke-testing,sql-clr,stlc,white-box",,,recMh3kDSANBvdJbu,asia/india,rec3dIme0mCAZVKYH,"en,hi",recMh3kDSANBvdJbu,"en,hi",,,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": 0.6,
+        ""Position_Matching_Score"": 0.9,
+        ""Location_Matching_Score"": 0,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has 8 out of 10 hardskills required for the job, and the degree subjects covers 6 out of 10 skills required for the job. The candidate can speak both English and Hindi which are required for the job. However, the candidate's location does not match with the job location.""
+    }"
+36,recIa8aDuWkKPM8rx,2023-06-05,,43000.0,50000.0,"<ul class=""liste"">
+<li>Utilisation d’un CRM très orienté new deal</li>
+<li><strong>Première expérience en tant que commercial</strong> ou équivalent dans les **marchés publics ( ventes de services) **</li>
+<li><strong>Expérience dans  l'énergie</strong></li>
+<li>Capacité à établir des relations de confiance avec les clients</li>
+<li>Aptitude à la négociation et à la vente (<strong>avec une grande finesse d’argumentation - Aptitude à être en contact avec des personnalités publiques - Agilité à répondre au enjeu technico - économique, Avoir une bonne hygiène commercia</strong>l )</li>
+<li>Très bon relationnel, parfaitement à <strong>l'aise à l'oral</strong>.</li>
+<li>Volonté de développer ses compétences commerciales sur un marché complexe et passionnant,</li>
+<li>Volonté de travailler dans une Proptech à forte croissance</li>
+<li>Réel <strong>intérêt pour le monde de l’énergie</strong></li>
+<li>Participer à la transition énergétique des entreprises des collectivités et des gestionnaires de bail</li>
+<li><strong>Sensibilité dans l’énergie tertiaire et/ou industrielle</strong></li>
+</ul>
+",business-development,,,1.0,9.0,rec3j3GJqqaG6mjoK,recIa8aDuWkKPM8rx,,,48000.0,50000.0,Action commerciale,Rejected by CP,rec3j3GJqqaG6mjoK,hunting,rec3j3GJqqaG6mjoK,europe/france,recIa8aDuWkKPM8rx,europe/france,rec3j3GJqqaG6mjoK,fr,recIa8aDuWkKPM8rx,"en,fr",,-0.5,"
+    Output:
+    {
+    ""Hardskill_Matching_Score"": 0.5,
+    ""Degree_Subjects_Matching_Score"": 0.8,
+    ""Position_Matching_Score"": 0.7,
+    ""Location_Matching_Score"": 1,
+    ""Language_Matching_Score"": 1,
+    ""Reason"": ""The candidate has a hardskill 'hunting' which is related to the job position 'business-development'. The candidate has a degree subject 'Action commerciale' which covers some of the skills required in the job requirements. The candidate can go to the job location 'europe/france' and can speak the language 'fr' which is required in the job.""
+    }"
+37,recONKansnIbXY6ij,,,,,,marketing-manager,,,,,rec3jHERfN2Nx5vkF,recONKansnIbXY6ij,,,60000.0,,,Mission closed by client,,,,,recONKansnIbXY6ij,europe/france/paris,rec3jHERfN2Nx5vkF,"en,fr",,,,,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": 0.6,
+        ""Position_Matching_Score"": 0.9,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""Candidate has hardskills related to the job requirements, degree subjects covers most of the job requirements, candidate has experience in the job position, candidate can go to the job location, and candidate can speak all the languages required for the job.""
+    }"
+38,recKmfrKT4uTpCS2x,,,24000.0,24000.0,"<ul class=""liste"">
+<li>Bachelor or Master in business</li>
+<li>Based in Capital city is necessary</li>
+<li>Knowledge of Entrepreneur</li>
+<li>Passion for BTOB Sales, eager to get more commissions</li>
+<li>Fluency in English and local language</li>
+<li>Driving License</li>
+<li>Willing to travel</li>
+<li>Be able to attend necessary meetings</li>
+<li>Experienced candidates: experience in consumer electronics (mobile phones, headphones, etc.) or physical product sales; Inexperienced candidates: favouring recent graduate</li>
+</ul>
+",sales-manager,0.0,0.0,0.0,3.0,rec3UDIKDapizjpjG,recKmfrKT4uTpCS2x,,,,,Department of Economics and Management,Waiting list,rec3UDIKDapizjpjG,"business-development,driving-license,management,marketing,sales",,,recKmfrKT4uTpCS2x,europe/poland,rec3UDIKDapizjpjG,"en,pl,ru",recKmfrKT4uTpCS2x,"en,pl",,,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": 0.6,
+        ""Position_Matching_Score"": 0.7,
+        ""Location_Matching_Score"": 0,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has 5 out of 8 hardskills required for the job, and the degree subject covers some of the skills required for the job. The candidate can speak all the languages required for the job, but the location does not match with the job location.""
+    }"
+39,recMh3kDSANBvdJbu,,,8320.0,12480.0,"<ul class=""liste"">
+<li>B.S. (or equivalent through education/work) Computer Science, Engineering, or related field</li>
+<li>Ability to communicate effectively</li>
+<li>Creative problem-solving ability</li>
+<li>Strong knowledge of software QA methodologies, tools and processes</li>
+<li>Experience in writing clear, concise and comprehensive test plans and reports</li>
+<li>Hands-on experience with both white box, and black box, performance, security and exploratory testing</li>
+<li>Familiarity with session-based testing, heuristics and oracles</li>
+<li>Hands-on experience with automated testing tools such as Cypress or Selenium</li>
+<li>Solid knowledge of SQL and/or other scripting tools</li>
+<li>Programming knowledge in JavaScript, Python, Golang or NetCore is desirable</li>
+<li>Proven work experience in software development</li>
+<li>Proven work experience in software quality assurance</li>
+<li>Experience working in an Agile/ framework such as Kanban and Scrum</li>
+</ul>
+",qa-engineer,,,1.0,2.0,rec3Zm1NBca1RI7uq,recMh3kDSANBvdJbu,,,,,,Sent to Client,rec3Zm1NBca1RI7uq,"agile-testing,apis,html,java,manual-testing,mysql,sdlc,selenium,selenium-testing,sikuli,stlc,test-automation,test-cases,test-scenarios,test-strategy",,,recMh3kDSANBvdJbu,asia/india,rec3Zm1NBca1RI7uq,"en,hi",recMh3kDSANBvdJbu,"en,hi",,,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": 0.6,
+        ""Position_Matching_Score"": 0.9,
+        ""Location_Matching_Score"": 0,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has 8 out of 10 hardskills required for the job, 6 out of 11 degree subjects required for the job, 9 out of 10 hardskills and degree subjects required for the job, 0 out of 1 location required for the job, and 1 out of 2 languages required for the job.""
+    }"
+40,rec1fLbPRArMKBz4D,,,48000.0,48000.0,"<ul class=""liste"">
+<li>Bachelor or Master in business</li>
+<li>Based in Capital city is necessary</li>
+<li>Knowledge of Entrepreneur</li>
+<li>Passion for BTOB Sales, eager to get more commissions</li>
+<li>Fluency in English and local language</li>
+<li>Driving License</li>
+<li>Willing to travel</li>
+<li>Be able to attend necessary meetings</li>
+<li>Experienced candidates: experience in consumer electronics (mobile phones, headphones, etc.) or physical product sales; Inexperienced candidates: favouring recent graduate</li>
+</ul>
+",sales-manager,0.0,0.0,0.0,3.0,rec445AfBMgEp6rEV,rec1fLbPRArMKBz4D,,,40000.0,45000.0,,Rejected by CP,rec445AfBMgEp6rEV,sales,,,rec1fLbPRArMKBz4D,europe/united-kingdom/city-of-london,rec445AfBMgEp6rEV,en,rec1fLbPRArMKBz4D,en,,-0.8,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": 0.6,
+        ""Position_Matching_Score"": 0.7,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has a Bachelor or Master in business, and has knowledge of Entrepreneur, Passion for BTOB Sales, Fluency in English and local language, Driving License, Willing to travel, Be able to attend necessary meetings, and Experienced in consumer electronics (mobile phones, headphones, etc.) or physical product sales. The candidate's location is in the same country as the job location, and the candidate can speak the language required for the job. Therefore, the hardskill matching score is 0.8, the degree subjects matching score is 0.6, the position matching score is 0.7, the location matching score is 1, and the language matching score is 1.""
+    }"
+41,recKmfrKT4uTpCS2x,,,24000.0,24000.0,"<ul class=""liste"">
+<li>Bachelor or Master in business</li>
+<li>Based in Capital city is necessary</li>
+<li>Knowledge of Entrepreneur</li>
+<li>Passion for BTOB Sales, eager to get more commissions</li>
+<li>Fluency in English and local language</li>
+<li>Driving License</li>
+<li>Willing to travel</li>
+<li>Be able to attend necessary meetings</li>
+<li>Experienced candidates: experience in consumer electronics (mobile phones, headphones, etc.) or physical product sales; Inexperienced candidates: favouring recent graduate</li>
+</ul>
+",sales-manager,0.0,0.0,0.0,3.0,rec4dGgktzAhUSALE,recKmfrKT4uTpCS2x,,,,,Business Administration,Rejected by CP,rec4dGgktzAhUSALE,"driving-license,management,marketing,sales",,,recKmfrKT4uTpCS2x,europe/poland,rec4dGgktzAhUSALE,"en,pl",recKmfrKT4uTpCS2x,"en,pl",,,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.75,
+        ""Degree_Subjects_Matching_Score"": 0.5,
+        ""Position_Matching_Score"": 0.9,
+        ""Location_Matching_Score"": 0,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""Candidate has driving license, management, marketing and sales hardskills which are related to the job requirements. Candidate has a degree in Business Administration which covers some of the job requirements. Candidate is capable of the job position based on the hardskills and degree subjects. Candidate's location does not match with the job location. Candidate's language matches with the job language.""
+    }"
+42,rec0t420QAE6AgEAn,2023-04-01,,35000.0,55000.0,"<p>● 1 year of experience minimum (with a work-study)<br>
+● Two to three years of significant software dev experience in front and back in a team<br>
+● The candidate must speak French<br>
+● Willingness to work in a team, to manage projects from start to finish<br>
+● Years of freelance experience are not taken for granted<br>
+● Autonomous<br>
+● Very high work requirement<br>
+● Willingness to work in a startup with high growth potential<br>
+● Design work and reflection<br>
+● The candidate should preferably come from the New Aquitaine region (Bordeaux)<br>
+● French engineering school ,Epitech and/or Ecole 42 (full curriculum)</p>
+",full-stack-developer,,,,,rec4INn4zLQsSN8nX,rec0t420QAE6AgEAn,2023-03-15,,40000.0,, Bachelor - Design Web Programmation objet et frameworks Gestion de projet ,Rejected by CP,rec4INn4zLQsSN8nX,".net-compact-framework,jdeveloper",,,,,rec4INn4zLQsSN8nX,"ar,en,fr",rec0t420QAE6AgEAn,fr,-0.17,-0.5,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.5,
+        ""Degree_Subjects_Matching_Score"": 0.8,
+        ""Position_Matching_Score"": 0.7,
+        ""Location_Matching_Score"": 0,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has .net-compact-framework and jdeveloper hardskills which are related to the job position, but not all the skills required. The candidate has Bachelor degree in Design Web Programmation objet et frameworks Gestion de projet which covers most of the job requirements. The candidate can speak French which is required for the job. The candidate's location is not matched with the job location.""
+    }"
+43,recMh3kDSANBvdJbu,,,8320.0,12480.0,"<ul class=""liste"">
+<li>B.S. (or equivalent through education/work) Computer Science, Engineering, or related field</li>
+<li>Ability to communicate effectively</li>
+<li>Creative problem-solving ability</li>
+<li>Strong knowledge of software QA methodologies, tools and processes</li>
+<li>Experience in writing clear, concise and comprehensive test plans and reports</li>
+<li>Hands-on experience with both white box, and black box, performance, security and exploratory testing</li>
+<li>Familiarity with session-based testing, heuristics and oracles</li>
+<li>Hands-on experience with automated testing tools such as Cypress or Selenium</li>
+<li>Solid knowledge of SQL and/or other scripting tools</li>
+<li>Programming knowledge in JavaScript, Python, Golang or NetCore is desirable</li>
+<li>Proven work experience in software development</li>
+<li>Proven work experience in software quality assurance</li>
+<li>Experience working in an Agile/ framework such as Kanban and Scrum</li>
+</ul>
+",qa-engineer,,,1.0,2.0,rec4kZZ3hjlC8Mxun,recMh3kDSANBvdJbu,,,,,,Sent to Client,rec4kZZ3hjlC8Mxun,"agile-environment,agile-modeling,agile-testing,bugzilla,figma,java,jira,mysql,scrum,selenium",,,recMh3kDSANBvdJbu,asia/india,rec4kZZ3hjlC8Mxun,"en,hi",recMh3kDSANBvdJbu,"en,hi",,,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": ""NA"",
+        ""Position_Matching_Score"": 0.7,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""Candidate has 8 out of 10 hardskills required for the job, and the candidate can speak both English and Hindi which are the required languages for the job. The candidate can also work in the job location.""
+    }"
+44,recMh3kDSANBvdJbu,,,8320.0,12480.0,"<ul class=""liste"">
+<li>B.S. (or equivalent through education/work) Computer Science, Engineering, or related field</li>
+<li>Ability to communicate effectively</li>
+<li>Creative problem-solving ability</li>
+<li>Strong knowledge of software QA methodologies, tools and processes</li>
+<li>Experience in writing clear, concise and comprehensive test plans and reports</li>
+<li>Hands-on experience with both white box, and black box, performance, security and exploratory testing</li>
+<li>Familiarity with session-based testing, heuristics and oracles</li>
+<li>Hands-on experience with automated testing tools such as Cypress or Selenium</li>
+<li>Solid knowledge of SQL and/or other scripting tools</li>
+<li>Programming knowledge in JavaScript, Python, Golang or NetCore is desirable</li>
+<li>Proven work experience in software development</li>
+<li>Proven work experience in software quality assurance</li>
+<li>Experience working in an Agile/ framework such as Kanban and Scrum</li>
+</ul>
+",qa-engineer,,,1.0,2.0,rec4SMmUMa8OT2rdU,recMh3kDSANBvdJbu,,,,,,Rejected by CP,rec4SMmUMa8OT2rdU,java,rec4SMmUMa8OT2rdU,asia/india,recMh3kDSANBvdJbu,asia/india,rec4SMmUMa8OT2rdU,"en,hi",recMh3kDSANBvdJbu,"en,hi",,,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": 0.6,
+        ""Position_Matching_Score"": 0.7,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has hardskills in Java which is related to the job requirement. The degree subjects of the candidate covers some of the job requirement. The candidate is capable of the job position. The candidate can go to the job location. The candidate can speak all the languages required for the job.""
+    }"
+45,rec6N2U5wJf7t3ySH,2023-04-03,,40000.0,70000.0,"<p>-Previous experience in <strong>a start-up (2-3 years)</strong> with a <strong>tech</strong> position with <strong>responsabilities</strong><br>
+-Have an entrepreneur / startup mindset (likes taking risks)<br>
+**-**Stayed at his previous positions for <strong>at least one year</strong><br>
+-Experience with <strong>agronomic and technical issues</strong> (Vertical Farming)<br>
+-Worked in greenhouse hydroponics.<br>
+-All types of technology are accepted<br>
+-Very good technical level based on hardware and software development experience in various technological environments<br>
+-Knowledge of UX</p>
+<p>Information for recruiters !</p>
+<p>-Ideally, you should find a candidate who lives within 50 km of Cartagena!<br>
+-If this is too complicated, find a candidate who is able to travel there often.<br>
+-And if that's not possible, find a candidate who can travel there a few days a month.</p>
+",cto,,,1.0,5.0,rec4SyYUjU2nn5zlh,rec6N2U5wJf7t3ySH,2023-03-31,2023-04-14,60.0,70.0,"n sciences agronomiques, sociales et économiques, appliquées aux milieux tropicaux",Rejected by CP,rec4SyYUjU2nn5zlh,"ignite-ux,pack-office,sig",rec4SyYUjU2nn5zlh,worldwide,rec6N2U5wJf7t3ySH,europe/spain,rec4SyYUjU2nn5zlh,"en,es,fr",rec6N2U5wJf7t3ySH,"es,fr",-0.03,-3.994,"
+    Output:
+    {
+        ""Hardskill_Matching_Score"": 0.5,
+        ""Degree_Subjects_Matching_Score"": 0.8,
+        ""Position_Matching_Score"": 0.7,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has ignite-ux, pack-office, and sig hardskills which are related to the job requirements. The candidate has degree subjects in sciences agronomiques, sociales et économiques, appliquées aux milieux tropicaux which covers most of the job requirements. The candidate has the hardskills and degree subjects which are related to the job position. The candidate can travel to the job location or work remotely. The candidate can speak all the languages required for the job.""
+    }"
+46,rec6N2U5wJf7t3ySH,2023-04-03,,40000.0,70000.0,"<p>-Previous experience in <strong>a start-up (2-3 years)</strong> with a <strong>tech</strong> position with <strong>responsabilities</strong><br>
+-Have an entrepreneur / startup mindset (likes taking risks)<br>
+**-**Stayed at his previous positions for <strong>at least one year</strong><br>
+-Experience with <strong>agronomic and technical issues</strong> (Vertical Farming)<br>
+-Worked in greenhouse hydroponics.<br>
+-All types of technology are accepted<br>
+-Very good technical level based on hardware and software development experience in various technological environments<br>
+-Knowledge of UX</p>
+<p>Information for recruiters !</p>
+<p>-Ideally, you should find a candidate who lives within 50 km of Cartagena!<br>
+-If this is too complicated, find a candidate who is able to travel there often.<br>
+-And if that's not possible, find a candidate who can travel there a few days a month.</p>
+",cto,,,1.0,5.0,rec4TOnVdc0ZADtgy,rec6N2U5wJf7t3ySH,2023-03-01,,40000.0,70000.0,Bachelor of Science,Rejected by CP,rec4TOnVdc0ZADtgy,"android,borland-c++,html,ios,java,javascript,mongodb,php,python,sql-azure",rec4TOnVdc0ZADtgy,europe/spain,rec6N2U5wJf7t3ySH,europe/spain,rec4TOnVdc0ZADtgy,"en,es,hi,pi,ur",rec6N2U5wJf7t3ySH,"es,fr",-0.33,-0.0,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": 0.6,
+        ""Position_Matching_Score"": 0.9,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 0,
+        ""Reason"": ""The candidate has 8 out of 10 hardskills required for the job, and the degree subject covers 60% of the job requirement. The candidate has the necessary hardskills and degree subject to fulfill the job position. The candidate's location is in the same country as the job location, and the candidate can travel there often. However, the candidate only speaks 5 languages, which does not match the job requirement of 2 languages.""
+    }"
+47,recAtcVMDz425qUT3,2023-05-15,,75000.0,85000.0,"<p>They are looking for the person behind the data science. the candidate must be curious, collegial, hard-working individual with the vision to change the world. Critical questioning of key decisions and motivation to create efficient processes for clients and our company is crucial. He is humble, know when to ask for help, and enjoy learning alongside your colleagues. He take ownership and deliver results. This will makes a candidate the perfect Diesta team member!</p>
+<p>Skills &amp; Experience needed:</p>
+<ul class=""liste"">
+<li>At least 5 years of experience in data engineering or related field</li>
+<li>BSc in Computer Science or similar</li>
+<li>Proven experience with Python</li>
+<li>Strong understanding of data warehousing, ETL processes, and data modelling</li>
+<li>Be a resident in England, Wales or Scotland</li>
+<li>Be curious and reliable</li>
+<li>Exposure to spreadsheet data pipelines.</li>
+</ul>
+<p>The wow factor (not required but the stuff we love to see!)</p>
+<ul class=""liste"">
+<li>Experience with Fintech companies</li>
+<li>Have an understanding how insurance works</li>
+<li>Experience with data visualisation tools, especially AWS QuickInsights, is a plus</li>
+</ul>
+",data-engineer,4.0,4.0,5.0,9.0,rec4w5AaNa3vIukBK,recAtcVMDz425qUT3,,,80000.0,,,Rejected by CP,rec4w5AaNa3vIukBK,"amazon-web-services-aws,data-feeds,data-science,databases,python",,,,,rec4w5AaNa3vIukBK,en,recAtcVMDz425qUT3,en,,-0.5,"
+    Output:
+    {
+    ""Hardskill_Matching_Score"": 0.8,
+    ""Degree_Subjects_Matching_Score"": ""NA"",
+    ""Position_Matching_Score"": 0.7,
+    ""Location_Matching_Score"": ""NA"",
+    ""Language_Matching_Score"": 1,
+    ""Reason"": ""The candidate has 5 out of 7 hardskills required for the job, and the candidate can speak the required language for the job. However, the candidate does not have a degree in a related field and the location data is missing.""
+    }"
+48,recwe9VS4h7Qfkzjd,,,,,,customer-support,,,,,rec5CvYLW6QpUwALg,recwe9VS4h7Qfkzjd,,,30000.0,35000.0,,Mission closed by client,,,,,recwe9VS4h7Qfkzjd,europe/france/paris,rec5CvYLW6QpUwALg,"en,fr,zh",,,,,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": 0.6,
+        ""Position_Matching_Score"": 0.9,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has 8 out of 10 hardskills required for the job, and the degree subjects are related to the job position. The candidate can work in the job location and can speak all the languages required for the job.""
+    }"
+49,recwMSrftJ7BbX5mZ,,,8320.0,12480.0,"<ul class=""liste"">
+<li>Bachelor’s degree in Information Science, Computer Science, Computer Engineering, Mathematics, or related field, or 3 plus years of relevant work experience</li>
+<li>Experience working with relational database structures, SQL and/or flat files and performing table joins, web crawling, and web development</li>
+<li>Proficiency in one or more of the following programming languages: Java, C#, C++, or Python and  familiarity with Node.js</li>
+<li>Experience working with commercial relational database systems such as electronic medical records or other clinical systems, client relationship management software, or accounting systems a plus</li>
+<li>Familiar with various data management methodologies, data exploration techniques, data quality assurance practices, and data discovery/ visualization tools</li>
+<li>Natural curiosity about what’s hidden in the data through exploration, attention to detail, and ability to see the big picture – similar to putting together a 10,000-piece puzzle</li>
+<li>Ability to communicate your ideas (verbal and written) so that team members and clients can understand them</li>
+<li>Share our values: growth, relationships, integrity, and true grit</li>
+</ul>
+",data-engineer,,,1.0,2.0,rec5cyo27dqhUGxJG,recwMSrftJ7BbX5mZ,2023-02-28,,34.0,,MS,Rejected by CP,rec5cyo27dqhUGxJG,python,,,recwMSrftJ7BbX5mZ,asia/india,rec5cyo27dqhUGxJG,"en,hi",recwMSrftJ7BbX5mZ,"en,hi",,-0.8286,"
+    Output:
+    {
+        ""Hardskill_Matching_Score"": 0.5,
+        ""Degree_Subjects_Matching_Score"": 0.75,
+        ""Position_Matching_Score"": 0.75,
+        ""Location_Matching_Score"": 0,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has Python hardskill which is related to the job requirement. The candidate has MS degree which covers some of the job requirement. The candidate has Python hardskill and MS degree which is related to the job position. The candidate's location is not matched with the job location. The candidate's language is matched with the job language.""
+    }"
+50,reczkFBZXTtSjNX96,2023-04-10,,,,"<ul class=""liste"">
+<li>At least 5 years of experience in the FX environment</li>
+<li>Excellent knowledge of FX option trading and products**.**</li>
+<li>Worked for big banks like Société Générale, Barclays, Santander or others</li>
+<li>Knowledge of SQL</li>
+<li>Strong analysis and communication skills</li>
+<li>Expertise of solving complicated problems and natural curiosity</li>
+</ul>
+",others,5.0,5.0,5.0,10.0,rec5JEbnrl9wBzhtx,reczkFBZXTtSjNX96,,,128000.0,153600.0,"MSc, Business Systems Analysis and Design",Rejected by client,rec5JEbnrl9wBzhtx,"communication,fx-options,leadership,management,sql-clr",,,reczkFBZXTtSjNX96,europe/united-kingdom/city-of-london,rec5JEbnrl9wBzhtx,en,reczkFBZXTtSjNX96,en,,,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": 0.6,
+        ""Position_Matching_Score"": 0.7,
+        ""Location_Matching_Score"": 0,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has 5 out of 6 hardskills required for the job, and the degree subject covers 4 out of 6 skills required for the job. The candidate's location does not match the job location, but the candidate can speak the language required for the job.""
+    }"
+51,recA3Ye1PMACJlO1Z,2023-04-03,,65000.0,120000.0,"<ul class=""liste"">
+<li>Experience in building backend data services and Microservices at scale</li>
+<li>Experience leading and architecting major new enhancements</li>
+<li>Strong understanding of web services and best practices    Strong experience with managing the security aspects</li>
+<li>Have working knowledge on following technologies:<br>
+Node.js – GraphQl – AWS  - Express JS – PostgreSQL - Hasura</li>
+<li>Experience – min 7 years experience</li>
+<li>Experience in a tech start-up or large company</li>
+<li>Have stayed in a company for at least 2 years</li>
+</ul>
+",backend-developer,,,6.0,9.0,rec5QmMazJ6GT5pVa,recA3Ye1PMACJlO1Z,2023-02-06,,120000.0,,Bachelor of Engineering,Rejected by CP,rec5QmMazJ6GT5pVa,"amazon-web-services-aws,graphql,node.js",rec5QmMazJ6GT5pVa,americas/united-states,recA3Ye1PMACJlO1Z,"americas/united-states,asia/india,europe",rec5QmMazJ6GT5pVa,en,recA3Ye1PMACJlO1Z,en,-0.56,-5.5,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": 0.6,
+        ""Position_Matching_Score"": 0.9,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""Candidate has experience in AWS, GraphQL, Node.js which are required in the job. Candidate has Bachelor of Engineering degree which covers most of the job requirements. Candidate has experience in a tech start-up or large company and have stayed in a company for at least 2 years. Candidate can go to Americas/United-States which is the job location. Candidate can speak English which is the required language of the job.""
+    }"
+52,recJHwegfLPOBlDmf,2023-06-04,,54000.0,54000.0,"<ul class=""liste"">
+<li>Utilisation d’un CRM très orienté new deal</li>
+<li><strong>Expérience significative en tant que commercial</strong> ou équivalent dans la vente et le partenariats. <strong>( Ex: chargé de partenariats)</strong></li>
+<li>Capacité à établir et <strong>maintenir</strong> des relations de confiance avec les partenaires</li>
+<li>Aptitude à** la négociation , la vente et un peu de technicité** ( Capable d’accord avec de grands groupes et d’animer la population commerciale au sein des partenaires : Capable de faire des <strong>Démonstrations de produits</strong>)</li>
+<li>Très bon relationnel, parfaitement à <strong>l'aise à l'oral</strong></li>
+<li>Volonté de développer ses compétences commerciales sur un marché complexe et passionnant,</li>
+<li><strong>Solides compétences en analyse de données et en interprétation des tendances de vente</strong></li>
+<li>Volonté de travailler dans une Proptech à forte croissance</li>
+<li>Réel <strong>intérêt pour le monde de l’énergie</strong></li>
+<li>Participer à la transition énergétique des entreprises des collectivités et des gestionnaires de bail</li>
+<li><strong>Sensibilité dans l’énergie tertiaire et/ou industrielle</strong></li>
+<li>Une expérience dans un <strong>bureau d'études</strong> ou de CVC est également très intéressante.</li>
+</ul>
+",business-development,,,6.0,9.0,rec5wYOeJIZ68u1J6,recJHwegfLPOBlDmf,,,,,Management and organization,Rejected by CP,rec5wYOeJIZ68u1J6,"analysis,analytical-skills,crm,marketing,web-content",,,recJHwegfLPOBlDmf,europe/france,rec5wYOeJIZ68u1J6,"ar,en,fr",recJHwegfLPOBlDmf,"en,fr",,,"
+    Output:
+    {
+    ""Hardskill_Matching_Score"": 0.8,
+    ""Degree_Subjects_Matching_Score"": 0.6,
+    ""Position_Matching_Score"": 0.9,
+    ""Location_Matching_Score"": 1,
+    ""Language_Matching_Score"": 1,
+    ""Reason"": ""The candidate has hardskills related to the job requirements such as CRM, marketing, web content, etc. The degree subject of the candidate is Management and organization which covers some of the job requirements. The candidate has the hardskills and degree subject to match the job position. The candidate can go to the job location and can speak all the languages required for the job.""
+    }"
+53,recdN16e9aiTj0z3a,,,30000.0,42000.0,"<ul class=""liste"">
+<li>Bachelor or Master in business</li>
+<li>Based in Capital city is necessary</li>
+<li>Knowledge of Entrepreneur</li>
+<li>Passion for BTOB Sales, eager to get more commissions</li>
+<li>Fluency in English and local language</li>
+<li>Driving License</li>
+<li>Willing to travel</li>
+<li>Be able to attend necessary meetings</li>
+<li>Experienced candidates: experience in consumer electronics (mobile phones, headphones, etc.) or physical product sales; Inexperienced candidates: favouring recent graduate</li>
+</ul>
+",sales-manager,0.0,0.0,0.0,3.0,rec5Yk8EhCcWRBO0w,recdN16e9aiTj0z3a,,,,,Digital Transformation of Businesses,Rejected by client,rec5Yk8EhCcWRBO0w,"business-development,communication,marketing,sales,sales-management",,,recdN16e9aiTj0z3a,europe/spain/madrid,rec5Yk8EhCcWRBO0w,"en,es,fr",recdN16e9aiTj0z3a,"en,es",,,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": 0.6,
+        ""Position_Matching_Score"": 0.9,
+        ""Location_Matching_Score"": 0,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has hardskills related to the job requirements, such as business-development, communication, marketing, sales, and sales-management. The degree subject of the candidate is Digital Transformation of Businesses, which covers some of the skills required in the job requirements. The candidate is capable of the job position. The candidate's location is not matched with the job location. The candidate's language is matched with the job language.""
+    }"
+54,recUMYC6no6ATWX6U,2023-05-01,2023-07-31,48000.0,68000.0,"<p>It is an advantage if you have experience with outbound and inbound sales activities and contacting potential customers via different channels<br>
+You are convincing, strongly self-motivated and think entrepreneurially<br>
+Self-confidence, communication, a high level of commitment and solution-oriented thinking are also among your strengths<br>
+You can communicate fluently in written and spoken German and English.<br>
+Our new office is in Munich Westend, inkl. Kicker, big terrace ​and ​bbq and loooots of space.</p>
+",sales-development-representative,0.0,0.0,2.0,5.0,rec5yqt3OcSYtLi7d,recUMYC6no6ATWX6U,2023-05-02,,65000.0,75000.0,,Offer sent,rec5yqt3OcSYtLi7d,"office-365,sales,salesforce.com",rec5yqt3OcSYtLi7d,europe,recUMYC6no6ATWX6U,europe/germany,rec5yqt3OcSYtLi7d,"de,en",recUMYC6no6ATWX6U,"de,en,fr,it,pl",-0.01,-1.7,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.75,
+        ""Degree_Subjects_Matching_Score"": ""NA"",
+        ""Position_Matching_Score"": 0.5,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""Candidate has experience with outbound and inbound sales activities and contacting potential customers via different channels, which is related to the job requirement. Candidate can go to Europe, which is the same as the job location. Candidate can speak both German and English, which is the same as the job language requirement.""
+    }"
+55,recAtcVMDz425qUT3,2023-05-15,,75000.0,85000.0,"<p>They are looking for the person behind the data science. the candidate must be curious, collegial, hard-working individual with the vision to change the world. Critical questioning of key decisions and motivation to create efficient processes for clients and our company is crucial. He is humble, know when to ask for help, and enjoy learning alongside your colleagues. He take ownership and deliver results. This will makes a candidate the perfect Diesta team member!</p>
+<p>Skills &amp; Experience needed:</p>
+<ul class=""liste"">
+<li>At least 5 years of experience in data engineering or related field</li>
+<li>BSc in Computer Science or similar</li>
+<li>Proven experience with Python</li>
+<li>Strong understanding of data warehousing, ETL processes, and data modelling</li>
+<li>Be a resident in England, Wales or Scotland</li>
+<li>Be curious and reliable</li>
+<li>Exposure to spreadsheet data pipelines.</li>
+</ul>
+<p>The wow factor (not required but the stuff we love to see!)</p>
+<ul class=""liste"">
+<li>Experience with Fintech companies</li>
+<li>Have an understanding how insurance works</li>
+<li>Experience with data visualisation tools, especially AWS QuickInsights, is a plus</li>
+</ul>
+",data-engineer,4.0,4.0,5.0,9.0,rec6A71VLckkekRcg,recAtcVMDz425qUT3,,,81000.0,,,Rejected by client,rec6A71VLckkekRcg,"databases,etl,etl-tools",,,,,rec6A71VLckkekRcg,en,recAtcVMDz425qUT3,en,,-0.6,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.75,
+        ""Degree_Subjects_Matching_Score"": 0.5,
+        ""Position_Matching_Score"": 0.8,
+        ""Location_Matching_Score"": 0,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has 3 out of 4 hardskills required, and the degree subject is related to the job position. The candidate can speak the required language, but the location is not matched.""
+    }"
+56,recwMSrftJ7BbX5mZ,,,8320.0,12480.0,"<ul class=""liste"">
+<li>Bachelor’s degree in Information Science, Computer Science, Computer Engineering, Mathematics, or related field, or 3 plus years of relevant work experience</li>
+<li>Experience working with relational database structures, SQL and/or flat files and performing table joins, web crawling, and web development</li>
+<li>Proficiency in one or more of the following programming languages: Java, C#, C++, or Python and  familiarity with Node.js</li>
+<li>Experience working with commercial relational database systems such as electronic medical records or other clinical systems, client relationship management software, or accounting systems a plus</li>
+<li>Familiar with various data management methodologies, data exploration techniques, data quality assurance practices, and data discovery/ visualization tools</li>
+<li>Natural curiosity about what’s hidden in the data through exploration, attention to detail, and ability to see the big picture – similar to putting together a 10,000-piece puzzle</li>
+<li>Ability to communicate your ideas (verbal and written) so that team members and clients can understand them</li>
+<li>Share our values: growth, relationships, integrity, and true grit</li>
+</ul>
+",data-engineer,,,1.0,2.0,rec6D4nfcNYvavfb8,recwMSrftJ7BbX5mZ,,,0.0,,,Sent to Client,rec6D4nfcNYvavfb8,"automation,test-automation",,,recwMSrftJ7BbX5mZ,asia/india,rec6D4nfcNYvavfb8,en,recwMSrftJ7BbX5mZ,"en,hi",,-0.832,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.5,
+        ""Degree_Subjects_Matching_Score"": ""NA"",
+        ""Position_Matching_Score"": 0.3,
+        ""Location_Matching_Score"": 0,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has automation and test-automation hardskills which are related to the job requirements. The candidate has language en which is the same as the job language requirement. The candidate does not have degree subjects related to the job requirements. The candidate's location is not the same as the job location.""
+    }"
+57,rec1fLbPRArMKBz4D,,,48000.0,48000.0,"<ul class=""liste"">
+<li>Bachelor or Master in business</li>
+<li>Based in Capital city is necessary</li>
+<li>Knowledge of Entrepreneur</li>
+<li>Passion for BTOB Sales, eager to get more commissions</li>
+<li>Fluency in English and local language</li>
+<li>Driving License</li>
+<li>Willing to travel</li>
+<li>Be able to attend necessary meetings</li>
+<li>Experienced candidates: experience in consumer electronics (mobile phones, headphones, etc.) or physical product sales; Inexperienced candidates: favouring recent graduate</li>
+</ul>
+",sales-manager,0.0,0.0,0.0,3.0,rec6FNehyv3hEEfQL,rec1fLbPRArMKBz4D,,,49000.0,,,Sent to Client,rec6FNehyv3hEEfQL,"leadership,negotiation,sales",,,rec1fLbPRArMKBz4D,europe/united-kingdom/city-of-london,rec6FNehyv3hEEfQL,"bg,en",rec1fLbPRArMKBz4D,en,,-0.1,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.75,
+        ""Degree_Subjects_Matching_Score"": 0.5,
+        ""Position_Matching_Score"": 0.9,
+        ""Location_Matching_Score"": 0,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has leadership, negotiation and sales hardskills which are related to the job requirements. The degree subjects of the candidate are not related to the job requirements. The candidate has the hardskills and degree subjects which are related to the job position. The candidate's location is not the same as the job location. The candidate can speak both English and local language which are required for the job.""
+    }"
+58,rec9B1Iwayh8YU3pc,,,,,,merger-and-acquisition-analyst,,,,,rec6hYEp9jgwquUln,rec9B1Iwayh8YU3pc,,,,,Economics and Financial Engineering,Sourced,,,,,rec9B1Iwayh8YU3pc,europe/france/paris,rec6hYEp9jgwquUln,"ar,en,es,fr",,,,,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": 0.9,
+        ""Position_Matching_Score"": 0.7,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 0,
+        ""Reason"": ""The candidate has hardskills related to the job requirements, and the degree subjects covers most of the job requirements. The candidate can go to the job location, but the candidate can not speak the required language.""
+    }"
+59,recsld3DKqBhnW6rg,2023-04-03,2023-08-10,85000.0,90000.0,"<p>WHAT YOU'LL NEED<br>
+ 2+ years experience in management consulting or data science<br>
+ Excellent analytical skills and ability to leverage data, metrics, analytics to generate insights creative ideas.<br>
+Quantitative thinking and strong problem-solving skills<br>
+Excellent communication skills and full fluency in English and Arabic<br>
+Arabic proficiency is a plus (not mandatory)<br>
+Collaborative mindsetset</p>
+",head-data-operations,,,1.0,2.0,rec6iOvmhYpVjdg80,recsld3DKqBhnW6rg,2023-05-02,2023-05-02,90000.0,95000.0,"Advanced Master of Business Administration, Business Administration and Management",Mission closed by client,rec6iOvmhYpVjdg80,"operations-management,saas",,,recsld3DKqBhnW6rg,asia/united-arab-emirates/dubai,rec6iOvmhYpVjdg80,"ar,en",recsld3DKqBhnW6rg,"ar,en",-0.29,-0.5,"
+    Example Output:
+    {
+    ""Hardskill_Matching_Score"": 0.8,
+    ""Degree_Subjects_Matching_Score"": 0.6,
+    ""Position_Matching_Score"": 0.7,
+    ""Location_Matching_Score"": 1,
+    ""Language_Matching_Score"": 1,
+    ""Reason"": ""The candidate has 2+ years experience in management consulting and data science, which is related to the job requirement. The candidate has a degree in Business Administration and Management, which covers some of the skills required in the job. The candidate has operations-management and saas hardskills, which are related to the job position. The candidate can go to the job location. The candidate can speak both Arabic and English, which are the required languages of the job.""
+    }"
+60,rec2Xnb1aA6Evh8id,,,60000.0,75000.0,"<p>**Technology used by the company is Ruby **</p>
+<ul class=""liste"">
+<li><strong>5 to 10 years of experience as a Full Stack  developer</strong></li>
+<li>Previous experience in**a scale-up (at least 2 years) **<br>
+Stack to master:<br>
+**Ruby **and/or **Django (at least 2 years old) **<br>
+** **</li>
+<li><strong>Back :  Ruby, PostgreSQL, Heroku</strong></li>
+<li><strong>Front : Typescript , React native, React</strong><br>
+** **</li>
+<li>Proximity to Paris but not mandatory</li>
+<li>The candidate can both work remotely and travel to the headquarters in Paris from time to time to meet the team.</li>
+<li>The candidate must be **French native/or professional level **</li>
+</ul>
+",full-stack-developer,,,,,rec6isugRnLymYMAS,rec2Xnb1aA6Evh8id,,,,,,Rejected by CP,,,,,rec2Xnb1aA6Evh8id,europe/france/paris,rec6isugRnLymYMAS,fr,rec2Xnb1aA6Evh8id,fr,,,"
+    Output:
+    {
+    ""Hardskill_Matching_Score"": ""NA"",
+    ""Degree_Subjects_Matching_Score"": ""NA"",
+    ""Position_Matching_Score"": ""NA"",
+    ""Location_Matching_Score"": 1,
+    ""Language_Matching_Score"": 1,
+    ""Reason"": ""The job requires the candidate to have 5 to 10 years of experience as a Full Stack developer, previous experience in a scale-up (at least 2 years), mastery of Ruby and/or Django (at least 2 years old), back: Ruby, PostgreSQL, Heroku, front: Typescript, React native, React, French native/or professional level. The candidate can both work remotely and travel to the headquarters in Paris from time to time to meet the team. The candidate's location matches the job location, and the candidate's language matches the job language.""
+    }"
+61,recKmfrKT4uTpCS2x,,,24000.0,24000.0,"<ul class=""liste"">
+<li>Bachelor or Master in business</li>
+<li>Based in Capital city is necessary</li>
+<li>Knowledge of Entrepreneur</li>
+<li>Passion for BTOB Sales, eager to get more commissions</li>
+<li>Fluency in English and local language</li>
+<li>Driving License</li>
+<li>Willing to travel</li>
+<li>Be able to attend necessary meetings</li>
+<li>Experienced candidates: experience in consumer electronics (mobile phones, headphones, etc.) or physical product sales; Inexperienced candidates: favouring recent graduate</li>
+</ul>
+",sales-manager,0.0,0.0,0.0,3.0,rec6KgoOQKoSQGLDO,recKmfrKT4uTpCS2x,,,,,Marketing Studies,Rejected by CP,rec6KgoOQKoSQGLDO,"driving-license,leadership,management,marketing-communications,sales",,,recKmfrKT4uTpCS2x,europe/poland,rec6KgoOQKoSQGLDO,"en,pl",recKmfrKT4uTpCS2x,"en,pl",,,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": 0.6,
+        ""Position_Matching_Score"": 0.9,
+        ""Location_Matching_Score"": 0,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has driving license, leadership, management, marketing-communications and sales hardskills which are related to the job requirements. The degree subject of the candidate is Marketing Studies which covers some of the job requirements. The candidate is capable of the job position. The candidate's location is not matched with the job location. The candidate's language is matched with the job language.""
+    }"
+62,recGxlU3W94snVhuH,,,55000.0,65000.0,"<p>This role is the lifeblood of new business for Qumin. You will be responsible for finding new business opportunities and bringing in new clients. Our goal for this hire is to find someone who is hungry to progress their career in sales and smash their targets.<br>
+Your career progression is as important to us as it is to you, and we would like to see this role move into a leadership position.<br>
+ <br>
+-2+ year experience in a direct sales, partnerships or account growth role<br>
+-Interest or experience in China and Chinese digital platforms<br>
+-Ability to control a full sales-cycle from the initial stage of booking meetings to closing deals<br>
+-Excellent presentation and communication skills<br>
+-Ability to create and maintain fruitful long-term relationships with clients<br>
+-Crafting compelling messaging to put across our value proposition succinctly<br>
+-Team-player with a positive and energetic approach and the ability to handle rejection<br>
+- University degree</p>
+<p><strong>Nice to have:</strong><br>
+-Experience using CRM software and cloud-based platforms<br>
+-Mandarin as a first/second language would be fantastic<br>
+-Great sense of humour</p>
+",business-development-manager,,,,,rec6s8RKRQJPImR6O,recGxlU3W94snVhuH,,,0.0,65000.0,,Rejected by client,rec6s8RKRQJPImR6O,"management,project-management,sales,time-management",,,recGxlU3W94snVhuH,europe/united-kingdom/city-of-london,rec6s8RKRQJPImR6O,en,,,,-5.5,"
+    Output:
+    {
+    ""Hardskill_Matching_Score"": 0.8,
+    ""Degree_Subjects_Matching_Score"": ""NA"",
+    ""Position_Matching_Score"": 0.7,
+    ""Location_Matching_Score"": 0,
+    ""Language_Matching_Score"": 0,
+    ""Reason"": ""The candidate has management, project-management, sales and time-management hardskills which are related to the job requirements. The candidate does not have the degree subjects required for the job. The candidate has some of the hardskills and degree subjects required for the job position, but not all of them. The candidate's location does not match with the job location. The candidate's language does not match with the job language.""
+    }"
+63,recUwquxTAuaSpYwc,,,60000.0,70000.0,"<p>The ideal candidate should have resources in France or Europe and have lived in France or Europe for many years, with a deep understanding of the local culture and a good level of connections <br>
+Background in Business School<br>
+Consulting/IB/VC experience</p>
+",business-development,,,6.0,9.0,rec6SzdF64ZaFjsZo,recUwquxTAuaSpYwc,2023-03-21,2023-03-31,150000.0,150000.0,Executive MBA,Rejected by CP,rec6SzdF64ZaFjsZo,"board-of-directors,innovation-research,leadership,licensing-agreements,mergers-amp-acquisitions,recruiting,sales,start-up-ventures",,,recUwquxTAuaSpYwc,europe/france,rec6SzdF64ZaFjsZo,"en,fr",recUwquxTAuaSpYwc,"en,fr,zh",,-9.0,"
+    Output:
+    {
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": 0.6,
+        ""Position_Matching_Score"": 0.9,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has 8 hardskills which are related to the job position, Executive MBA degree which covers some of the job requirements, candidate can go to the job location, and candidate can speak all the languages required by the job.""
+    }"
+64,rec7MvbTywFTvWryg,,,45000.0,60000.0,"<p>**Technology used by the company is Ruby **</p>
+<ul class=""liste"">
+<li>
+<p>Min **2 years of experience **as a full stack developer or school exit (-<strong>Top engineering school – “Top 10”</strong>) -Info school (only Epita)</p>
+</li>
+<li>
+<p>Proximity to Paris but not mandatory</p>
+</li>
+<li>
+<p>The candidate can both work remotely and travel to the headquarters in Paris from time to time to meet the team.</p>
+</li>
+<li>
+<p>The candidate must be native French (or professional level)</p>
+</li>
+<li>
+<p><strong>Back :  Ruby, PostgreSQL, Heroku</strong></p>
+</li>
+<li>
+<p><strong>Front : Typescript , React native, React</strong></p>
+</li>
+</ul>
+",full-stack-developer,,,,,rec6wq0svJ6nP2ymx,rec7MvbTywFTvWryg,,,50000.0,,,Rejected by CP,rec6wq0svJ6nP2ymx,"css,html,javascript,python,react,ruby,typescript",,,rec7MvbTywFTvWryg,europe/france/paris,rec6wq0svJ6nP2ymx,"en,es,fr,ja",rec7MvbTywFTvWryg,fr,,-0.5,"
+    Example Output:
+    {
+    ""Hardskill_Matching_Score"": 0.8,
+    ""Degree_Subjects_Matching_Score"": 0.6,
+    ""Position_Matching_Score"": 0.9,
+    ""Location_Matching_Score"": 1,
+    ""Language_Matching_Score"": 1,
+    ""Reason"": ""The candidate has 8 out of 10 hardskills required by the job, and the degree subjects covers 6 out of 10 skills required by the job. The candidate can work remotely and travel to the headquarters in Paris from time to time to meet the team. The candidate can speak all the languages required by the job.""
+    }"
+65,recMh3kDSANBvdJbu,,,8320.0,12480.0,"<ul class=""liste"">
+<li>B.S. (or equivalent through education/work) Computer Science, Engineering, or related field</li>
+<li>Ability to communicate effectively</li>
+<li>Creative problem-solving ability</li>
+<li>Strong knowledge of software QA methodologies, tools and processes</li>
+<li>Experience in writing clear, concise and comprehensive test plans and reports</li>
+<li>Hands-on experience with both white box, and black box, performance, security and exploratory testing</li>
+<li>Familiarity with session-based testing, heuristics and oracles</li>
+<li>Hands-on experience with automated testing tools such as Cypress or Selenium</li>
+<li>Solid knowledge of SQL and/or other scripting tools</li>
+<li>Programming knowledge in JavaScript, Python, Golang or NetCore is desirable</li>
+<li>Proven work experience in software development</li>
+<li>Proven work experience in software quality assurance</li>
+<li>Experience working in an Agile/ framework such as Kanban and Scrum</li>
+</ul>
+",qa-engineer,,,1.0,2.0,rec75ed6awIHlj79a,recMh3kDSANBvdJbu,2023-03-01,,,,Computer Science,Rejected by client 2nd round,,,,,recMh3kDSANBvdJbu,asia/india,rec75ed6awIHlj79a,"en,hi,mr",recMh3kDSANBvdJbu,"en,hi",,,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": 0.9,
+        ""Position_Matching_Score"": 0.7,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 0,
+        ""Reason"": ""The candidate has 8 out of 10 hardskills required for the job, and the degree subject covers most of the job requirements. The candidate can go to the job location, but the candidate can only speak English and Hindi, not Marathi which is required for the job.""
+    }"
+66,recAtcVMDz425qUT3,2023-05-15,,75000.0,85000.0,"<p>They are looking for the person behind the data science. the candidate must be curious, collegial, hard-working individual with the vision to change the world. Critical questioning of key decisions and motivation to create efficient processes for clients and our company is crucial. He is humble, know when to ask for help, and enjoy learning alongside your colleagues. He take ownership and deliver results. This will makes a candidate the perfect Diesta team member!</p>
+<p>Skills &amp; Experience needed:</p>
+<ul class=""liste"">
+<li>At least 5 years of experience in data engineering or related field</li>
+<li>BSc in Computer Science or similar</li>
+<li>Proven experience with Python</li>
+<li>Strong understanding of data warehousing, ETL processes, and data modelling</li>
+<li>Be a resident in England, Wales or Scotland</li>
+<li>Be curious and reliable</li>
+<li>Exposure to spreadsheet data pipelines.</li>
+</ul>
+<p>The wow factor (not required but the stuff we love to see!)</p>
+<ul class=""liste"">
+<li>Experience with Fintech companies</li>
+<li>Have an understanding how insurance works</li>
+<li>Experience with data visualisation tools, especially AWS QuickInsights, is a plus</li>
+</ul>
+",data-engineer,4.0,4.0,5.0,9.0,rec766u42EkrqOJb6,recAtcVMDz425qUT3,,,80000.0,85000.0,MA Cantab (Mathematics),Rejected by CP,rec766u42EkrqOJb6,"data-analysis,data-science,insurance",,,,,rec766u42EkrqOJb6,en,recAtcVMDz425qUT3,en,,-0.5,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.75,
+        ""Degree_Subjects_Matching_Score"": 0.5,
+        ""Position_Matching_Score"": 0.9,
+        ""Location_Matching_Score"": 0,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has 3 out of 4 hardskills required, and the degree subject is related to the job. The candidate has all the language required, but the location is not matched.""
+    }"
+67,recI8ZjHBtBdkYS21,,,30000.0,42000.0,"<ul class=""liste"">
+<li>Bachelor or Master in business</li>
+<li>Based in Capital city is necessary</li>
+<li>Knowledge of Entrepreneur</li>
+<li>Passion for BTOB Sales, eager to get more commissions</li>
+<li>Fluency in English and local language</li>
+<li>Driving License</li>
+<li>Willing to travel</li>
+<li>Be able to attend necessary meetings</li>
+<li>Experienced candidates: experience in consumer electronics (mobile phones, headphones, etc.) or physical product sales; Inexperienced candidates: favouring recent graduate</li>
+</ul>
+",sales-manager,0.0,0.0,0.0,3.0,rec7Bi29zeh1NNTDp,recI8ZjHBtBdkYS21,,,35000.0,,,Sent to Client,rec7Bi29zeh1NNTDp,sales,,,recI8ZjHBtBdkYS21,europe/germany/berlin,rec7Bi29zeh1NNTDp,"de,zh",recI8ZjHBtBdkYS21,"de,en",,-0.5,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": 0.5,
+        ""Position_Matching_Score"": 0.7,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 0,
+        ""Reason"": ""Candidate has sales hardskill which is related to the job position, but the degree subject is not related to the job requirement. Candidate can go to the job location, but the language is not matched with the job requirement.""
+    }"
+68,recUMYC6no6ATWX6U,2023-05-01,2023-07-31,48000.0,68000.0,"<p>It is an advantage if you have experience with outbound and inbound sales activities and contacting potential customers via different channels<br>
+You are convincing, strongly self-motivated and think entrepreneurially<br>
+Self-confidence, communication, a high level of commitment and solution-oriented thinking are also among your strengths<br>
+You can communicate fluently in written and spoken German and English.<br>
+Our new office is in Munich Westend, inkl. Kicker, big terrace ​and ​bbq and loooots of space.</p>
+",sales-development-representative,0.0,0.0,2.0,5.0,rec7CSaSOpwtcPcWg,recUMYC6no6ATWX6U,,,72000.0,,,Sent to Client,rec7CSaSOpwtcPcWg,"key-account-mangement,lead-generation,organizational-development,sales",,,recUMYC6no6ATWX6U,europe/germany,rec7CSaSOpwtcPcWg,"de,en",recUMYC6no6ATWX6U,"de,en,fr,it,pl",,-2.4,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.75,
+        ""Degree_Subjects_Matching_Score"": ""NA"",
+        ""Position_Matching_Score"": 0.75,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has 4 out of 5 hardskills required for the job position, and the candidate can go to the job location and speak all the languages required for the job.""
+    }"
+69,rec6N2U5wJf7t3ySH,2023-04-03,,40000.0,70000.0,"<p>-Previous experience in <strong>a start-up (2-3 years)</strong> with a <strong>tech</strong> position with <strong>responsabilities</strong><br>
+-Have an entrepreneur / startup mindset (likes taking risks)<br>
+**-**Stayed at his previous positions for <strong>at least one year</strong><br>
+-Experience with <strong>agronomic and technical issues</strong> (Vertical Farming)<br>
+-Worked in greenhouse hydroponics.<br>
+-All types of technology are accepted<br>
+-Very good technical level based on hardware and software development experience in various technological environments<br>
+-Knowledge of UX</p>
+<p>Information for recruiters !</p>
+<p>-Ideally, you should find a candidate who lives within 50 km of Cartagena!<br>
+-If this is too complicated, find a candidate who is able to travel there often.<br>
+-And if that's not possible, find a candidate who can travel there a few days a month.</p>
+",cto,,,1.0,5.0,rec7dyYHSL2d7e6IO,rec6N2U5wJf7t3ySH,2023-03-31,2023-03-31,70000.0,100000.0,DIRECTION of INFORMATION TECHNOLOGIES. ,Rejected by client,rec7dyYHSL2d7e6IO,".net,ignite-ux,java,oracle,sap,sql-plus,vmware",rec7dyYHSL2d7e6IO,"europe,worldwide",rec6N2U5wJf7t3ySH,europe/spain,rec7dyYHSL2d7e6IO,"es,fr,it,pt",rec6N2U5wJf7t3ySH,"es,fr",-0.03,-3.0,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": 0.6,
+        ""Position_Matching_Score"": 0.9,
+        ""Location_Matching_Score"": 0.5,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has .net, ignite-ux, java, oracle, sap, sql-plus, vmware hardskills which are related to the job requirements. The candidate has DIRECTION of INFORMATION TECHNOLOGIES degree subjects which are related to the job requirements. The candidate has experience in a start-up (2-3 years) with a tech position with responsabilities, have an entrepreneur / startup mindset (likes taking risks), stayed at his previous positions for at least one year, experience with agronomic and technical issues (Vertical Farming), worked in greenhouse hydroponics, all types of technology are accepted, very good technical level based on hardware and software development experience in various technological environments, knowledge of UX which are related to the job position. The candidate can travel to europe and worldwide which is related to the job locations. The candidate can speak es, fr, it, pt which are all the job languages.""
+    }"
+70,recsld3DKqBhnW6rg,2023-04-03,2023-08-10,85000.0,90000.0,"<p>WHAT YOU'LL NEED<br>
+ 2+ years experience in management consulting or data science<br>
+ Excellent analytical skills and ability to leverage data, metrics, analytics to generate insights creative ideas.<br>
+Quantitative thinking and strong problem-solving skills<br>
+Excellent communication skills and full fluency in English and Arabic<br>
+Arabic proficiency is a plus (not mandatory)<br>
+Collaborative mindsetset</p>
+",head-data-operations,,,1.0,2.0,rec7eVftKDyqe2EIZ,recsld3DKqBhnW6rg,,,6000.0,7000.0,Commerce,Rejected by CP,rec7eVftKDyqe2EIZ,"data-analysis,data-science,machine-learning",rec7eVftKDyqe2EIZ,middle-east,recsld3DKqBhnW6rg,asia/united-arab-emirates/dubai,rec7eVftKDyqe2EIZ,"ar,en",recsld3DKqBhnW6rg,"ar,en",,-7.9,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": 0.5,
+        ""Position_Matching_Score"": 0.7,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has 3 out of 4 hardskills required in the job description, and the degree subject Commerce covers some of the skills required in the job description. The candidate can go to the job location and can speak both Arabic and English which are required in the job description.""
+    }"
+71,recdN16e9aiTj0z3a,,,30000.0,42000.0,"<ul class=""liste"">
+<li>Bachelor or Master in business</li>
+<li>Based in Capital city is necessary</li>
+<li>Knowledge of Entrepreneur</li>
+<li>Passion for BTOB Sales, eager to get more commissions</li>
+<li>Fluency in English and local language</li>
+<li>Driving License</li>
+<li>Willing to travel</li>
+<li>Be able to attend necessary meetings</li>
+<li>Experienced candidates: experience in consumer electronics (mobile phones, headphones, etc.) or physical product sales; Inexperienced candidates: favouring recent graduate</li>
+</ul>
+",sales-manager,0.0,0.0,0.0,3.0,rec7j0nOC3naQbnrD,recdN16e9aiTj0z3a,,,32000.0,,,Sent to Client,rec7j0nOC3naQbnrD,"microsoft-excel,purchase-management,purchasing,sales,sales-operations,sales-process,strategy,vendor-contracts,vendor-management,vendor-relationship-management,vendors",,,recdN16e9aiTj0z3a,europe/spain/madrid,rec7j0nOC3naQbnrD,"ar,en,es,pt",recdN16e9aiTj0z3a,"en,es",,-0.2,"
+    Example Output:
+    {
+    ""Hardskill_Matching_Score"": 0.8,
+    ""Degree_Subjects_Matching_Score"": 0.6,
+    ""Position_Matching_Score"": 0.9,
+    ""Location_Matching_Score"": 1,
+    ""Language_Matching_Score"": 1,
+    ""Reason"": ""The candidate has 8 out of 10 hardskills required for the job, and the degree subjects are related to the job. The candidate is capable of the job position and can go to the job location and speak the required languages.""
+    }"
+72,recObvBwoSTSuFEll,,,37000.0,50000.0,"<ul class=""liste"">
+<li>2-3 ans ou + d’expérience en tant qu’ingénieur conseil</li>
+<li>Avoir fait de l’audit</li>
+<li>Expérience dans la CVC  (Chauffage, ventilation et climatisation) ou thermique du bâtiment</li>
+<li>Volonté de travailler dans une jeune entreprise en forte croissance</li>
+<li>Très bon relationnel, parfaitement à l’aise dans son expression écrite et orale</li>
+<li>Réel intérêt pour le monde de l’énergie et volonté d’accélérer la transition énergétique des entreprises et des collectivités</li>
+</ul>
+",others,,,3.0,5.0,rec7Km0jBBl1KdxsN,recObvBwoSTSuFEll,2023-03-31,2023-04-30,47000.0,,(BAC +6) en management de projet de construction durable ,Rejected by client,rec7Km0jBBl1KdxsN,"excel-dashboards,sage",rec7Km0jBBl1KdxsN,europe,recObvBwoSTSuFEll,europe/france/paris,rec7Km0jBBl1KdxsN,"en,fr",recObvBwoSTSuFEll,fr,,-1.0,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.5,
+        ""Degree_Subjects_Matching_Score"": 0.8,
+        ""Position_Matching_Score"": 0.7,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""Candidate has 2 out of 3 hardskills required, degree subjects covers most of the job requirement, candidate can work remotely and can speak both English and French.""
+    }"
+73,recBNbiMFDkK5SgOv,2023-04-11,,40000.0,40000.0,"<ul class=""liste"">
+<li>Have experience in a foodtech environment</li>
+<li>Have excellent sales, communication and negotiation skills</li>
+<li>Already have experience as an SDR or Business Developer (If possible in a foodtech environment)</li>
+<li>Speak English and Mandarin (even better if the candidate speaks French too!)</li>
+<li>(Bonus points) Proficient in the Hubspot CRM software</li>
+</ul>
+",sales-manager,1.0,1.0,1.0,5.0,rec7pNzskjbOedBt2,recBNbiMFDkK5SgOv,,,42000.0,46000.0,,Rejected by CP,rec7pNzskjbOedBt2,.com,rec7pNzskjbOedBt2,europe/france,recBNbiMFDkK5SgOv,europe/france/paris,rec7pNzskjbOedBt2,zh,recBNbiMFDkK5SgOv,zh,,-0.2,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": 0.6,
+        ""Position_Matching_Score"": 0.7,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has experience in a foodtech environment and excellent sales, communication and negotiation skills. The candidate has a degree in a related field and can speak the required languages. The candidate is located in the required location and is proficient in the Hubspot CRM software.""
+    }"
+74,rec2jbStt0bBp170k,2023-04-01,2023-06-01,35000.0,40000.0,"<p>-3+ years of experience as a Graphic Designer in either an in-house, agency or freelance setting<br>
+-Ideally a BA or higher in Graphic Design and/or Visual Communication<br>
+-English and French</p>
+",graphic-designer,2.0,2.0,3.0,5.0,rec7QVOoePgWt85Nt,rec2jbStt0bBp170k,,,,,,Rejected by CP,rec7QVOoePgWt85Nt,html,rec7QVOoePgWt85Nt,europe/france,,,rec7QVOoePgWt85Nt,fr,rec2jbStt0bBp170k,"en,fr",,,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.5,
+        ""Degree_Subjects_Matching_Score"": ""NA"",
+        ""Position_Matching_Score"": 0.3,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has 3+ years of experience as a Graphic Designer, which is related to the job requirement. The candidate can go to the job location and speak the required language. However, the candidate does not have a degree in Graphic Design and/or Visual Communication, so the position matching score is low.""
+    }"
+75,recu8QJacyAODTIeX,,,,,"<p>●     You have 5+ years of experience in B2B sales management, preferably in the agri-food sector and / or in SaaS ;<br>
+ <br>
+●     You are a great communicator and story-teller with any of your prospects’ representatives from C-level to operational staff ;<br>
+ <br>
+●     You speak English and an additional language among German, Spanish, Italian and Portuguese with full professional proficiency ;<br>
+ <br>
+●     Bonus 1 : you bring your own portfolio of leads to the table</p>
+",sales-manager,,,,,rec7S4B015k4BjoVd,recu8QJacyAODTIeX,2023-04-03,,55000.0,,Political Science,Mission closed by client,rec7S4B015k4BjoVd,"2d-graphics,account-management,business-development,business-relationship-building,c-level-sales,campaigns,cold-calling,communication,consultative-selling,emea,entrepreneurship,internal-communications,international-business,international-sales,lead-generation,market-research,microsoft-office,negotiation,networking,new-business-development,new-business-generation,new-business-opportunities,online-advertising,online-marketing,opportunity-qualification,pipeline-generation,planning,presentation-skills,presentations,product-knowledge,relationship-building,sales,sales-cycle-management,sales-process,solution-selling,strategy,teamwork,time-management,training,value-propositions",rec7S4B015k4BjoVd,"europe/bulgaria,europe/sweden",recu8QJacyAODTIeX,europe/united-kingdom,rec7S4B015k4BjoVd,en,,,,,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": 0.5,
+        ""Position_Matching_Score"": 0.7,
+        ""Location_Matching_Score"": 0,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has 8 out of 10 hardskills required for the job, and the degree subject Political Science covers some of the skills required for the job. The candidate's language matches the job requirement, but the location does not match.""
+    }"
+76,recu8QJacyAODTIeX,,,,,"<p>●     You have 5+ years of experience in B2B sales management, preferably in the agri-food sector and / or in SaaS ;<br>
+ <br>
+●     You are a great communicator and story-teller with any of your prospects’ representatives from C-level to operational staff ;<br>
+ <br>
+●     You speak English and an additional language among German, Spanish, Italian and Portuguese with full professional proficiency ;<br>
+ <br>
+●     Bonus 1 : you bring your own portfolio of leads to the table</p>
+",sales-manager,,,,,rec7WQ2tEgqA2yPdd,recu8QJacyAODTIeX,,,57000.0,,,Rejected by client,rec7WQ2tEgqA2yPdd,"analytics,communication,cro,e-commerce,leadership,ppc,saas",rec7WQ2tEgqA2yPdd,europe/united-kingdom/england,recu8QJacyAODTIeX,europe/united-kingdom,rec7WQ2tEgqA2yPdd,en,,,,,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": 0.5,
+        ""Position_Matching_Score"": 0.7,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has 5+ years of experience in B2B sales management, has leadership, PPC, analytics, communication, CRO, e-commerce and SaaS hardskills, has a degree in business management, can go to Europe/United Kingdom/England, and can speak English and an additional language among German, Spanish, Italian and Portuguese with full professional proficiency.""
+    }"
+77,rec0t420QAE6AgEAn,2023-04-01,,35000.0,55000.0,"<p>● 1 year of experience minimum (with a work-study)<br>
+● Two to three years of significant software dev experience in front and back in a team<br>
+● The candidate must speak French<br>
+● Willingness to work in a team, to manage projects from start to finish<br>
+● Years of freelance experience are not taken for granted<br>
+● Autonomous<br>
+● Very high work requirement<br>
+● Willingness to work in a startup with high growth potential<br>
+● Design work and reflection<br>
+● The candidate should preferably come from the New Aquitaine region (Bordeaux)<br>
+● French engineering school ,Epitech and/or Ecole 42 (full curriculum)</p>
+",full-stack-developer,,,,,rec7Zx0tEx5kPB1No,rec0t420QAE6AgEAn,2023-03-14,,37.0,,Conception d'application,Screened by CP,rec7Zx0tEx5kPB1No,"graphql,mysql,node.js,react,typescript",,,,,rec7Zx0tEx5kPB1No,"en,es,fr",rec0t420QAE6AgEAn,fr,-0.18,-3.4963,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": 0.6,
+        ""Position_Matching_Score"": 0.9,
+        ""Location_Matching_Score"": 0,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has 4 out of 5 hardskills required for the job, and the degree subject covers most of the job requirements. The candidate can speak all the languages required for the job, but the location does not match.""
+    }"
+78,recA3Ye1PMACJlO1Z,2023-04-03,,65000.0,120000.0,"<ul class=""liste"">
+<li>Experience in building backend data services and Microservices at scale</li>
+<li>Experience leading and architecting major new enhancements</li>
+<li>Strong understanding of web services and best practices    Strong experience with managing the security aspects</li>
+<li>Have working knowledge on following technologies:<br>
+Node.js – GraphQl – AWS  - Express JS – PostgreSQL - Hasura</li>
+<li>Experience – min 7 years experience</li>
+<li>Experience in a tech start-up or large company</li>
+<li>Have stayed in a company for at least 2 years</li>
+</ul>
+",backend-developer,,,6.0,9.0,rec859nIlixJ5qnFW,recA3Ye1PMACJlO1Z,2023-03-06,,60000.0,72000.0,Computer Science,Rejected by CP,rec859nIlixJ5qnFW,"amazon-web-services-aws,back-end-development,ecs,graphql,javascript,node.js,postgresql,windows-azure",,,recA3Ye1PMACJlO1Z,"americas/united-states,asia/india,europe",rec859nIlixJ5qnFW,en,recA3Ye1PMACJlO1Z,en,-0.28,-0.5,"
+    Example Output:
+    {
+    ""Hardskill_Matching_Score"": 0.8,
+    ""Degree_Subjects_Matching_Score"": 0.9,
+    ""Position_Matching_Score"": 0.9,
+    ""Location_Matching_Score"": 0,
+    ""Language_Matching_Score"": 1,
+    ""Reason"": ""The candidate has 8 out of 9 hardskills required for the job, and the degree subject Computer Science covers most of the job requirements. The candidate has all the language requirements for the job, but the location does not match.""
+    }"
+79,recwMSrftJ7BbX5mZ,,,8320.0,12480.0,"<ul class=""liste"">
+<li>Bachelor’s degree in Information Science, Computer Science, Computer Engineering, Mathematics, or related field, or 3 plus years of relevant work experience</li>
+<li>Experience working with relational database structures, SQL and/or flat files and performing table joins, web crawling, and web development</li>
+<li>Proficiency in one or more of the following programming languages: Java, C#, C++, or Python and  familiarity with Node.js</li>
+<li>Experience working with commercial relational database systems such as electronic medical records or other clinical systems, client relationship management software, or accounting systems a plus</li>
+<li>Familiar with various data management methodologies, data exploration techniques, data quality assurance practices, and data discovery/ visualization tools</li>
+<li>Natural curiosity about what’s hidden in the data through exploration, attention to detail, and ability to see the big picture – similar to putting together a 10,000-piece puzzle</li>
+<li>Ability to communicate your ideas (verbal and written) so that team members and clients can understand them</li>
+<li>Share our values: growth, relationships, integrity, and true grit</li>
+</ul>
+",data-engineer,,,1.0,2.0,rec89hHTnNaf2g3A1,recwMSrftJ7BbX5mZ,2023-03-31,,20000.0,,b.tech,Rejected by client,rec89hHTnNaf2g3A1,python,,,recwMSrftJ7BbX5mZ,asia/india,rec89hHTnNaf2g3A1,en,recwMSrftJ7BbX5mZ,"en,hi",,-1.168,"
+    Output:
+    {
+        ""Hardskill_Matching_Score"": 0.5,
+        ""Degree_Subjects_Matching_Score"": 0.75,
+        ""Position_Matching_Score"": 0.75,
+        ""Location_Matching_Score"": 0,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has Python hardskill which is related to the job requirement. The candidate has B.Tech degree which covers some of the job requirement. The candidate has Python hardskill and B.Tech degree which is related to the job position. The candidate's location is not matched with the job location. The candidate's language is matched with the job language.""
+    }"
+80,recAtcVMDz425qUT3,2023-05-15,,75000.0,85000.0,"<p>They are looking for the person behind the data science. the candidate must be curious, collegial, hard-working individual with the vision to change the world. Critical questioning of key decisions and motivation to create efficient processes for clients and our company is crucial. He is humble, know when to ask for help, and enjoy learning alongside your colleagues. He take ownership and deliver results. This will makes a candidate the perfect Diesta team member!</p>
+<p>Skills &amp; Experience needed:</p>
+<ul class=""liste"">
+<li>At least 5 years of experience in data engineering or related field</li>
+<li>BSc in Computer Science or similar</li>
+<li>Proven experience with Python</li>
+<li>Strong understanding of data warehousing, ETL processes, and data modelling</li>
+<li>Be a resident in England, Wales or Scotland</li>
+<li>Be curious and reliable</li>
+<li>Exposure to spreadsheet data pipelines.</li>
+</ul>
+<p>The wow factor (not required but the stuff we love to see!)</p>
+<ul class=""liste"">
+<li>Experience with Fintech companies</li>
+<li>Have an understanding how insurance works</li>
+<li>Experience with data visualisation tools, especially AWS QuickInsights, is a plus</li>
+</ul>
+",data-engineer,4.0,4.0,5.0,9.0,rec8aKpK3QezNFX61,recAtcVMDz425qUT3,,,850000.0,95000.0,,Rejected by client,rec8aKpK3QezNFX61,"data-coding,data-extraction,data-migration,project-management",,,,,rec8aKpK3QezNFX61,en,recAtcVMDz425qUT3,en,,-77.5,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": 0.6,
+        ""Position_Matching_Score"": 0.9,
+        ""Location_Matching_Score"": 0,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has 4 out of the 7 required hardskills, and the degree subject is related to the job position. The candidate's language matches the job language, but the location does not match.""
+    }"
+81,recavhovBsS2p3eZO,,,24000.0,24000.0,"<ul class=""liste"">
+<li>Bachelor or Master in business</li>
+<li>Based in Capital city is necessary</li>
+<li>Knowledge of Entrepreneur</li>
+<li>Passion for BTOB Sales, eager to get more commissions</li>
+<li>Fluency in English and local language</li>
+<li>Driving License</li>
+<li>Willing to travel</li>
+<li>Be able to attend necessary meetings</li>
+<li>Experienced candidates: experience in consumer electronics (mobile phones, headphones, etc.) or physical product sales; Inexperienced candidates: favouring recent graduate</li>
+</ul>
+",sales-manager,0.0,0.0,0.0,3.0,rec8EIx4pU1shuKLx,recavhovBsS2p3eZO,,,,,International Trade & Business,Sent to Client,rec8EIx4pU1shuKLx,"business,business-development,business-management,communication,driving-license,negotiation,sales-management",,,recavhovBsS2p3eZO,europe/romania,rec8EIx4pU1shuKLx,"bg,en,fr,it,ro",recavhovBsS2p3eZO,"en,ro",,,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": 0.6,
+        ""Position_Matching_Score"": 0.9,
+        ""Location_Matching_Score"": 0,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has 8 out of 10 hardskills required for the job, and the degree subject is related to the job. The candidate has all the language requirements for the job, but the location does not match.""
+    }"
+82,rec25eM1zf8i9g7V4,,,8320.0,12480.0,"<ul class=""liste"">
+<li>Looking for people with at least one year of experience, preferably 2 years</li>
+<li>They should be trained on industry standard tools</li>
+<li>They should have Bachelor of Engineering degree in computer science or IT is a must</li>
+<li>They will work with the US team where they are looking at the tickets which are gonna be generated in terms of security, as well as internal tickets</li>
+<li>They are documenting a lot of security protocols</li>
+<li>They are coming up with new security protocals whenever required.</li>
+</ul>
+",security-engineer,,,1.0,2.0,rec8HSO03c63Hqdb7,rec25eM1zf8i9g7V4,,,,,,Rejected by CP,rec8HSO03c63Hqdb7,"python,selenium",,,rec25eM1zf8i9g7V4,asia/india,rec8HSO03c63Hqdb7,"en,hi",rec25eM1zf8i9g7V4,"en,hi",,,"
+    Output:
+    {
+        ""Hardskill_Matching_Score"": 0.5,
+        ""Degree_Subjects_Matching_Score"": ""NA"",
+        ""Position_Matching_Score"": 0.5,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has hardskills in python and selenium which are related to the job requirements. The candidate can work in the job location and can speak the required language. The candidate does not have a degree in computer science or IT, so the degree subjects matching score is not applicable.""
+    }"
+83,rec11F8d7djUmcYvT,,,24000.0,24000.0,"<ul class=""liste"">
+<li>Bachelor or Master in business</li>
+<li>Based in Capital city is necessary</li>
+<li>Knowledge of Entrepreneur</li>
+<li>Passion for BTOB Sales, eager to get more commissions</li>
+<li>Fluency in English and local language</li>
+<li>Driving License</li>
+<li>Willing to travel</li>
+<li>Be able to attend necessary meetings</li>
+<li>Experienced candidates: experience in consumer electronics (mobile phones, headphones, etc.) or physical product sales; Inexperienced candidates: favouring recent graduate</li>
+</ul>
+",sales-manager,0.0,0.0,0.0,3.0,rec8iiBI1SdCaTj9D,rec11F8d7djUmcYvT,,,24000.0,,,Rejected by CP,rec8iiBI1SdCaTj9D,sales,rec8iiBI1SdCaTj9D,europe/bulgaria,rec11F8d7djUmcYvT,europe/bulgaria,rec8iiBI1SdCaTj9D,"bg,en",rec11F8d7djUmcYvT,"bg,en",,-0.0,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": 0.6,
+        ""Position_Matching_Score"": 0.7,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has a Bachelor or Master in business, and has experience in sales which is related to the job position. The candidate is based in the same location as the job, and can speak both English and the local language. Therefore, the candidate is a good fit for the job.""
+    }"
+84,recA3Ye1PMACJlO1Z,2023-04-03,,65000.0,120000.0,"<ul class=""liste"">
+<li>Experience in building backend data services and Microservices at scale</li>
+<li>Experience leading and architecting major new enhancements</li>
+<li>Strong understanding of web services and best practices    Strong experience with managing the security aspects</li>
+<li>Have working knowledge on following technologies:<br>
+Node.js – GraphQl – AWS  - Express JS – PostgreSQL - Hasura</li>
+<li>Experience – min 7 years experience</li>
+<li>Experience in a tech start-up or large company</li>
+<li>Have stayed in a company for at least 2 years</li>
+</ul>
+",backend-developer,,,6.0,9.0,rec8Jgcpsbq3wmvcE,recA3Ye1PMACJlO1Z,2023-03-20,,120000.0,140000.0,Software Engineering,Rejected by CP,rec8Jgcpsbq3wmvcE,"amazon-web-services-aws,ecs,graphql,node.js,postgresql",,,recA3Ye1PMACJlO1Z,"americas/united-states,asia/india,europe",rec8Jgcpsbq3wmvcE,en,recA3Ye1PMACJlO1Z,en,-0.14,-5.5,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": 0.9,
+        ""Position_Matching_Score"": 0.9,
+        ""Location_Matching_Score"": 0,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""Candidate has 4 out of 5 hardskills required in the job description, degree subject is Software Engineering which covers most of the job requirement, candidate has 4 out of 5 hardskills and degree subject which is enough for the job position, candidate location is not matched with the job location, candidate language is matched with the job language.""
+    }"
+85,rec7MvbTywFTvWryg,,,45000.0,60000.0,"<p>**Technology used by the company is Ruby **</p>
+<ul class=""liste"">
+<li>
+<p>Min **2 years of experience **as a full stack developer or school exit (-<strong>Top engineering school – “Top 10”</strong>) -Info school (only Epita)</p>
+</li>
+<li>
+<p>Proximity to Paris but not mandatory</p>
+</li>
+<li>
+<p>The candidate can both work remotely and travel to the headquarters in Paris from time to time to meet the team.</p>
+</li>
+<li>
+<p>The candidate must be native French (or professional level)</p>
+</li>
+<li>
+<p><strong>Back :  Ruby, PostgreSQL, Heroku</strong></p>
+</li>
+<li>
+<p><strong>Front : Typescript , React native, React</strong></p>
+</li>
+</ul>
+",full-stack-developer,,,,,rec8NOT7DkgFxWfXW,rec7MvbTywFTvWryg,2023-03-01,,45000.0,,Business Management,Rejected by CP,rec8NOT7DkgFxWfXW,"angularjs,apis,atlas,css,git,github,graphql,html,javascript,jira,mongodb,node.js,postgresql,react,typescript",,,rec7MvbTywFTvWryg,europe/france/paris,rec8NOT7DkgFxWfXW,"en,es,fr",rec7MvbTywFTvWryg,fr,,-0.0,"
+    Example Output:
+    {
+    ""Hardskill_Matching_Score"": 0.8,
+    ""Degree_Subjects_Matching_Score"": 0.5,
+    ""Position_Matching_Score"": 0.7,
+    ""Location_Matching_Score"": 1,
+    ""Language_Matching_Score"": 1,
+    ""Reason"": ""The candidate has 8 out of 10 hardskills required by the job, and the degree subject Business Management covers some of the skills required by the job. The candidate can work remotely or travel to the headquarters in Paris from time to time to meet the team. The candidate can speak all the languages required by the job.""
+    }"
+86,rec5J1KpQYUAeo0rW,,,,,"<p>●     You have 5+ years of experience in B2B sales management, preferably in the agri-food sector and / or in SaaS ;<br>
+ <br>
+●     You are a great communicator and story-teller with any of your prospects’ representatives from C-level to operational staff ;<br>
+ <br>
+●     You speak English and an additional language among German, Spanish, Italian and Portuguese with full professional proficiency ;<br>
+ <br>
+●     Bonus 1 : you bring your own portfolio of leads to the table</p>
+",sales-manager,,,,,rec8OovnmiaWyj5W3,rec5J1KpQYUAeo0rW,,,60000.0,,International Business,Rejected by client,rec8OovnmiaWyj5W3,"microsoft-office,ms-excel-pivot-tables",rec8OovnmiaWyj5W3,europe/spain,rec5J1KpQYUAeo0rW,europe/spain,rec8OovnmiaWyj5W3,"de,en,es,nl",rec5J1KpQYUAeo0rW,"en,es",,,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": 0.6,
+        ""Position_Matching_Score"": 0.9,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has 5+ years of experience in B2B sales management, has a degree in International Business, has the hardskills of Microsoft Office and MS Excel Pivot Tables, is located in Spain and speaks English, Spanish, German, Italian and Portuguese with full professional proficiency, which matches the job requirements perfectly.""
+    }"
+87,recavhovBsS2p3eZO,,,24000.0,24000.0,"<ul class=""liste"">
+<li>Bachelor or Master in business</li>
+<li>Based in Capital city is necessary</li>
+<li>Knowledge of Entrepreneur</li>
+<li>Passion for BTOB Sales, eager to get more commissions</li>
+<li>Fluency in English and local language</li>
+<li>Driving License</li>
+<li>Willing to travel</li>
+<li>Be able to attend necessary meetings</li>
+<li>Experienced candidates: experience in consumer electronics (mobile phones, headphones, etc.) or physical product sales; Inexperienced candidates: favouring recent graduate</li>
+</ul>
+",sales-manager,0.0,0.0,0.0,3.0,rec8vvFIRQth7j8sy,recavhovBsS2p3eZO,,,,,Marketing,Rejected by CP,rec8vvFIRQth7j8sy,"account-management,business-development,business-strategy,driving-license,marketing,sales",,,recavhovBsS2p3eZO,europe/romania,rec8vvFIRQth7j8sy,"en,ro",recavhovBsS2p3eZO,"en,ro",,,"
+    Output:
+    {
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": 0.6,
+        ""Position_Matching_Score"": 0.7,
+        ""Location_Matching_Score"": 0,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has 6 out of 8 hardskills required in the job description, and the degree subject is related to the job position. The candidate has all the language requirements, but the location does not match with the job location.""
+    }"
+88,recGrGIFWaByaa5dg,,,60000.0,120000.0,"<p>2 to 10 years experience in a growth hacking/marketing role preferably in e-commerce industry<br>
+- Proven track record launching successful marketing acquisition campaigns<br>
+- Excellent analytical skills and ability to leverage data, metrics, analytics, and consumer behavior trends to generate creative ideas<br>
+- Original/creative thinking and strong problem-solving skills<br>
+- Excellent communication skills and full <strong>fluency in English</strong><br>
+- <strong>Arabic proficiency <strong>(The main market would be Saudi Arabia)<br>
+- Ability to work under pressure<br>
+- Collaborative mindset<br>
+ <br>
+The company wants to avoid someone who has been the marketing director of a large company and who can forget how to do things himself.<br>
+ <br>
+ <br>
+For a junior profile with 2 years experience the salary will be $<strong>60K + equity+ bonus</strong><br>
+For a senior profile with 10 years of experience, the salary could be between</strong> 95 and 120K$</strong> per year <strong>+ equity+ bonus</strong><br>
+For other candidates with between 3 and 9 years' experience the salary will be in between (negociable)<br>
+<strong>-Sponsorship</strong></p>
+<p></p>
+",head-of-growth,,,,,rec8WeqqS8tGwymra,recGrGIFWaByaa5dg,,,,,Post Graduate Diploma (Marketing),Waiting list,rec8WeqqS8tGwymra,"communication,marketing,media-production",,,recGrGIFWaByaa5dg,asia/saudi-arabia,rec8WeqqS8tGwymra,en,recGrGIFWaByaa5dg,"ar,en",,,"
+    Output:
+    {
+        ""Hardskill_Matching_Score"": 0.75,
+        ""Degree_Subjects_Matching_Score"": 0.5,
+        ""Position_Matching_Score"": 0.75,
+        ""Location_Matching_Score"": 0,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has 3 out of 4 hardskills required for the job, which is 75% matched. The candidate has a Post Graduate Diploma in Marketing, which is 50% matched with the job requirement. The candidate has 3 out of 4 hardskills and a Post Graduate Diploma in Marketing, which is 75% matched with the job position. The candidate's location is not matched with the job location, which is 0% matched. The candidate's language is English, which is 100% matched with the job language.""
+    }"
+89,recObvBwoSTSuFEll,,,37000.0,50000.0,"<ul class=""liste"">
+<li>2-3 ans ou + d’expérience en tant qu’ingénieur conseil</li>
+<li>Avoir fait de l’audit</li>
+<li>Expérience dans la CVC  (Chauffage, ventilation et climatisation) ou thermique du bâtiment</li>
+<li>Volonté de travailler dans une jeune entreprise en forte croissance</li>
+<li>Très bon relationnel, parfaitement à l’aise dans son expression écrite et orale</li>
+<li>Réel intérêt pour le monde de l’énergie et volonté d’accélérer la transition énergétique des entreprises et des collectivités</li>
+</ul>
+",others,,,3.0,5.0,rec97O0GyoLisEhz2,recObvBwoSTSuFEll,2023-04-30,,41000.0,42000.0,Diplôme d'ingénieur,Rejected by client,rec97O0GyoLisEhz2,energy-management,,,recObvBwoSTSuFEll,europe/france/paris,rec97O0GyoLisEhz2,fr,recObvBwoSTSuFEll,fr,,-0.4,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.5,
+        ""Degree_Subjects_Matching_Score"": 0.8,
+        ""Position_Matching_Score"": 0.7,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has energy-management hardskill which is related to the job requirement. The candidate has Diplôme d'ingénieur degree which covers most of the job requirement. The candidate can go to the job location. The candidate can speak the language required by the job.""
+    }"
+90,recwMSrftJ7BbX5mZ,,,8320.0,12480.0,"<ul class=""liste"">
+<li>Bachelor’s degree in Information Science, Computer Science, Computer Engineering, Mathematics, or related field, or 3 plus years of relevant work experience</li>
+<li>Experience working with relational database structures, SQL and/or flat files and performing table joins, web crawling, and web development</li>
+<li>Proficiency in one or more of the following programming languages: Java, C#, C++, or Python and  familiarity with Node.js</li>
+<li>Experience working with commercial relational database systems such as electronic medical records or other clinical systems, client relationship management software, or accounting systems a plus</li>
+<li>Familiar with various data management methodologies, data exploration techniques, data quality assurance practices, and data discovery/ visualization tools</li>
+<li>Natural curiosity about what’s hidden in the data through exploration, attention to detail, and ability to see the big picture – similar to putting together a 10,000-piece puzzle</li>
+<li>Ability to communicate your ideas (verbal and written) so that team members and clients can understand them</li>
+<li>Share our values: growth, relationships, integrity, and true grit</li>
+</ul>
+",data-engineer,,,1.0,2.0,rec9AGT3lOul7FYDP,recwMSrftJ7BbX5mZ,2023-03-31,,150000.0,,B.tech,Rejected by CP,rec9AGT3lOul7FYDP,python,,,recwMSrftJ7BbX5mZ,asia/india,rec9AGT3lOul7FYDP,en,recwMSrftJ7BbX5mZ,"en,hi",,-14.168,"
+    Output:
+    {
+        ""Hardskill_Matching_Score"": 0.5,
+        ""Degree_Subjects_Matching_Score"": 0.75,
+        ""Position_Matching_Score"": 0.75,
+        ""Location_Matching_Score"": 0,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has Python hardskill which is related to the job requirement. The candidate has B.tech degree which covers some of the job requirement. The candidate has Python hardskill and B.tech degree which is related to the job position. The candidate's location is not matched with the job location. The candidate's language is matched with the job language.""
+    }"
+91,rec7MvbTywFTvWryg,,,45000.0,60000.0,"<p>**Technology used by the company is Ruby **</p>
+<ul class=""liste"">
+<li>
+<p>Min **2 years of experience **as a full stack developer or school exit (-<strong>Top engineering school – “Top 10”</strong>) -Info school (only Epita)</p>
+</li>
+<li>
+<p>Proximity to Paris but not mandatory</p>
+</li>
+<li>
+<p>The candidate can both work remotely and travel to the headquarters in Paris from time to time to meet the team.</p>
+</li>
+<li>
+<p>The candidate must be native French (or professional level)</p>
+</li>
+<li>
+<p><strong>Back :  Ruby, PostgreSQL, Heroku</strong></p>
+</li>
+<li>
+<p><strong>Front : Typescript , React native, React</strong></p>
+</li>
+</ul>
+",full-stack-developer,,,,,rec9G1UcYHanBl6NX,rec7MvbTywFTvWryg,2023-03-27,,50000.0,,Programmation informatique,Rejected by CP,rec9G1UcYHanBl6NX,"java,jscript,ruby,ruby-on-rails",,,rec7MvbTywFTvWryg,europe/france/paris,rec9G1UcYHanBl6NX,"en,fr",rec7MvbTywFTvWryg,fr,,-0.5,"
+    Example Output:
+    {
+    ""Hardskill_Matching_Score"": 0.75,
+    ""Degree_Subjects_Matching_Score"": 0.5,
+    ""Position_Matching_Score"": 0.9,
+    ""Location_Matching_Score"": 1,
+    ""Language_Matching_Score"": 1,
+    ""Reason"": ""The candidate has 4 out of 5 hardskills required by the job, and the degree subject covers some of the skills required by the job. The candidate can work remotely or travel to the headquarters in Paris from time to time to meet the team. The candidate is native French. The candidate can speak both English and French which are required by the job.""
+    }"
+92,recMh3kDSANBvdJbu,,,8320.0,12480.0,"<ul class=""liste"">
+<li>B.S. (or equivalent through education/work) Computer Science, Engineering, or related field</li>
+<li>Ability to communicate effectively</li>
+<li>Creative problem-solving ability</li>
+<li>Strong knowledge of software QA methodologies, tools and processes</li>
+<li>Experience in writing clear, concise and comprehensive test plans and reports</li>
+<li>Hands-on experience with both white box, and black box, performance, security and exploratory testing</li>
+<li>Familiarity with session-based testing, heuristics and oracles</li>
+<li>Hands-on experience with automated testing tools such as Cypress or Selenium</li>
+<li>Solid knowledge of SQL and/or other scripting tools</li>
+<li>Programming knowledge in JavaScript, Python, Golang or NetCore is desirable</li>
+<li>Proven work experience in software development</li>
+<li>Proven work experience in software quality assurance</li>
+<li>Experience working in an Agile/ framework such as Kanban and Scrum</li>
+</ul>
+",qa-engineer,,,1.0,2.0,rec9HejHnTQHmI7Q1,recMh3kDSANBvdJbu,,,,,,Sent to Client,rec9HejHnTQHmI7Q1,python,,,recMh3kDSANBvdJbu,asia/india,rec9HejHnTQHmI7Q1,"en,hi",recMh3kDSANBvdJbu,"en,hi",,,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": 0.6,
+        ""Position_Matching_Score"": 0.7,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has Python hardskill which is related to the job requirement. The degree subject of the candidate is not related to the job requirement. The candidate has Python hardskill and degree subject which is related to the job position. The candidate can go to the job location. The candidate can speak the language required by the job.""
+    }"
+93,recONKansnIbXY6ij,,,,,,marketing-manager,,,,,rec9KAXhc8ytoLS03,recONKansnIbXY6ij,,,38000.0,,,Rejected by client,,,,,recONKansnIbXY6ij,europe/france/paris,rec9KAXhc8ytoLS03,"en,es,fr",,,,,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": 0.6,
+        ""Position_Matching_Score"": 0.9,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""Candidate has hardskills related to the job requirements, degree subjects cover most of the job requirements, candidate is capable of the job position, candidate can go to the job location, and candidate can speak all the languages required for the job.""
+    }"
+94,recMh3kDSANBvdJbu,,,8320.0,12480.0,"<ul class=""liste"">
+<li>B.S. (or equivalent through education/work) Computer Science, Engineering, or related field</li>
+<li>Ability to communicate effectively</li>
+<li>Creative problem-solving ability</li>
+<li>Strong knowledge of software QA methodologies, tools and processes</li>
+<li>Experience in writing clear, concise and comprehensive test plans and reports</li>
+<li>Hands-on experience with both white box, and black box, performance, security and exploratory testing</li>
+<li>Familiarity with session-based testing, heuristics and oracles</li>
+<li>Hands-on experience with automated testing tools such as Cypress or Selenium</li>
+<li>Solid knowledge of SQL and/or other scripting tools</li>
+<li>Programming knowledge in JavaScript, Python, Golang or NetCore is desirable</li>
+<li>Proven work experience in software development</li>
+<li>Proven work experience in software quality assurance</li>
+<li>Experience working in an Agile/ framework such as Kanban and Scrum</li>
+</ul>
+",qa-engineer,,,1.0,2.0,rec9n1kJgaZwMeyzP,recMh3kDSANBvdJbu,,,,,,Rejected by client,rec9n1kJgaZwMeyzP,"java,python",rec9n1kJgaZwMeyzP,asia/india,recMh3kDSANBvdJbu,asia/india,rec9n1kJgaZwMeyzP,"en,hi",recMh3kDSANBvdJbu,"en,hi",,,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.5,
+        ""Degree_Subjects_Matching_Score"": 0.8,
+        ""Position_Matching_Score"": 0.7,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has hardskills in java and python which are related to the job requirement. The degree subjects of the candidate covers most of the job requirement. The candidate is capable of the job position. The candidate can go to the job location. The candidate can speak all the required languages.""
+    }"
+95,recTOLFUh69KqHf4t,,,,,"<p>·     Utilisation d’un CRM très orienté new deal<br>
+·     ** 5 ans d’expérience en tant que commercial** ou équivalent<br>
+·      Très bon relationnel, parfaitement à <strong>l'aise à l'oral</strong>.<br>
+·     Volonté de développer ses compétences commerciales sur un marché complexe et passionnant,<br>
+·     Volonté de travailler dans une Proptech à forte croissance<br>
+·     Réel <strong>intérêt pour le monde de l’énergie</strong><br>
+·     Participer à la transition énergétique des entreprises des collectivités et des gestionnaires de bail<br>
+·     Plutôt <strong>trentenaire</strong></p>
+",business-development,,,,,rec9oY2ukbZmT0Lnk,recTOLFUh69KqHf4t,,,55000.0,,Marketing opérationnel international,Rejected by client,rec9oY2ukbZmT0Lnk,"energy,saas",rec9oY2ukbZmT0Lnk,europe/france,recTOLFUh69KqHf4t,europe/france/paris,rec9oY2ukbZmT0Lnk,"en,fr",recTOLFUh69KqHf4t,fr,,,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.5,
+        ""Degree_Subjects_Matching_Score"": 0.8,
+        ""Position_Matching_Score"": 0.7,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has two hardskills which are related to the job requirement, and the degree subject covers most of the job requirement. The candidate can work in the job location and can speak the required language.""
+    }"
+96,recMh3kDSANBvdJbu,,,8320.0,12480.0,"<ul class=""liste"">
+<li>B.S. (or equivalent through education/work) Computer Science, Engineering, or related field</li>
+<li>Ability to communicate effectively</li>
+<li>Creative problem-solving ability</li>
+<li>Strong knowledge of software QA methodologies, tools and processes</li>
+<li>Experience in writing clear, concise and comprehensive test plans and reports</li>
+<li>Hands-on experience with both white box, and black box, performance, security and exploratory testing</li>
+<li>Familiarity with session-based testing, heuristics and oracles</li>
+<li>Hands-on experience with automated testing tools such as Cypress or Selenium</li>
+<li>Solid knowledge of SQL and/or other scripting tools</li>
+<li>Programming knowledge in JavaScript, Python, Golang or NetCore is desirable</li>
+<li>Proven work experience in software development</li>
+<li>Proven work experience in software quality assurance</li>
+<li>Experience working in an Agile/ framework such as Kanban and Scrum</li>
+</ul>
+",qa-engineer,,,1.0,2.0,rec9q7BZ1rWDzKNWB,recMh3kDSANBvdJbu,,,5400.0,,,Rejected by CP,rec9q7BZ1rWDzKNWB,"core-java,jira,mysql,selenium,testing",,,recMh3kDSANBvdJbu,asia/india,rec9q7BZ1rWDzKNWB,"en,hi,kn,ta,te",recMh3kDSANBvdJbu,"en,hi",,-0.292,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": 0.6,
+        ""Position_Matching_Score"": 0.9,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has 5 out of the 8 hardskills required for the job, and the degree subject covers most of the job requirements. The candidate can work remotely and can speak all the languages required for the job.""
+    }"
+97,recJHwegfLPOBlDmf,2023-06-04,,54000.0,54000.0,"<ul class=""liste"">
+<li>Utilisation d’un CRM très orienté new deal</li>
+<li><strong>Expérience significative en tant que commercial</strong> ou équivalent dans la vente et le partenariats. <strong>( Ex: chargé de partenariats)</strong></li>
+<li>Capacité à établir et <strong>maintenir</strong> des relations de confiance avec les partenaires</li>
+<li>Aptitude à** la négociation , la vente et un peu de technicité** ( Capable d’accord avec de grands groupes et d’animer la population commerciale au sein des partenaires : Capable de faire des <strong>Démonstrations de produits</strong>)</li>
+<li>Très bon relationnel, parfaitement à <strong>l'aise à l'oral</strong></li>
+<li>Volonté de développer ses compétences commerciales sur un marché complexe et passionnant,</li>
+<li><strong>Solides compétences en analyse de données et en interprétation des tendances de vente</strong></li>
+<li>Volonté de travailler dans une Proptech à forte croissance</li>
+<li>Réel <strong>intérêt pour le monde de l’énergie</strong></li>
+<li>Participer à la transition énergétique des entreprises des collectivités et des gestionnaires de bail</li>
+<li><strong>Sensibilité dans l’énergie tertiaire et/ou industrielle</strong></li>
+<li>Une expérience dans un <strong>bureau d'études</strong> ou de CVC est également très intéressante.</li>
+</ul>
+",business-development,,,6.0,9.0,rec9W5N4gL67lrYj7,recJHwegfLPOBlDmf,,,,,Ingénieur commercial,Candidate not interested,rec9W5N4gL67lrYj7,.com,rec9W5N4gL67lrYj7,europe/france,recJHwegfLPOBlDmf,europe/france,rec9W5N4gL67lrYj7,"en,fr,it",recJHwegfLPOBlDmf,"en,fr",,,"
+    Output:
+    {
+    ""Hardskill_Matching_Score"": 0.5,
+    ""Degree_Subjects_Matching_Score"": 0.8,
+    ""Position_Matching_Score"": 0.7,
+    ""Location_Matching_Score"": 1,
+    ""Language_Matching_Score"": 1,
+    ""Reason"": ""The candidate has .com hardskills which is related to the job requirement. The candidate has degree in Ingénieur commercial which covers most of the job requirement. The candidate has experience in business-development which is related to the job position. The candidate can go to europe/france which is the job location. The candidate can speak en,fr which is the job language.""
+    }"
+98,recMh3kDSANBvdJbu,,,8320.0,12480.0,"<ul class=""liste"">
+<li>B.S. (or equivalent through education/work) Computer Science, Engineering, or related field</li>
+<li>Ability to communicate effectively</li>
+<li>Creative problem-solving ability</li>
+<li>Strong knowledge of software QA methodologies, tools and processes</li>
+<li>Experience in writing clear, concise and comprehensive test plans and reports</li>
+<li>Hands-on experience with both white box, and black box, performance, security and exploratory testing</li>
+<li>Familiarity with session-based testing, heuristics and oracles</li>
+<li>Hands-on experience with automated testing tools such as Cypress or Selenium</li>
+<li>Solid knowledge of SQL and/or other scripting tools</li>
+<li>Programming knowledge in JavaScript, Python, Golang or NetCore is desirable</li>
+<li>Proven work experience in software development</li>
+<li>Proven work experience in software quality assurance</li>
+<li>Experience working in an Agile/ framework such as Kanban and Scrum</li>
+</ul>
+",qa-engineer,,,1.0,2.0,reca1WmK5qaT4bB1B,recMh3kDSANBvdJbu,,,,,,Sent to Client,reca1WmK5qaT4bB1B,"java,python,selenium",,,recMh3kDSANBvdJbu,asia/india,reca1WmK5qaT4bB1B,"en,hi",recMh3kDSANBvdJbu,"en,hi",,,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.75,
+        ""Degree_Subjects_Matching_Score"": ""NA"",
+        ""Position_Matching_Score"": 0.75,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""Candidate has hardskills in java, python and selenium which are related to the job requirements. Candidate can work in the job location and can speak the required language.""
+    }"
+99,recAtcVMDz425qUT3,2023-05-15,,75000.0,85000.0,"<p>They are looking for the person behind the data science. the candidate must be curious, collegial, hard-working individual with the vision to change the world. Critical questioning of key decisions and motivation to create efficient processes for clients and our company is crucial. He is humble, know when to ask for help, and enjoy learning alongside your colleagues. He take ownership and deliver results. This will makes a candidate the perfect Diesta team member!</p>
+<p>Skills &amp; Experience needed:</p>
+<ul class=""liste"">
+<li>At least 5 years of experience in data engineering or related field</li>
+<li>BSc in Computer Science or similar</li>
+<li>Proven experience with Python</li>
+<li>Strong understanding of data warehousing, ETL processes, and data modelling</li>
+<li>Be a resident in England, Wales or Scotland</li>
+<li>Be curious and reliable</li>
+<li>Exposure to spreadsheet data pipelines.</li>
+</ul>
+<p>The wow factor (not required but the stuff we love to see!)</p>
+<ul class=""liste"">
+<li>Experience with Fintech companies</li>
+<li>Have an understanding how insurance works</li>
+<li>Experience with data visualisation tools, especially AWS QuickInsights, is a plus</li>
+</ul>
+",data-engineer,4.0,4.0,5.0,9.0,recA6QADpxm6Grzr2,recAtcVMDz425qUT3,,,70000.0,80000.0,MSc Health Data Science,Rejected by client,recA6QADpxm6Grzr2,"python,sas,stata",,,,,recA6QADpxm6Grzr2,en,recAtcVMDz425qUT3,en,,-0.5,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.75,
+        ""Degree_Subjects_Matching_Score"": 0.5,
+        ""Position_Matching_Score"": 0.8,
+        ""Location_Matching_Score"": 0,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has 3 out of 4 hardskills required, and the degree subject is related to the job. The candidate has all the language required, but the location is not matched.""
+    }"

@@ -1,0 +1,109 @@
+,airtableId,jobStart,jobEnd,salaryMin,salaryMax,requirementsDescription,position,sectorExpMin,sectorExpMax,positionExpMin,positionExpMax,airtableId.1,missionId,availableFrom,availableUntil,minSalaryExpect,maxSalaryExpect,degreeSubject,status,missionCandidate,MissionCandidateHardSkills,missionCandidate.1,MissionCandidateLocations,mission,MissionLocations,missionCandidate.2,MissionCandidateLanguages,mission.1,MissionLanguages,Time_matching_score,Salary_matching_score,General_matching_score
+0,rec7MvbTywFTvWryg,,,45000.0,60000.0,"<p>**Technology used by the company is Ruby **</p>
+<ul class=""liste"">
+<li>
+<p>Min **2 years of experience **as a full stack developer or school exit (-<strong>Top engineering school – “Top 10”</strong>) -Info school (only Epita)</p>
+</li>
+<li>
+<p>Proximity to Paris but not mandatory</p>
+</li>
+<li>
+<p>The candidate can both work remotely and travel to the headquarters in Paris from time to time to meet the team.</p>
+</li>
+<li>
+<p>The candidate must be native French (or professional level)</p>
+</li>
+<li>
+<p><strong>Back :  Ruby, PostgreSQL, Heroku</strong></p>
+</li>
+<li>
+<p><strong>Front : Typescript , React native, React</strong></p>
+</li>
+</ul>
+",full-stack-developer,,,,,rec0ijxnKLBBDIYQ7,rec7MvbTywFTvWryg,,,43000.0,45000.0,Web developer,Rejected by CP,rec0ijxnKLBBDIYQ7,"javascript,ruby-on-rails",rec0ijxnKLBBDIYQ7,europe/france,rec7MvbTywFTvWryg,europe/france/paris,rec0ijxnKLBBDIYQ7,en,rec7MvbTywFTvWryg,fr,,-0.2,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": 0.5,
+        ""Position_Matching_Score"": 0.7,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 0,
+        ""Reason"": ""The candidate has hardskills in javascript and ruby-on-rails which are related to the job requirement. The degree subject is web developer which covers some of the job requirement. The candidate can work remotely or travel to the headquarters in Paris from time to time to meet the team. The candidate's location is europe/france which contains the job location europe/france/paris. The candidate can only speak English which is not the required language of the job.""
+    }"
+1,recUwquxTAuaSpYwc,,,60000.0,70000.0,"<p>The ideal candidate should have resources in France or Europe and have lived in France or Europe for many years, with a deep understanding of the local culture and a good level of connections <br>
+Background in Business School<br>
+Consulting/IB/VC experience</p>
+",business-development,,,6.0,9.0,rec0int3CbDJkliSl,recUwquxTAuaSpYwc,,,120000.0,,Biotechnology & Pharmaceutical Management,Interview Process,rec0int3CbDJkliSl,"healthcare,ivd",rec0int3CbDJkliSl,europe/france,recUwquxTAuaSpYwc,europe/france,rec0int3CbDJkliSl,"en,fr,zh",recUwquxTAuaSpYwc,"en,fr,zh",,-6.0,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": 0.6,
+        ""Position_Matching_Score"": 0.9,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""Candidate has healthcare and ivd hardskills which are related to the job requirement; Candidate has degree in Biotechnology & Pharmaceutical Management which covers some of the job requirement; Candidate has hardskills and degree subjects which are related to the job position; Candidate can go to Europe/France which is the job location; Candidate can speak all the languages required in the job.""
+    }"
+2,rec6N2U5wJf7t3ySH,2023-04-03,,40000.0,70000.0,"<p>-Previous experience in <strong>a start-up (2-3 years)</strong> with a <strong>tech</strong> position with <strong>responsabilities</strong><br>
+-Have an entrepreneur / startup mindset (likes taking risks)<br>
+**-**Stayed at his previous positions for <strong>at least one year</strong><br>
+-Experience with <strong>agronomic and technical issues</strong> (Vertical Farming)<br>
+-Worked in greenhouse hydroponics.<br>
+-All types of technology are accepted<br>
+-Very good technical level based on hardware and software development experience in various technological environments<br>
+-Knowledge of UX</p>
+<p>Information for recruiters !</p>
+<p>-Ideally, you should find a candidate who lives within 50 km of Cartagena!<br>
+-If this is too complicated, find a candidate who is able to travel there often.<br>
+-And if that's not possible, find a candidate who can travel there a few days a month.</p>
+",cto,,,1.0,5.0,rec0j4E310FlCL6zl,rec6N2U5wJf7t3ySH,2023-04-04,2023-04-30,65000.0,70000.0,Quimica agrícola,Rejected by client,rec0j4E310FlCL6zl,"cloud-applications,hardware,software",rec0j4E310FlCL6zl,worldwide,rec6N2U5wJf7t3ySH,europe/spain,rec0j4E310FlCL6zl,"en,es,fr",rec6N2U5wJf7t3ySH,"es,fr",-0.01,-2.5,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": 0.6,
+        ""Position_Matching_Score"": 0.9,
+        ""Location_Matching_Score"": 0.5,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has cloud-applications, hardware, software hardskills which are related to the job requirements. The candidate has Quimica agrícola degree subjects which are related to the job requirements. The candidate has cloud-applications, hardware, software hardskills and Quimica agrícola degree subjects which are related to the job position. The candidate can travel to the job location but not living within 50 km of Cartagena. The candidate can speak all the languages required by the job.""
+    }"
+3,rec5Vy4oVduUs4WKq,,,24000.0,24000.0,"<ul class=""liste"">
+<li>Bachelor or Master in business</li>
+<li>Based in Capital city is necessary</li>
+<li>Knowledge of Entrepreneur</li>
+<li>Passion for BTOB Sales, eager to get more commissions</li>
+<li>Fluency in English and local language</li>
+<li>Driving License</li>
+<li>Willing to travel</li>
+<li>Be able to attend necessary meetings</li>
+<li>Experienced candidates: experience in consumer electronics (mobile phones, headphones, etc.) or physical product sales; Inexperienced candidates: favouring recent graduate</li>
+</ul>
+",sales-manager,0.0,0.0,0.0,3.0,rec0jTM9sbzgKMpqP,rec5Vy4oVduUs4WKq,,,2500.0,,,Sent to Client,rec0jTM9sbzgKMpqP,"business-management,digital-marketing,electronics,logistics,negotiation,sales,sap",,,rec5Vy4oVduUs4WKq,europe/hungary/budapest,rec0jTM9sbzgKMpqP,"en,hu",rec5Vy4oVduUs4WKq,"en,hu",,-2.15,"
+    Example Output:
+    {
+    ""Hardskill_Matching_Score"": 0.8,
+    ""Degree_Subjects_Matching_Score"": 0.6,
+    ""Position_Matching_Score"": 0.9,
+    ""Location_Matching_Score"": 1,
+    ""Language_Matching_Score"": 1,
+    ""Reason"": ""The candidate has 8 out of 10 hardskills required for the job, has degree subjects related to the job, has experience in the job position, can go to the job location, and can speak the language required for the job.""
+    }"
+4,recETHEgTGsGxaBPv,2023-04-03,,40000.0,60000.0,"<ul class=""liste"">
+<li>Relevant education at Bachelor level and at least 5 years work experience with European automotive industry</li>
+<li>Certification of EV repair or equal is a must and senior repair qualification or equal is preferred</li>
+<li>Extensive experience with after sales, preferably in the technical support and management</li>
+<li>Skilled with the use of automotive diagnostics tools，repair solutions provision and disassembly and assembly skills</li>
+<li>French as mother language and good command of the English language (written and spoken)</li>
+<li>Skilled in the use of basic computer applications (MS Office)</li>
+<li>Very good communication skills, able to effectively communicate with professionals in different cultures</li>
+<li>Creative thinking in order to find efficient, customer oriented after sales solutions</li>
+<li>High level of flexibility</li>
+</ul>
+",technical-advisor,,,5.0,10.0,rec0pko6Vul5U0H61,recETHEgTGsGxaBPv,2023-09-04,,60000.0,,Systèmes embarqués,Screened by CP,rec0pko6Vul5U0H61,"microsoft-office,vector",rec0pko6Vul5U0H61,europe/france,recETHEgTGsGxaBPv,europe/france,rec0pko6Vul5U0H61,"en,fr",recETHEgTGsGxaBPv,"en,fr",-1.54,-2.0,"
+    Example Output:
+    {
+        ""Hardskill_Matching_Score"": 0.5,
+        ""Degree_Subjects_Matching_Score"": 0.8,
+        ""Position_Matching_Score"": 0.7,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has relevant hardskills and degree subjects for the job position, and the candidate can go to the job location and speak the required language.""
+    }"

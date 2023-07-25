@@ -1,0 +1,648 @@
+airtableId,missionId,availableFrom,availableUntil,minSalaryExpect,maxSalaryExpect,degreeSubject,status,missionCandidate,MissionCandidateHardSkills,missionCandidate,MissionCandidateLocations,missionCandidate,MissionCandidateLanguages
+rec0ijxnKLBBDIYQ7,rec7MvbTywFTvWryg,,,43000,45000,Web developer,Rejected by CP,rec0ijxnKLBBDIYQ7,"javascript,ruby-on-rails",rec0ijxnKLBBDIYQ7,europe/france,rec0ijxnKLBBDIYQ7,en
+rec0int3CbDJkliSl,recUwquxTAuaSpYwc,,,120000,,Biotechnology & Pharmaceutical Management,Interview Process,rec0int3CbDJkliSl,"healthcare,ivd",rec0int3CbDJkliSl,europe/france,rec0int3CbDJkliSl,"en,fr,zh"
+rec0j4E310FlCL6zl,rec6N2U5wJf7t3ySH,2023-04-04,2023-04-30,65000,70000,Quimica agrícola,Rejected by client,rec0j4E310FlCL6zl,"cloud-applications,hardware,software",rec0j4E310FlCL6zl,worldwide,rec0j4E310FlCL6zl,"en,es,fr"
+rec0jTM9sbzgKMpqP,rec5Vy4oVduUs4WKq,,,2500,,,Sent to Client,rec0jTM9sbzgKMpqP,"business-management,digital-marketing,electronics,logistics,negotiation,sales,sap",,,rec0jTM9sbzgKMpqP,"en,hu"
+rec0pko6Vul5U0H61,recETHEgTGsGxaBPv,2023-09-04,,60000,,Systèmes embarqués,Screened by CP,rec0pko6Vul5U0H61,"microsoft-office,vector",rec0pko6Vul5U0H61,europe/france,rec0pko6Vul5U0H61,"en,fr"
+rec0QxeXOIvtWkU7A,recAczNwH7Yk3tM2z,,,,,,Rejected by CP,rec0QxeXOIvtWkU7A,.com,,,rec0QxeXOIvtWkU7A,en
+rec0rp34NubKJl8V4,recJHwegfLPOBlDmf,,,54000,162000,Information Systems Management,Rejected by client,rec0rp34NubKJl8V4,"microsoft-office,oracle-crm,photoshop,salesforce.com",,,rec0rp34NubKJl8V4,"en,fr"
+rec0sRx6amdO0kkVB,recA3Ye1PMACJlO1Z,2023-03-01,,120000,,,Rejected by CP,,,,,rec0sRx6amdO0kkVB,"en,hi"
+rec0UyMHemcZU2cCd,recJHwegfLPOBlDmf,,,,,,Rejected by CP,rec0UyMHemcZU2cCd,bto,,,rec0UyMHemcZU2cCd,fr
+rec0wK7k0JOIBxEig,recwMSrftJ7BbX5mZ,,,,,,Rejected by CP,,,,,rec0wK7k0JOIBxEig,"en,hi"
+rec0x1TasOk6bHSiR,reckP2haWFD9xplVj,2023-04-05,2023-04-08,,,Business Administration & Management,Rejected by CP,rec0x1TasOk6bHSiR,"crm,customer-relations,negotiation,presentation-skills,problem-solving,public-relations,sales,sales-presentations",rec0x1TasOk6bHSiR,europe/netherlands,rec0x1TasOk6bHSiR,"en,si"
+rec0X28U5DFjwVB2G,recLaxiCREBzTpmDO,,,40000,,,Rejected by CP,rec0X28U5DFjwVB2G,"udf,upc,upf",,,rec0X28U5DFjwVB2G,en
+rec10XB9YYbJmFsYA,rect4fduNiqcXC123,2023-04-17,,60000,,International Business,Interview Process,rec10XB9YYbJmFsYA,"business-development,leadership,management,sales",rec10XB9YYbJmFsYA,europe/france,rec10XB9YYbJmFsYA,"en,fr,zh"
+rec137G1mig6nZrkI,recsld3DKqBhnW6rg,2023-04-24,,91500,,Computer Science ,Rejected by CP,rec137G1mig6nZrkI,"hive,java,microsoft-sql-server,object-oriented-languages,python",,,rec137G1mig6nZrkI,en
+rec1ELGXcgw4I5HPi,recnBWL7L2B5oicAV,2023-04-04,2023-07-08,55000,65000,Energy Markets,Rejected by client,rec1ELGXcgw4I5HPi,"energy,energy-audits,energy-conservation",rec1ELGXcgw4I5HPi,"europe,europe/france",rec1ELGXcgw4I5HPi,fr
+rec1gO76DygLR1LLn,recDD8JBa77gVncOf,,,37500,,,Rejected by client,rec1gO76DygLR1LLn,"account-management,business-development,insurance,sales-support-tools",,,rec1gO76DygLR1LLn,en
+rec1HL9iQwL50uUnO,recAczNwH7Yk3tM2z,2023-04-02,,40000,58000,International Trade,Rejected by client,rec1HL9iQwL50uUnO,"agile-methodologies,business-development,sales",,,rec1HL9iQwL50uUnO,"en,es,fr,nl"
+rec1kBBtHtKA304Z4,recAtcVMDz425qUT3,,,75000,75000,Computer Science and Mathematics,Rejected by client,rec1kBBtHtKA304Z4,"amazon-web-services-aws,etl,python",rec1kBBtHtKA304Z4,europe/united-kingdom,rec1kBBtHtKA304Z4,en
+rec1mIGi8qrfBetmy,recwMSrftJ7BbX5mZ,,,5000,,,Rejected by CP,rec1mIGi8qrfBetmy,"test-automation,test-automation-framework",,,rec1mIGi8qrfBetmy,en
+rec1mRvXrmHzx6h4a,recGrGIFWaByaa5dg,,,49000,52000,,Mission closed by client,,,,,rec1mRvXrmHzx6h4a,"ar,en,fr,ur"
+rec1S3lYXeRirIjJG,recwMSrftJ7BbX5mZ,,,8000,,,Sent to Client,rec1S3lYXeRirIjJG,"test-automation,test-automation-framework",,,rec1S3lYXeRirIjJG,en
+rec1UYf09r7B0IoP0,reclHFyhFZjXOSbEp,,,60000,80000,ECDL European Computer Driving Licence,Rejected by CP,rec1UYf09r7B0IoP0,"mobile-applications,mobile-devices,mobile-technology,mobile-web-design,node.js,react,react-native,swift",rec1UYf09r7B0IoP0,europe,rec1UYf09r7B0IoP0,"ar,en,it,ur"
+rec1Y2b5KP4XeivLY,rec7MvbTywFTvWryg,,,,,,Rejected by CP,,,,,rec1Y2b5KP4XeivLY,"en,fr"
+rec23icxDcERAoGZf,reclHFyhFZjXOSbEp,,,,,,Rejected by CP,rec23icxDcERAoGZf,react,,,rec23icxDcERAoGZf,fr
+rec2cMxXDObOXGZkV,reczkFBZXTtSjNX96,,,600,,,Rejected by client,rec2cMxXDObOXGZkV,"fx-derivatives,risk-analysis,sql-tuning",,,rec2cMxXDObOXGZkV,en
+rec2G9X4qqOll57vX,recGrGIFWaByaa5dg,2023-04-01,,72000,75000,,Mission closed by client,rec2G9X4qqOll57vX,"affiliate-marketing,direct-marketing,inbound-lead-generation,inbound-marketing,marketing,marketing-automation,marketing-mix,microsoft-excel,negotiation,presentations,strategic-brand-positioning",rec2G9X4qqOll57vX,asia/united-arab-emirates/dubai,rec2G9X4qqOll57vX,"ar,en"
+rec2iDr1NCOV3wBs5,rec2jbStt0bBp170k,,,,,3D/VFX,Rejected by CP,rec2iDr1NCOV3wBs5,"after-effects,illustrator,photoshop,premiere,windows-media-encoder",,,rec2iDr1NCOV3wBs5,"en,fr"
+rec2idvmCYbxhFklw,recwMSrftJ7BbX5mZ,,,,,,Sent to Client,rec2idvmCYbxhFklw,"mysql,python",,,rec2idvmCYbxhFklw,"en,hi"
+rec2IVOhnFbQ2pXHh,rec7MvbTywFTvWryg,2023-04-04,,40000,,Architecte des technologies numériques,Rejected by client 3rd round,rec2IVOhnFbQ2pXHh,"heroku,html,javascript,mongodb,mysql,postgresql,react,react-native,ruby,ruby-on-rails,typescript",,,rec2IVOhnFbQ2pXHh,fr
+rec2jHiGLOqTozp6O,recLaxiCREBzTpmDO,,,37000,,International Business Management,Sent to Client,rec2jHiGLOqTozp6O,"business-strategy,microsoft-office",,,rec2jHiGLOqTozp6O,"en,fr"
+rec2lz6kUJwqLBzCn,recfkE9v9SjgMs0Ss,2023-02-12,2023-02-26,30000,35000,PhD in Education   ,Screened by CP,rec2lz6kUJwqLBzCn,"direct-sales,distribution-center-operations,negotiation,salary-negotiations,sales",rec2lz6kUJwqLBzCn,europe,rec2lz6kUJwqLBzCn,"en,zh"
+rec2YMCKq5AZzrh7K,recUwquxTAuaSpYwc,2023-04-03,,68000,,Marketing B to B & Innovation,Candidate not interested,rec2YMCKq5AZzrh7K,"business-development,market-research,marketing,medical-devices",rec2YMCKq5AZzrh7K,europe/france,rec2YMCKq5AZzrh7K,"en,fr,zh"
+rec2ZeEGujDSRfryj,recXsP0cgPHypy429,,,,,,Rejected by client,,,,,rec2ZeEGujDSRfryj,"en,fr,zh"
+rec3byfg3s4BHLGqf,recETHEgTGsGxaBPv,2023-07-03,,600000,700000,Auto Mechanics,Rejected by client,rec3byfg3s4BHLGqf,"adaptation,communication,intellectually-curious",rec3byfg3s4BHLGqf,europe/france,rec3byfg3s4BHLGqf,"de,en,fr"
+rec3CHFVL6i5xl5IX,reczkFBZXTtSjNX96,,,450,,,Sent to Client,rec3CHFVL6i5xl5IX,"business-analysis,fx-options,mysql,risk-analysis,trading",,,rec3CHFVL6i5xl5IX,en
+rec3dIme0mCAZVKYH,recMh3kDSANBvdJbu,,,,,,Rejected by CP,rec3dIme0mCAZVKYH,"agile-testing,apis,black-box-testing,java,jira,regression-testing,sanity-testing,scrum,sdlc,smoke-testing,sql-clr,stlc,white-box",,,rec3dIme0mCAZVKYH,"en,hi"
+rec3j3GJqqaG6mjoK,recIa8aDuWkKPM8rx,,,48000,50000,Action commerciale,Rejected by CP,rec3j3GJqqaG6mjoK,hunting,rec3j3GJqqaG6mjoK,europe/france,rec3j3GJqqaG6mjoK,fr
+rec3jHERfN2Nx5vkF,recONKansnIbXY6ij,,,60000,,,Mission closed by client,,,,,rec3jHERfN2Nx5vkF,"en,fr"
+rec3UDIKDapizjpjG,recKmfrKT4uTpCS2x,,,,,Department of Economics and Management,Waiting list,rec3UDIKDapizjpjG,"business-development,driving-license,management,marketing,sales",,,rec3UDIKDapizjpjG,"en,pl,ru"
+rec3Zm1NBca1RI7uq,recMh3kDSANBvdJbu,,,,,,Sent to Client,rec3Zm1NBca1RI7uq,"agile-testing,apis,html,java,manual-testing,mysql,sdlc,selenium,selenium-testing,sikuli,stlc,test-automation,test-cases,test-scenarios,test-strategy",,,rec3Zm1NBca1RI7uq,"en,hi"
+rec445AfBMgEp6rEV,rec1fLbPRArMKBz4D,,,40000,45000,,Rejected by CP,rec445AfBMgEp6rEV,sales,,,rec445AfBMgEp6rEV,en
+rec4dGgktzAhUSALE,recKmfrKT4uTpCS2x,,,,,Business Administration,Rejected by CP,rec4dGgktzAhUSALE,"driving-license,management,marketing,sales",,,rec4dGgktzAhUSALE,"en,pl"
+rec4INn4zLQsSN8nX,rec0t420QAE6AgEAn,2023-03-15,,40000,, Bachelor - Design Web Programmation objet et frameworks Gestion de projet ,Rejected by CP,rec4INn4zLQsSN8nX,".net-compact-framework,jdeveloper",,,rec4INn4zLQsSN8nX,"ar,en,fr"
+rec4kZZ3hjlC8Mxun,recMh3kDSANBvdJbu,,,,,,Sent to Client,rec4kZZ3hjlC8Mxun,"agile-environment,agile-modeling,agile-testing,bugzilla,figma,java,jira,mysql,scrum,selenium",,,rec4kZZ3hjlC8Mxun,"en,hi"
+rec4SMmUMa8OT2rdU,recMh3kDSANBvdJbu,,,,,,Rejected by CP,rec4SMmUMa8OT2rdU,java,rec4SMmUMa8OT2rdU,asia/india,rec4SMmUMa8OT2rdU,"en,hi"
+rec4SyYUjU2nn5zlh,rec6N2U5wJf7t3ySH,2023-03-31,2023-04-14,60,70,"n sciences agronomiques, sociales et économiques, appliquées aux milieux tropicaux",Rejected by CP,rec4SyYUjU2nn5zlh,"ignite-ux,pack-office,sig",rec4SyYUjU2nn5zlh,worldwide,rec4SyYUjU2nn5zlh,"en,es,fr"
+rec4TOnVdc0ZADtgy,rec6N2U5wJf7t3ySH,2023-03-01,,40000,70000,Bachelor of Science,Rejected by CP,rec4TOnVdc0ZADtgy,"android,borland-c++,html,ios,java,javascript,mongodb,php,python,sql-azure",rec4TOnVdc0ZADtgy,europe/spain,rec4TOnVdc0ZADtgy,"en,es,hi,pi,ur"
+rec4w5AaNa3vIukBK,recAtcVMDz425qUT3,,,80000,,,Rejected by CP,rec4w5AaNa3vIukBK,"amazon-web-services-aws,data-feeds,data-science,databases,python",,,rec4w5AaNa3vIukBK,en
+rec5CvYLW6QpUwALg,recwe9VS4h7Qfkzjd,,,30000,35000,,Mission closed by client,,,,,rec5CvYLW6QpUwALg,"en,fr,zh"
+rec5cyo27dqhUGxJG,recwMSrftJ7BbX5mZ,2023-02-28,,34,,MS,Rejected by CP,rec5cyo27dqhUGxJG,python,,,rec5cyo27dqhUGxJG,"en,hi"
+rec5JEbnrl9wBzhtx,reczkFBZXTtSjNX96,,,128000,153600,"MSc, Business Systems Analysis and Design",Rejected by client,rec5JEbnrl9wBzhtx,"communication,fx-options,leadership,management,sql-clr",,,rec5JEbnrl9wBzhtx,en
+rec5QmMazJ6GT5pVa,recA3Ye1PMACJlO1Z,2023-02-06,,120000,,Bachelor of Engineering,Rejected by CP,rec5QmMazJ6GT5pVa,"amazon-web-services-aws,graphql,node.js",rec5QmMazJ6GT5pVa,americas/united-states,rec5QmMazJ6GT5pVa,en
+rec5wYOeJIZ68u1J6,recJHwegfLPOBlDmf,,,,,Management and organization,Rejected by CP,rec5wYOeJIZ68u1J6,"analysis,analytical-skills,crm,marketing,web-content",,,rec5wYOeJIZ68u1J6,"ar,en,fr"
+rec5Yk8EhCcWRBO0w,recdN16e9aiTj0z3a,,,,,Digital Transformation of Businesses,Rejected by client,rec5Yk8EhCcWRBO0w,"business-development,communication,marketing,sales,sales-management",,,rec5Yk8EhCcWRBO0w,"en,es,fr"
+rec5yqt3OcSYtLi7d,recUMYC6no6ATWX6U,2023-05-02,,65000,75000,,Offer sent,rec5yqt3OcSYtLi7d,"office-365,sales,salesforce.com",rec5yqt3OcSYtLi7d,europe,rec5yqt3OcSYtLi7d,"de,en"
+rec6A71VLckkekRcg,recAtcVMDz425qUT3,,,81000,,,Rejected by client,rec6A71VLckkekRcg,"databases,etl,etl-tools",,,rec6A71VLckkekRcg,en
+rec6D4nfcNYvavfb8,recwMSrftJ7BbX5mZ,,,0,,,Sent to Client,rec6D4nfcNYvavfb8,"automation,test-automation",,,rec6D4nfcNYvavfb8,en
+rec6FNehyv3hEEfQL,rec1fLbPRArMKBz4D,,,49000,,,Sent to Client,rec6FNehyv3hEEfQL,"leadership,negotiation,sales",,,rec6FNehyv3hEEfQL,"bg,en"
+rec6hYEp9jgwquUln,rec9B1Iwayh8YU3pc,,,,,Economics and Financial Engineering,Sourced,,,,,rec6hYEp9jgwquUln,"ar,en,es,fr"
+rec6iOvmhYpVjdg80,recsld3DKqBhnW6rg,2023-05-02,2023-05-02,90000,95000,"Advanced Master of Business Administration, Business Administration and Management",Mission closed by client,rec6iOvmhYpVjdg80,"operations-management,saas",,,rec6iOvmhYpVjdg80,"ar,en"
+rec6isugRnLymYMAS,rec2Xnb1aA6Evh8id,,,,,,Rejected by CP,,,,,rec6isugRnLymYMAS,fr
+rec6KgoOQKoSQGLDO,recKmfrKT4uTpCS2x,,,,,Marketing Studies,Rejected by CP,rec6KgoOQKoSQGLDO,"driving-license,leadership,management,marketing-communications,sales",,,rec6KgoOQKoSQGLDO,"en,pl"
+rec6s8RKRQJPImR6O,recGxlU3W94snVhuH,,,0,65000,,Rejected by client,rec6s8RKRQJPImR6O,"management,project-management,sales,time-management",,,rec6s8RKRQJPImR6O,en
+rec6SzdF64ZaFjsZo,recUwquxTAuaSpYwc,2023-03-21,2023-03-31,150000,150000,Executive MBA,Rejected by CP,rec6SzdF64ZaFjsZo,"board-of-directors,innovation-research,leadership,licensing-agreements,mergers-amp-acquisitions,recruiting,sales,start-up-ventures",,,rec6SzdF64ZaFjsZo,"en,fr"
+rec6wq0svJ6nP2ymx,rec7MvbTywFTvWryg,,,50000,,,Rejected by CP,rec6wq0svJ6nP2ymx,"css,html,javascript,python,react,ruby,typescript",,,rec6wq0svJ6nP2ymx,"en,es,fr,ja"
+rec75ed6awIHlj79a,recMh3kDSANBvdJbu,2023-03-01,,,,Computer Science,Rejected by client 2nd round,,,,,rec75ed6awIHlj79a,"en,hi,mr"
+rec766u42EkrqOJb6,recAtcVMDz425qUT3,,,80000,85000,MA Cantab (Mathematics),Rejected by CP,rec766u42EkrqOJb6,"data-analysis,data-science,insurance",,,rec766u42EkrqOJb6,en
+rec7Bi29zeh1NNTDp,recI8ZjHBtBdkYS21,,,35000,,,Sent to Client,rec7Bi29zeh1NNTDp,sales,,,rec7Bi29zeh1NNTDp,"de,zh"
+rec7CSaSOpwtcPcWg,recUMYC6no6ATWX6U,,,72000,,,Sent to Client,rec7CSaSOpwtcPcWg,"key-account-mangement,lead-generation,organizational-development,sales",,,rec7CSaSOpwtcPcWg,"de,en"
+rec7dyYHSL2d7e6IO,rec6N2U5wJf7t3ySH,2023-03-31,2023-03-31,70000,100000,DIRECTION of INFORMATION TECHNOLOGIES. ,Rejected by client,rec7dyYHSL2d7e6IO,".net,ignite-ux,java,oracle,sap,sql-plus,vmware",rec7dyYHSL2d7e6IO,"europe,worldwide",rec7dyYHSL2d7e6IO,"es,fr,it,pt"
+rec7eVftKDyqe2EIZ,recsld3DKqBhnW6rg,,,6000,7000,Commerce,Rejected by CP,rec7eVftKDyqe2EIZ,"data-analysis,data-science,machine-learning",rec7eVftKDyqe2EIZ,middle-east,rec7eVftKDyqe2EIZ,"ar,en"
+rec7j0nOC3naQbnrD,recdN16e9aiTj0z3a,,,32000,,,Sent to Client,rec7j0nOC3naQbnrD,"microsoft-excel,purchase-management,purchasing,sales,sales-operations,sales-process,strategy,vendor-contracts,vendor-management,vendor-relationship-management,vendors",,,rec7j0nOC3naQbnrD,"ar,en,es,pt"
+rec7Km0jBBl1KdxsN,recObvBwoSTSuFEll,2023-03-31,2023-04-30,47000,,(BAC +6) en management de projet de construction durable ,Rejected by client,rec7Km0jBBl1KdxsN,"excel-dashboards,sage",rec7Km0jBBl1KdxsN,europe,rec7Km0jBBl1KdxsN,"en,fr"
+rec7pNzskjbOedBt2,recBNbiMFDkK5SgOv,,,42000,46000,,Rejected by CP,rec7pNzskjbOedBt2,.com,rec7pNzskjbOedBt2,europe/france,rec7pNzskjbOedBt2,zh
+rec7QVOoePgWt85Nt,rec2jbStt0bBp170k,,,,,,Rejected by CP,rec7QVOoePgWt85Nt,html,rec7QVOoePgWt85Nt,europe/france,rec7QVOoePgWt85Nt,fr
+rec7S4B015k4BjoVd,recu8QJacyAODTIeX,2023-04-03,,55000,,Political Science,Mission closed by client,rec7S4B015k4BjoVd,"2d-graphics,account-management,business-development,business-relationship-building,c-level-sales,campaigns,cold-calling,communication,consultative-selling,emea,entrepreneurship,internal-communications,international-business,international-sales,lead-generation,market-research,microsoft-office,negotiation,networking,new-business-development,new-business-generation,new-business-opportunities,online-advertising,online-marketing,opportunity-qualification,pipeline-generation,planning,presentation-skills,presentations,product-knowledge,relationship-building,sales,sales-cycle-management,sales-process,solution-selling,strategy,teamwork,time-management,training,value-propositions",rec7S4B015k4BjoVd,"europe/bulgaria,europe/sweden",rec7S4B015k4BjoVd,en
+rec7WQ2tEgqA2yPdd,recu8QJacyAODTIeX,,,57000,,,Rejected by client,rec7WQ2tEgqA2yPdd,"analytics,communication,cro,e-commerce,leadership,ppc,saas",rec7WQ2tEgqA2yPdd,europe/united-kingdom/england,rec7WQ2tEgqA2yPdd,en
+rec7Zx0tEx5kPB1No,rec0t420QAE6AgEAn,2023-03-14,,37,,"Conception d'application",Screened by CP,rec7Zx0tEx5kPB1No,"graphql,mysql,node.js,react,typescript",,,rec7Zx0tEx5kPB1No,"en,es,fr"
+rec859nIlixJ5qnFW,recA3Ye1PMACJlO1Z,2023-03-06,,60000,72000,Computer Science,Rejected by CP,rec859nIlixJ5qnFW,"amazon-web-services-aws,back-end-development,ecs,graphql,javascript,node.js,postgresql,windows-azure",,,rec859nIlixJ5qnFW,en
+rec89hHTnNaf2g3A1,recwMSrftJ7BbX5mZ,2023-03-31,,20000,,b.tech,Rejected by client,rec89hHTnNaf2g3A1,python,,,rec89hHTnNaf2g3A1,en
+rec8aKpK3QezNFX61,recAtcVMDz425qUT3,,,850000,95000,,Rejected by client,rec8aKpK3QezNFX61,"data-coding,data-extraction,data-migration,project-management",,,rec8aKpK3QezNFX61,en
+rec8EIx4pU1shuKLx,recavhovBsS2p3eZO,,,,,International Trade & Business,Sent to Client,rec8EIx4pU1shuKLx,"business,business-development,business-management,communication,driving-license,negotiation,sales-management",,,rec8EIx4pU1shuKLx,"bg,en,fr,it,ro"
+rec8HSO03c63Hqdb7,rec25eM1zf8i9g7V4,,,,,,Rejected by CP,rec8HSO03c63Hqdb7,"python,selenium",,,rec8HSO03c63Hqdb7,"en,hi"
+rec8iiBI1SdCaTj9D,rec11F8d7djUmcYvT,,,24000,,,Rejected by CP,rec8iiBI1SdCaTj9D,sales,rec8iiBI1SdCaTj9D,europe/bulgaria,rec8iiBI1SdCaTj9D,"bg,en"
+rec8Jgcpsbq3wmvcE,recA3Ye1PMACJlO1Z,2023-03-20,,120000,140000,Software Engineering,Rejected by CP,rec8Jgcpsbq3wmvcE,"amazon-web-services-aws,ecs,graphql,node.js,postgresql",,,rec8Jgcpsbq3wmvcE,en
+rec8NOT7DkgFxWfXW,rec7MvbTywFTvWryg,2023-03-01,,45000,,Business Management,Rejected by CP,rec8NOT7DkgFxWfXW,"angularjs,apis,atlas,css,git,github,graphql,html,javascript,jira,mongodb,node.js,postgresql,react,typescript",,,rec8NOT7DkgFxWfXW,"en,es,fr"
+rec8OovnmiaWyj5W3,rec5J1KpQYUAeo0rW,,,60000,,International Business,Rejected by client,rec8OovnmiaWyj5W3,"microsoft-office,ms-excel-pivot-tables",rec8OovnmiaWyj5W3,europe/spain,rec8OovnmiaWyj5W3,"de,en,es,nl"
+rec8vvFIRQth7j8sy,recavhovBsS2p3eZO,,,,,Marketing,Rejected by CP,rec8vvFIRQth7j8sy,"account-management,business-development,business-strategy,driving-license,marketing,sales",,,rec8vvFIRQth7j8sy,"en,ro"
+rec8WeqqS8tGwymra,recGrGIFWaByaa5dg,,,,,Post Graduate Diploma (Marketing),Waiting list,rec8WeqqS8tGwymra,"communication,marketing,media-production",,,rec8WeqqS8tGwymra,en
+rec97O0GyoLisEhz2,recObvBwoSTSuFEll,2023-04-30,,41000,42000,"Diplôme d'ingénieur",Rejected by client,rec97O0GyoLisEhz2,energy-management,,,rec97O0GyoLisEhz2,fr
+rec9AGT3lOul7FYDP,recwMSrftJ7BbX5mZ,2023-03-31,,150000,,B.tech,Rejected by CP,rec9AGT3lOul7FYDP,python,,,rec9AGT3lOul7FYDP,en
+rec9G1UcYHanBl6NX,rec7MvbTywFTvWryg,2023-03-27,,50000,,Programmation informatique,Rejected by CP,rec9G1UcYHanBl6NX,"java,jscript,ruby,ruby-on-rails",,,rec9G1UcYHanBl6NX,"en,fr"
+rec9HejHnTQHmI7Q1,recMh3kDSANBvdJbu,,,,,,Sent to Client,rec9HejHnTQHmI7Q1,python,,,rec9HejHnTQHmI7Q1,"en,hi"
+rec9KAXhc8ytoLS03,recONKansnIbXY6ij,,,38000,,,Rejected by client,,,,,rec9KAXhc8ytoLS03,"en,es,fr"
+rec9n1kJgaZwMeyzP,recMh3kDSANBvdJbu,,,,,,Rejected by client,rec9n1kJgaZwMeyzP,"java,python",rec9n1kJgaZwMeyzP,asia/india,rec9n1kJgaZwMeyzP,"en,hi"
+rec9oY2ukbZmT0Lnk,recTOLFUh69KqHf4t,,,55000,,Marketing opérationnel international,Rejected by client,rec9oY2ukbZmT0Lnk,"energy,saas",rec9oY2ukbZmT0Lnk,europe/france,rec9oY2ukbZmT0Lnk,"en,fr"
+rec9q7BZ1rWDzKNWB,recMh3kDSANBvdJbu,,,5400,,,Rejected by CP,rec9q7BZ1rWDzKNWB,"core-java,jira,mysql,selenium,testing",,,rec9q7BZ1rWDzKNWB,"en,hi,kn,ta,te"
+rec9W5N4gL67lrYj7,recJHwegfLPOBlDmf,,,,,Ingénieur commercial,Candidate not interested,rec9W5N4gL67lrYj7,.com,rec9W5N4gL67lrYj7,europe/france,rec9W5N4gL67lrYj7,"en,fr,it"
+reca1WmK5qaT4bB1B,recMh3kDSANBvdJbu,,,,,,Sent to Client,reca1WmK5qaT4bB1B,"java,python,selenium",,,reca1WmK5qaT4bB1B,"en,hi"
+recA6QADpxm6Grzr2,recAtcVMDz425qUT3,,,70000,80000,MSc Health Data Science,Rejected by client,recA6QADpxm6Grzr2,"python,sas,stata",,,recA6QADpxm6Grzr2,en
+reca9mOcSZL9zHqFa,recsld3DKqBhnW6rg,,,6750,7350,Applied Statistics And Informatics,Mission closed by client,reca9mOcSZL9zHqFa,"big-data-analytics,data-science,data-visualization,machine-learning",reca9mOcSZL9zHqFa,middle-east,reca9mOcSZL9zHqFa,"en,hi"
+reca9sYEwTkX7tuC4,recAtcVMDz425qUT3,,,70000,75000,"PhD Research degree in Data Mining,",Rejected by client,reca9sYEwTkX7tuC4,"data-science,machine-learning,python",,,reca9sYEwTkX7tuC4,en
+recAbBkHyAgh1Iu8S,recnBWL7L2B5oicAV,,,55,55,Economie Internationale,Rejected by CP,recAbBkHyAgh1Iu8S,commercial-focus,,,recAbBkHyAgh1Iu8S,"en,fr"
+recabHEpDESBDnkd3,reco7sqp1LuUkyVRc,2023-03-11,2023-03-31,55000,,Sciences du Management ,Rejected by client,recabHEpDESBDnkd3,pack-office,recabHEpDESBDnkd3,europe,recabHEpDESBDnkd3,"en,fr"
+recacvCq2OrtgqiZf,recdN16e9aiTj0z3a,,,35000,,,Sent to Client,recacvCq2OrtgqiZf,sales,,,recacvCq2OrtgqiZf,"en,es"
+recAEutzyhI4IzjHK,rec2Xnb1aA6Evh8id,2023-05-08,,60000,,Information technology for business management,Rejected by client,recAEutzyhI4IzjHK,"api-development,application-architecture,ci-cd,code-review,javascript,postgresql,react,ruby,ruby-on-rails,test-driven-development,unit-testing",recAEutzyhI4IzjHK,europe/france,recAEutzyhI4IzjHK,"en,fr"
+recaF5KFTJ4FQEuCq,rec8fX8ZnMmWDyHil,,,30000,33000,Computer Science,Rejected by client,recaF5KFTJ4FQEuCq,"campaign-strategies,digital-media,marketing-strategy,social-media",,,recaF5KFTJ4FQEuCq,"en,zh"
+recag52kzYAVaDoWq,recMh3kDSANBvdJbu,,,,,Bachelor of computer science,Sent to Client,recag52kzYAVaDoWq,"apis,java,mysql,selenium",,,recag52kzYAVaDoWq,en
+recAGHgxfEWGHKGiY,reciyBfDq6P4e5jEN,2023-03-01,,35000,35000,International Compliance ,Screened by CP,recAGHgxfEWGHKGiY,"crypto,dao",,,recAGHgxfEWGHKGiY,"az,en,fa,ja,ru,tr"
+recAhl55af70Ae79j,rec5J1KpQYUAeo0rW,,,60000,,Travel Market ,Rejected by client,recAhl55af70Ae79j,"crm-databases,microsoft-office,saas",recAhl55af70Ae79j,europe/spain,recAhl55af70Ae79j,"en,es"
+recAIEHfkxvPpZvqY,recwMSrftJ7BbX5mZ,,,,,,Sent to Client,recAIEHfkxvPpZvqY,"bug-tracking,test-cases,test-execution,test-scenarios",,,recAIEHfkxvPpZvqY,"en,hi"
+recAIGt7MPgPvCTrO,recwMSrftJ7BbX5mZ,,,9000,,,Rejected by CP,recAIGt7MPgPvCTrO,"java,javascript,python,sql-azure",,,recAIGt7MPgPvCTrO,"en,te"
+recaiTR2GfGJvmLM4,reclHFyhFZjXOSbEp,,,78,,Programmation informatique / web et e-business,Rejected by CP,recaiTR2GfGJvmLM4,"django,graphql,java,python,react-native",,,recaiTR2GfGJvmLM4,"en,fr"
+recaIwmNw1xfi9DPu,recAtcVMDz425qUT3,,,90000,,,Rejected by CP,recaIwmNw1xfi9DPu,"data-analysis,data-coding,data-modeling,etl,etl-tools,python",,,recaIwmNw1xfi9DPu,en
+recAJO1DO184F5w2R,recdN16e9aiTj0z3a,,,,,"Advance Management Program, Business Administration",Candidate not interested,recAJO1DO184F5w2R,"business-development,business-strategy,sales,strategy",,,recAJO1DO184F5w2R,"en,es"
+recaKdDx5imUMGQs2,rec2Xnb1aA6Evh8id,,,,,,Rejected by CP,recaKdDx5imUMGQs2,ruby-on-rails,,,recaKdDx5imUMGQs2,fr
+recAkVhIw6sDREeYu,recAczNwH7Yk3tM2z,,,30000,42000,"Master 2: Dirigeant manager opérationnel d'entreprise",Rejected by client,recAkVhIw6sDREeYu,"office-365,project-management",recAkVhIw6sDREeYu,europe/france,recAkVhIw6sDREeYu,"en,fr"
+recamVhxwOYafJzxj,rec5Vy4oVduUs4WKq,,,2500,,,Sent to Client,recamVhxwOYafJzxj,"business-management,economics,partnerships,psychology,sales",,,recamVhxwOYafJzxj,"de,en,hu"
+recaNXefUDoqBe9gT,recONKansnIbXY6ij,,,52000,55000,,Mission closed by client,,,,,recaNXefUDoqBe9gT,"de,en,fr"
+recapZ0TpM0lp8wk4,recAtcVMDz425qUT3,,,80,85,,Rejected by CP,recapZ0TpM0lp8wk4,"amazon-web-services-aws,data-extraction,data-modeling,data-warehousing,python",,,recapZ0TpM0lp8wk4,"en,uk"
+recaSgZk7g8CdXc94,recAtcVMDz425qUT3,,,80000,90000,,Interview Process,recaSgZk7g8CdXc94,"big-data,data-science,etl,machine-learning",,,recaSgZk7g8CdXc94,en
+recB2b0ZQWgOei6ZT,recLaxiCREBzTpmDO,,,43000,,,Rejected by CP,recB2b0ZQWgOei6ZT,"administration,administrative-assistance,client-relations,microsoft-office,organization-of-events,organizational-communication",,,recB2b0ZQWgOei6ZT,"en,fr"
+recb8EKHCSC0Udrjq,recXsP0cgPHypy429,,,50000,,,Rejected by client,,,,,recb8EKHCSC0Udrjq,"en,fr,zh"
+recbAC7kVR6qunAbL,recKRL2QH6xEYq7sa,2023-03-21,,60,60,Master,Rejected by CP,recbAC7kVR6qunAbL,business,,,recbAC7kVR6qunAbL,"ar,de,en"
+recbbwgi5jywErxWD,recWril35NdQ1pyCs,,,50000,,,Rejected by client,,,,,recbbwgi5jywErxWD,"en,fr,zh"
+recbCl7djo3x62XLi,recsld3DKqBhnW6rg,2023-04-17,2023-04-17,114000,,Master of Business Administration in Management Consulting & Finance,Mission closed by client,recbCl7djo3x62XLi,"data-analysis,kpi-dashboards,operations-management",,,recbCl7djo3x62XLi,ar
+recBE5TM87g68GcNX,recAtcVMDz425qUT3,,,75000,,,Rejected by client,recBE5TM87g68GcNX,"data-analysis,data-mapping,data-science,databases",,,recBE5TM87g68GcNX,en
+recBEfFkPrVAnp7TX,recJA0GigXHF9h4jF,,,,,,Mission closed by client,recBEfFkPrVAnp7TX,blockchain,,,recBEfFkPrVAnp7TX,fr
+recBF15JcugnsvBlm,recAczNwH7Yk3tM2z,,,41000,,,Sent to Client,recBF15JcugnsvBlm,"hubspot,microsoft-office,sales,salesforce.com",,,recBF15JcugnsvBlm,"en,es,fr"
+recbhYCiGEVlLcvFM,recGxlU3W94snVhuH,2023-02-24,2023-03-10,55000,55000,MEd in Educational Leadership & School Development,Rejected by client,recbhYCiGEVlLcvFM,"building-long-term-relationships,client-focused,large-deals,leadership-development,marketing-strategy,negotiation,new-business-development,new-business-opportunities,saas,sales",recbhYCiGEVlLcvFM,europe/united-kingdom,recbhYCiGEVlLcvFM,"en,zh"
+recbHYuUZhqtsollY,rec5Vy4oVduUs4WKq,,,22000,,,Sent to Client,recbHYuUZhqtsollY,sales,,,recbHYuUZhqtsollY,"en,hu"
+recbhz85AVFQvC5vu,reciyBfDq6P4e5jEN,2023-03-01,,40000,40000,Master of International Marketing (MIM),Screened by CP,recbhz85AVFQvC5vu,"crypto,dao",,,recbhz85AVFQvC5vu,"en,ru"
+recbjkendcIcHisjl,recAczNwH7Yk3tM2z,,,2000,,,Rejected by CP,recbjkendcIcHisjl,"crt,drc,geodesy,google+,hub,jabber,microsoft-excel,outlook,powerpoint,zoom",,,recbjkendcIcHisjl,"en,fr"
+recBKUl7AWuCOUQE0,recAtcVMDz425qUT3,,,80000,,,Rejected by client,recBKUl7AWuCOUQE0,"data-feeds,data-modeling,data-science,databases",,,recBKUl7AWuCOUQE0,en
+recBLcRR90d3uPf6Z,recMh3kDSANBvdJbu,2023-03-01,,,,Engineering ,Rejected by client,,,,,recBLcRR90d3uPf6Z,"en,hi,mr"
+recbmAafFtY37SwMf,recwMSrftJ7BbX5mZ,,,7000,,,Rejected by CP,recbmAafFtY37SwMf,"test-automation,test-automation-framework",,,recbmAafFtY37SwMf,en
+recbQDvsGD5qhFnTY,recMh3kDSANBvdJbu,,,7,,,Rejected by CP,recbQDvsGD5qhFnTY,"automation,manual-testing",recbQDvsGD5qhFnTY,asia/india,recbQDvsGD5qhFnTY,"en,hi"
+recBUZxeE1g6jwsWQ,recGrGIFWaByaa5dg,,,,,,Waiting list,recBUZxeE1g6jwsWQ,"data-analysis,digital-marketing",,,recBUZxeE1g6jwsWQ,"ar,en"
+recbXBI0loVwhghIE,recwMSrftJ7BbX5mZ,2023-03-31,,800000,15000000,V.tech,Rejected by CP,recbXBI0loVwhghIE,"node.js,python,sql-plus",,,recbXBI0loVwhghIE,en
+recC0mu4j6wRAn5Wl,recTOLFUh69KqHf4t,2023-06-01,,55000,,"MANAGEMENT COMMERCIAL, OPTION COMMERCE INTERNATIONAL",Rejected by CP,recC0mu4j6wRAn5Wl,"energy,sales-cycle-management",,,recC0mu4j6wRAn5Wl,fr
+recC0NkvbXw2PKWHG,rec6N2U5wJf7t3ySH,2023-04-27,,70000,,Management Computing (unfinished),Waiting list,recC0NkvbXw2PKWHG,"embedded-c++,javascript-libraries,python",,,recC0NkvbXw2PKWHG,"es,pt"
+recc1enPy7qd3ntkx,recAtcVMDz425qUT3,,,85,,,Rejected by client,recc1enPy7qd3ntkx,data-science,,,recc1enPy7qd3ntkx,en
+recC1FGhA3dWbGMSb,recZzXqsiS77tAAcS,,,38000,,MBA,Candidate not interested,recC1FGhA3dWbGMSb,"energy,final-cut-pro,ifc",recC1FGhA3dWbGMSb,europe/france,recC1FGhA3dWbGMSb,"en,fr"
+recc5NFaAhMaR3sN6,recMh3kDSANBvdJbu,,,,,,Rejected by CP,recc5NFaAhMaR3sN6,"agile-methodologies,java,jira,mysql,sdl,sql-clr,test-cases,test-scenarios,tfs",,,recc5NFaAhMaR3sN6,"en,hi,mr"
+recC9LdQvmKVTdQ2Q,recZzXqsiS77tAAcS,,,43000,,International Business development,Rejected by client,recC9LdQvmKVTdQ2Q,"brand-development,energy,project-management",recC9LdQvmKVTdQ2Q,europe/france,recC9LdQvmKVTdQ2Q,"en,fr"
+reccbwERPyJV1KFyL,recdN16e9aiTj0z3a,,,32000,42000,Business Administration,Rejected by client,reccbwERPyJV1KFyL,"driving-license,sales,sales-growth,sales-presentations,salesforce.com",,,reccbwERPyJV1KFyL,"en,es"
+recCewiixOZ1I28tL,rec6N2U5wJf7t3ySH,2023-05-14,,70000,80000,Computer Engineering (Master’s Degree),Interview Process,recCewiixOZ1I28tL,".net,asp.net-web-api,spanish",,,recCewiixOZ1I28tL,en
+reccfAfeoDDkLmACm,rec11F8d7djUmcYvT,,,24000,,,Sent to Client,reccfAfeoDDkLmACm,sales,,,reccfAfeoDDkLmACm,"bg,en"
+recCfuV7rRpagEOyP,recAtcVMDz425qUT3,,,90000,,MSc Machine Learning (Data Science),Candidate not interested,recCfuV7rRpagEOyP,"data-science,machine-learning,matlab,python,scrum,vba",,,recCfuV7rRpagEOyP,"en,it,sn"
+recCHIZg0hKzPjTDc,recwe9VS4h7Qfkzjd,,,40000,,,Mission closed by client,,,,,recCHIZg0hKzPjTDc,"en,fr"
+recChmJF3XdhP1gGO,recwMSrftJ7BbX5mZ,,,,,,Sent to Client,recChmJF3XdhP1gGO,"quality-assurance,test-automation,test-automation-framework",,,recChmJF3XdhP1gGO,en
+recci7RcakpFc4A7Q,recwMSrftJ7BbX5mZ,,,,,,Sent to Client,recci7RcakpFc4A7Q,"mysql,python,sql-azure",,,recci7RcakpFc4A7Q,"en,hi"
+recciTuZKZkHhhtoR,rec25eM1zf8i9g7V4,,,,,"Bachelors of Engineering,Computer Science",Rejected by CP,recciTuZKZkHhhtoR,"agile-methodologies,black-box-testing,css,data-analysis,figma,functional-testing,heuristics,html,java,microsoft-excel,personnel-evaluation,product-management,python,react,software-development,sql-tuning,tableau,white-box",recciTuZKZkHhhtoR,worldwide,recciTuZKZkHhhtoR,"en,hi"
+reccM3TacQIokVIoH,recGxlU3W94snVhuH,2023-04-17,,60000,,BA in Business/ Managerial Financial degree,Rejected by CP,reccM3TacQIokVIoH,"microsoft-excel,mspowerpoint,outlook",,,reccM3TacQIokVIoH,"en,pt"
+reccNROcAsXZqUi0d,recA3Ye1PMACJlO1Z,2023-03-06,,130000,150000,Computer Science,Rejected by CP,reccNROcAsXZqUi0d,"amazon-web-services-aws,ecs,javascript,node.js,php,postgresql,python,windows-azure",,,reccNROcAsXZqUi0d,en
+recCOWUF1V3Yr8m39,recwMSrftJ7BbX5mZ,2023-03-01,,,7920,Engineering in Information Technology,Rejected by CP,,,,,recCOWUF1V3Yr8m39,"en,hi"
+reccRIgzqtwgentEk,recA3Ye1PMACJlO1Z,,,,,Computer Sciense,Rejected by CP,reccRIgzqtwgentEk,"html,html-scripting,node.js,react-native,redis",,,reccRIgzqtwgentEk,"en,hi"
+recCRvANVdqGXksk0,rec2Xnb1aA6Evh8id,2023-04-30,2023-04-30,55000,70000,"Science in Electrical Engineering, Computer network  Telecommunication",Rejected by client,recCRvANVdqGXksk0,"databases,java,javascript,linux,oracle,postgresql,ruby,sql-plus",recCRvANVdqGXksk0,worldwide,recCRvANVdqGXksk0,"en,fr,zh"
+reccw4WGRUlx9CqDD,recXUiPBv1AYRBeEF,2023-05-01,,700,,Computing,Rejected by client,reccw4WGRUlx9CqDD,"linux,visual-c++",,,reccw4WGRUlx9CqDD,en
+recCxRkBUJM3AB6DC,recGxlU3W94snVhuH,,,,,Finance,Rejected by CP,recCxRkBUJM3AB6DC,"bloomberg,microsoft-excel,powerpoint",,,recCxRkBUJM3AB6DC,"en,fr,zh"
+recD06sAa1UAhBbtG,rec5J1KpQYUAeo0rW,,,65000,, Sales & Marketing Management,Rejected by CP,recD06sAa1UAhBbtG,"business-planning,crm,sales-growth",recD06sAa1UAhBbtG,europe/spain,recD06sAa1UAhBbtG,"en,es,pt"
+recD0SkHsj6eEzyQf,recA3Ye1PMACJlO1Z,,,,,,Mission closed by client,recD0SkHsj6eEzyQf,.com,,,recD0SkHsj6eEzyQf,fr
+recD1C0Gn8vs5aJJP,recKRL2QH6xEYq7sa,,,65000,,,Rejected by CP,,,,,recD1C0Gn8vs5aJJP,"de,en,fr"
+recd29G0V8MGJtcz9,rec25eM1zf8i9g7V4,,,,,,Rejected by CP,recd29G0V8MGJtcz9,security,,,recd29G0V8MGJtcz9,en
+recd4IASfmpQLrJ42,recXUiPBv1AYRBeEF,,,700,,,Rejected by CP,recd4IASfmpQLrJ42,turbo-c++,recd4IASfmpQLrJ42,europe,recd4IASfmpQLrJ42,en
+recd7JirL618ifned,rec5Vy4oVduUs4WKq,,,,,Foreign Trade Manager - Diplomawork: The latest customs technical procedures,Rejected by CP,recd7JirL618ifned,microsoft-office,recd7JirL618ifned,europe,recd7JirL618ifned,"de,en,hu"
+recd7ty6K8x9jqUOh,recAtcVMDz425qUT3,,,85000,90000,Jan 2022 - Mar 2023 Grade: Distinction,Rejected by client,recd7ty6K8x9jqUOh,data-modeling,,,recd7ty6K8x9jqUOh,en
+recDAH1oJvkJew4za,recavhovBsS2p3eZO,,,,,"Economics,Accounting",Sent to Client,recDAH1oJvkJew4za,"account-management,business-development,category-management,driving-license,international-sales,market-research,marketing,negotiation,sales,sales-management,sap",,,recDAH1oJvkJew4za,"de,en,es,fr,ro"
+recDBiO0z2FQKDN5f,reciyBfDq6P4e5jEN,2023-03-01,,,,Bachelor of Law (LL.B),Waiting list,recDBiO0z2FQKDN5f,"crypto,dao",,,recDBiO0z2FQKDN5f,"en,ru"
+recDClOhKmi6QGKkH,recA3Ye1PMACJlO1Z,,,293,,"Master of Computing Applications - MCA, Computer Science",Mission closed by client,recDClOhKmi6QGKkH,"amazon-web-services-aws,angularjs,asp.net,graphql,node.js,react",,,recDClOhKmi6QGKkH,en
+recDCqvAGCaEI7bY2,recOO9bDKaXhlAHdo,,,20000,,,Sent to Client,recDCqvAGCaEI7bY2,sales,,,recDCqvAGCaEI7bY2,"el,en,es"
+recdCvAnXvbMcirsk,recONKansnIbXY6ij,,,35000,40000,,Rejected by client,,,,,recdCvAnXvbMcirsk,"en,fr"
+recDd1U2aVUSI5heZ,reclHFyhFZjXOSbEp,,,60,80,,Rejected by CP,recDd1U2aVUSI5heZ,react-native,,,recDd1U2aVUSI5heZ,"en,hi"
+recDda1GZ09imatv1,recwMSrftJ7BbX5mZ,,,5000,,,Sent to Client,recDda1GZ09imatv1,"automation,test-automation,test-automation-framework",,,recDda1GZ09imatv1,en
+recDEC0hE4dvm5CmN,recMh3kDSANBvdJbu,,,0,0,,Sent to Client,recDEC0hE4dvm5CmN,"java,manual-testing,mysql,selenium,test-automation",,,recDEC0hE4dvm5CmN,en
+recDGUnZKIA7DIhcF,recXsP0cgPHypy429,,,45000,,,Mission closed by client,,,,,recDGUnZKIA7DIhcF,zh
+recdIKHvFMHxgTUBN,reclHFyhFZjXOSbEp,,,60000,0,,Rejected by CP,recdIKHvFMHxgTUBN,"javascript,node.js,react-native",recdIKHvFMHxgTUBN,europe/france,recdIKHvFMHxgTUBN,"ar,en"
+recdOHGw79Cgc0TYD,rec2jbStt0bBp170k,,,,,"Graphic design License, Audiovisual Communications Technologies/Technicians",Rejected by CP,recdOHGw79Cgc0TYD,"art,editing,figma,film,graphic-arts,graphic-design,graphic-illustrations,graphics-layout,photography,photoshop",,,recdOHGw79Cgc0TYD,"ar,en,es,fr"
+recdoJTXF75mkK754,reciyBfDq6P4e5jEN,2023-03-01,,45000,45000,BSC -electrical engineering and information technology,Screened by CP,recdoJTXF75mkK754,"crypto,dao",,,recdoJTXF75mkK754,"ar,de,en"
+recDqwB92eOGFOKWP,recIa8aDuWkKPM8rx,,,43000,45000,Commerce,Rejected by CP,recDqwB92eOGFOKWP,"saas,sales,software-industry",recDqwB92eOGFOKWP,europe/france,recDqwB92eOGFOKWP,"ar,en"
+recdTLNpJBZEaZ5aJ,recAtcVMDz425qUT3,,,75000,,,Sent to Client,recdTLNpJBZEaZ5aJ,"amazon-web-services-aws,data-analysis,data-visualization,data-warehouse-architecture,data-warehousing,machine-learning,microsoft-sql-server,python,snowflake",,,recdTLNpJBZEaZ5aJ,en
+recE0xRl8iWjRtQWZ,recCxmuaRimDj5fJh,,,,,,Rejected by CP,recE0xRl8iWjRtQWZ,angularjs,recE0xRl8iWjRtQWZ,europe/united-kingdom,recE0xRl8iWjRtQWZ,en
+rece6JYyEAQmlQjZv,recwMSrftJ7BbX5mZ,2023-03-29,,300000,,b.tech,Rejected by CP,rece6JYyEAQmlQjZv,sql-clustering,,,rece6JYyEAQmlQjZv,en
+recE6MjFfcuQtkvYp,recMh3kDSANBvdJbu,,,,,,Rejected by CP,recE6MjFfcuQtkvYp,"apis,jira,manual-testing,stlc",,,recE6MjFfcuQtkvYp,"en,hi"
+receaHhyFMDNDcs6y,recMh3kDSANBvdJbu,,,,,,Rejected by CP,receaHhyFMDNDcs6y,"java,jira,manual-testing,mysql,selenium,test-management",,,receaHhyFMDNDcs6y,"en,hi"
+recEDc7v7VhdNWzPf,recA3Ye1PMACJlO1Z,2023-02-27,,85000,90000,Electronic and microelectronic devices,Candidate not interested,recEDc7v7VhdNWzPf,node.js,,,recEDc7v7VhdNWzPf,en
+recehKJqSVRL1FJ8o,recwMSrftJ7BbX5mZ,,,8000,,,Rejected by CP,recehKJqSVRL1FJ8o,"test-automation,test-automation-framework",,,recehKJqSVRL1FJ8o,en
+receKsxX3wISNlJ49,recGrGIFWaByaa5dg,2023-02-13,,88200,98000," Certificate In Online Marketing Fundamentals, eMarketing Institute",Mission closed by client,receKsxX3wISNlJ49,"customer-engagement,digital-marketing,event-management,marketing",,,receKsxX3wISNlJ49,"ar,en"
+receNl0O8v0QFE2Uw,recA3Ye1PMACJlO1Z,2023-03-08,,120,130,Bachelor of Science in Computer Science,Rejected by CP,receNl0O8v0QFE2Uw,"angularjs,awstats,node.js,react,windows-azure",,,receNl0O8v0QFE2Uw,en
+recEnxZmlx2F8JKey,recu8QJacyAODTIeX,,,56000,,Marine Biology,Candidate not interested,recEnxZmlx2F8JKey,"analytical-skills,crm,kpi-reports,microsoft-office,networking,performance-metrics,territory-management",recEnxZmlx2F8JKey,europe/united-kingdom/england,recEnxZmlx2F8JKey,en
+recEoE4ZKTznt9Afv,recXsP0cgPHypy429,,,40000,,,Rejected by client,,,,,recEoE4ZKTznt9Afv,"en,fr,ko,zh"
+recePXjs3MJQF825H,rec25eM1zf8i9g7V4,,,,,,Sent to Client,recePXjs3MJQF825H,selenium,,,recePXjs3MJQF825H,"en,hi"
+reces7VtPj1MuEQR6,recA3Ye1PMACJlO1Z,,,,70000,Computer Science,Rejected by CP,reces7VtPj1MuEQR6,.com,,,reces7VtPj1MuEQR6,en
+recetd1coQumLMFxt,recwMSrftJ7BbX5mZ,,,,,,Sent to Client,recetd1coQumLMFxt,python,,,recetd1coQumLMFxt,"en,hi,te"
+receucCgD2pnvcNLt,recObvBwoSTSuFEll,2023-05-30,,47000,,Master 2 Sciences de l’ingénieur spécialité nucléaire et CND,Rejected by CP,receucCgD2pnvcNLt,"engineering,nosql,nuclear,panorama,project-engineering,project-management,python",,,receucCgD2pnvcNLt,"en,fr,ru"
+recEuGq1iMaRx67HW,recXUiPBv1AYRBeEF,,,600,,,Mission closed by client,recEuGq1iMaRx67HW,"investment-banking,options,swaps,trading-systems,visual-c++",,,recEuGq1iMaRx67HW,en
+receYq5oaBWWqJmzw,recGrGIFWaByaa5dg,2023-03-01,,60000,70000,,Mission closed by client,receYq5oaBWWqJmzw,"email-marketing,office-365,sata,social-media-marketing",receYq5oaBWWqJmzw,asia/united-arab-emirates/dubai,receYq5oaBWWqJmzw,"ar,en,es,fr"
+receYvMqbr602oHdy,rec1fLbPRArMKBz4D,,,45000,,,Sent to Client,receYvMqbr602oHdy,"business-development,e-commerce,electronics,sales",,,receYvMqbr602oHdy,en
+recEzcbw3NuXqOZXh,recu8QJacyAODTIeX,2023-01-01,,57000,,Master of Science ,Rejected by client,recEzcbw3NuXqOZXh,"analytical-skills,saas,strategic-planning",recEzcbw3NuXqOZXh,europe/united-kingdom/england,recEzcbw3NuXqOZXh,en
+recF6gSMeO5uVeypq,recdN16e9aiTj0z3a,,,40000,,,Rejected by CP,recF6gSMeO5uVeypq,sales,,,recF6gSMeO5uVeypq,"en,es,it"
+recfAQ9mZmzmWAwon,rec9B1Iwayh8YU3pc,,,,,"Philosophy, Politics and Economics",Waiting list,,,,,recfAQ9mZmzmWAwon,"en,gu"
+recFDRNQYMDXicVQB,rec6N2U5wJf7t3ySH,2023-03-22,2023-04-19,45000,70000,Conseiller Agricole Privé,Rejected by client,recFDRNQYMDXicVQB,"buckling,hydroponics",recFDRNQYMDXicVQB,worldwide,recFDRNQYMDXicVQB,"en,es,fr"
+recfl1yTTA7ypa0sb,recwMSrftJ7BbX5mZ,,,,,Computer Science,Sent to Client,recfl1yTTA7ypa0sb,"mysql,python",,,recfl1yTTA7ypa0sb,"en,hi"
+recfOoMQepIela1jU,recIa8aDuWkKPM8rx,,,45000,47000,Chef de projet digital,Rejected by CP,recfOoMQepIela1jU,"project-planning,sales-management",recfOoMQepIela1jU,europe/france,recfOoMQepIela1jU,"en,fa"
+recfriFBwt2QF1CGS,recI8ZjHBtBdkYS21,,,,,,Rejected by CP,recfriFBwt2QF1CGS,"javascript,music,react,science,typescript",,,recfriFBwt2QF1CGS,"en,fr"
+recfuieE5257bBlLa,recA3Ye1PMACJlO1Z,2023-02-27,,80000,100000,Computer Science and Industrial Automation,Mission closed by client,,,,,recfuieE5257bBlLa,"en,ro"
+recfVOb9a6YbSspRf,rec9B1Iwayh8YU3pc,,,,,Master in Management,Sourced,,,,,recfVOb9a6YbSspRf,"en,fr,zh"
+recfvZ0npYjDcQKxQ,recMh3kDSANBvdJbu,,,,,,Sent to Client,recfvZ0npYjDcQKxQ,"html,java,mysql,python",,,recfvZ0npYjDcQKxQ,"en,hi"
+recFw9sSTV1myXUpC,recUwquxTAuaSpYwc,,,,,"Master's degree  Applied Foreign Languages",Rejected by client,recFw9sSTV1myXUpC,salesforce.com,,,recFw9sSTV1myXUpC,"en,fr,zh"
+recFxkMov2TU9imC6,recGrGIFWaByaa5dg,2023-02-13,,98400,114000,Business Management,Screened by CP,recFxkMov2TU9imC6,"brand-management,campaign-management,change-management,digital-marketing,e-commerce,leadership,marketing-strategy,project-management,public-relations,revenue-amp-profit-growth,sales",,,recFxkMov2TU9imC6,"ar,en,fr"
+recfZu2ew03xgpHEn,recONKansnIbXY6ij,,,50000,,,Signed,,,,,recfZu2ew03xgpHEn,"en,fr"
+recfZWWMOePhl5Fmn,recCxmuaRimDj5fJh,,,80000,80000,Computer Science and Mathematics,Mission closed by client,recfZWWMOePhl5Fmn,"angularjs,node.js,react,typescript",recfZWWMOePhl5Fmn,europe/united-kingdom,recfZWWMOePhl5Fmn,en
+recG0uM4HsAKKhprQ,rec25eM1zf8i9g7V4,2023-03-22,2024-03-22,800,1500,Computer Science and Engineering ,Rejected by client,recG0uM4HsAKKhprQ,"c-c++-stl,css,html,javascript,jquery-mobile,linux,python,sql-plus,windows",recG0uM4HsAKKhprQ,asia/india,recG0uM4HsAKKhprQ,"ar,en,hi,ml"
+recg3nxFG18YPF6I7,rec25eM1zf8i9g7V4,,,8000,,,Rejected by CP,recg3nxFG18YPF6I7,"c-c++-stl,data-visualization,html,java,python,tbmcs",,,recg3nxFG18YPF6I7,"en,hi"
+recG4yMObofBGZZWQ,recsld3DKqBhnW6rg,,,10000,15000,Post Graduate Diploma in Management (MBA),Mission closed by client,recG4yMObofBGZZWQ,"analytics,metadata,microsoft-excel,mysql,python,spss,tableau",recG4yMObofBGZZWQ,asia/united-arab-emirates,recG4yMObofBGZZWQ,en
+recg7U8rLapUyA0wU,reciyBfDq6P4e5jEN,2023-03-01,,,,"Videaste, Video, Son, Montage",Waiting list,recg7U8rLapUyA0wU,crypto,,,recg7U8rLapUyA0wU,"en,fr"
+recg8uU4TtmtNks2w,recAczNwH7Yk3tM2z,2023-07-03,,35000,42000,MSc International Trade,Rejected by CP,recg8uU4TtmtNks2w,sales,recg8uU4TtmtNks2w,europe/france/ile-de-france,recg8uU4TtmtNks2w,"en,fr,zh"
+recgaI3QqweQmyvjX,rec7MvbTywFTvWryg,2023-03-07,,45000,,"Management, Gestion de projet, WEB et Mobile",Rejected by CP,recgaI3QqweQmyvjX,"apollo,css,html,node.js,react",recgaI3QqweQmyvjX,europe/france/paris,recgaI3QqweQmyvjX,"en,fr,he"
+recGajdA5TohishQp,rec7MvbTywFTvWryg,2023-04-03,,35000,,Web Development,Already In Client Pipeline,recGajdA5TohishQp,"heroku,ruby",,,recGajdA5TohishQp,"en,fr"
+recGASKI8kCnQKuX9,recnBWL7L2B5oicAV,,,55000,60000,,Rejected by client 2nd round,recGASKI8kCnQKuX9,"business-development,energy",,,recGASKI8kCnQKuX9,"en,fr"
+recgdeABdkleQlirE,recA3Ye1PMACJlO1Z,2023-02-22,2023-03-06,100000,100000,Computer Science MSc,Candidate not interested,recgdeABdkleQlirE,"amazon-web-services-aws,architecture,ecs,graphql,node.js,postgresql",recgdeABdkleQlirE,europe/united-kingdom,recgdeABdkleQlirE,en
+recGedRe31H6FEfUy,recMh3kDSANBvdJbu,2023-03-01,,,,Engineering ,Rejected by client,,,,,recGedRe31H6FEfUy,"en,hi,mr"
+recGh1gP4785nQMlj,reco7sqp1LuUkyVRc,,,45000,,Energy,Screened by CP,recGh1gP4785nQMlj,"linux,matlab,pack-office,pascal,pspice,simulink,unix,visual-basic,visual-c++",recGh1gP4785nQMlj,europe/france,recGh1gP4785nQMlj,"en,fr"
+recGH2IWzpoQOOs77,recAtcVMDz425qUT3,,,85000,,,Sent to Client,recGH2IWzpoQOOs77,"amazon-web-services-aws,data-visualization,insurance,modeling,mysql,python,reinsurance",,,recGH2IWzpoQOOs77,en
+recgiIjIKuiQqeGbf,rec2jbStt0bBp170k,,,,,Art direction & entrepreneurship,Mission closed by client,recgiIjIKuiQqeGbf,"art-direction,blockchain,brand-development,creative-direction,illustration,logo-design,photoshop",,,recgiIjIKuiQqeGbf,"en,fr"
+recGjbayGhgDMnUAe,recIa8aDuWkKPM8rx,,,42000,,,Candidate not interested,recGjbayGhgDMnUAe,"energy,engineering,entrepreneurship,sales-acumen",,,recGjbayGhgDMnUAe,"en,es,fr"
+recgjYVJWOBHDzAls,recA3Ye1PMACJlO1Z,,,120000,,,Rejected by CP,,,,,recgjYVJWOBHDzAls,en
+recgKhOuCMjG7BVMY,recTOLFUh69KqHf4t,,,52000,,Ecomonie international,Rejected by client,,,recgKhOuCMjG7BVMY,europe/france,recgKhOuCMjG7BVMY,"en,fr"
+recglYGw6SOngStax,recdN16e9aiTj0z3a,,,,,Marketing,Rejected by client,recglYGw6SOngStax,"management,marketing,sales",,,recglYGw6SOngStax,"de,en,es,pt"
+recgMqSyohJy4Y4Qj,recwMSrftJ7BbX5mZ,,,,,,Sent to Client,recgMqSyohJy4Y4Qj,"apache-spark,hive,python",,,recgMqSyohJy4Y4Qj,"en,ta"
+recgMZO0u2MEaMFMr,rec6N2U5wJf7t3ySH,2023-04-26,,70000,80000,Upper division studies in Computer Science,Rejected by client,recgMZO0u2MEaMFMr,"amazon-cloudfront,java,linux,php,windows",,,recgMZO0u2MEaMFMr,"en,es,fr"
+recGnc61GkVmVoZAQ,recJA0GigXHF9h4jF,,,,,,Rejected by client,recGnc61GkVmVoZAQ,blockchain,,,recGnc61GkVmVoZAQ,fr
+recGnXHJLEczSxKfg,recMh3kDSANBvdJbu,,,12,,,Rejected by CP,recGnXHJLEczSxKfg,"manual-testing,test-automation",recGnXHJLEczSxKfg,asia/india,recGnXHJLEczSxKfg,"en,ta"
+recgO058WntACwHNh,recdN16e9aiTj0z3a,,,,,"Bachelor of Engineering,Business Managerial Economics",Rejected by CP,recgO058WntACwHNh,"c-arm,cad-cam-software,catia,ecdl-certification,erp-implementations,excel-models,plm-tools,powerpoint,sharepoint,siemens-openlink,sql-loader",recgO058WntACwHNh,europe,recgO058WntACwHNh,"en,es,fr,it"
+recgO5ufQpyVbyAHQ,recKmfrKT4uTpCS2x,,,24000,27000,Local Government and Local Politics Studies,Waiting list,recgO5ufQpyVbyAHQ,"driving-license,sales,sales-management,sales-operations,sales-presentations,sales-process",,,recgO5ufQpyVbyAHQ,"en,pl"
+recGofDsxjJGQ5lqq,rect4fduNiqcXC123,2023-05-17,,45000,,European and Asian Business Development,Rejected by client,recGofDsxjJGQ5lqq,"business-development,food,restaurants,sales",recGofDsxjJGQ5lqq,europe/france,recGofDsxjJGQ5lqq,"en,fr,zh"
+recGOjpwiepBnosb6,recMh3kDSANBvdJbu,,,,,,Sent to Client,recGOjpwiepBnosb6,"jira,mysql,python",,,recGOjpwiepBnosb6,"en,hi"
+recGOJr4MSJ5ERG4p,recwMSrftJ7BbX5mZ,2023-04-03,,10000,15000,BTech in Computer Science and Engineering,Rejected by CP,recGOJr4MSJ5ERG4p,"apache-spark,hadoop,mongodb,mysql,object-oriented-languages,python",,,recGOJr4MSJ5ERG4p,"en,hi"
+recGOk6Z6bbPsrZar,rec7MvbTywFTvWryg,,,45000,47000,"Développeur d'applications web",Rejected by CP,recGOk6Z6bbPsrZar,"javascript,ruby-on-rails",recGOk6Z6bbPsrZar,europe/france,recGOk6Z6bbPsrZar,en
+recgpV7YLorKEydZU,recXsP0cgPHypy429,,,48000,,,Rejected by client,,,,,recgpV7YLorKEydZU,"en,fr,zh"
+recGr24cyoFwPcUwi,recAtcVMDz425qUT3,,,90000,,,Rejected by CP,recGr24cyoFwPcUwi,"aws-cwi,data-modeling,data-science,databases,etl,etl-tools,python,vpython",,,recGr24cyoFwPcUwi,en
+recGRARJu8e4zTSnZ,recdN16e9aiTj0z3a,,,35000,,,Rejected by CP,recGRARJu8e4zTSnZ,sales,,,recGRARJu8e4zTSnZ,"en,es"
+recgswj5pJGIkBlGi,recObvBwoSTSuFEll,2023-03-14,2023-03-31,45000,60000,ENERGY AND SUSTAINABILITY MANAGEMENT,Rejected by client,recgswj5pJGIkBlGi,"climate-change-adaptation,energy,python",recgswj5pJGIkBlGi,europe,recgswj5pJGIkBlGi,"ar,en,fr"
+recgTPe58NjN5lMyl,recUwquxTAuaSpYwc,,,0,100000,EMBA Management IT and Entrepreneurial,Screened by CP,recgTPe58NjN5lMyl,"business-development,ivd,medical-affairs",,,recgTPe58NjN5lMyl,"en,fr,zh"
+recgUjYvEJ9MKh9QC,recsld3DKqBhnW6rg,,,6500,7300,Data Science with concentration in Computational Methods,Mission closed by client,recgUjYvEJ9MKh9QC,"data-integration,data-management,data-science,tableau",recgUjYvEJ9MKh9QC,asia/united-arab-emirates,recgUjYvEJ9MKh9QC,en
+recgwGovV2e9MgdlZ,recwMSrftJ7BbX5mZ,,,,,"Computer Science,Informatics Engineering",Rejected by CP,recgwGovV2e9MgdlZ,"amazon-web-services-aws,c-c++-stl,data-center-virtualization,git,github,java,jira,mysql,phpmyadmin,postgresql,python,r-amp-tte,slackware,web-crawling,web-mapping",recgwGovV2e9MgdlZ,worldwide,recgwGovV2e9MgdlZ,"en,es,pt"
+recGWJo46z1A5gVbH,recLaxiCREBzTpmDO,,,40000,,Droit,Sent to Client,recGWJo46z1A5gVbH,"administration,administrative-assistance,client-relations,communication,event-planning,events-organisation",,,recGWJo46z1A5gVbH,"ar,en,es,fr"
+recGYMeDYmzmix6ud,recA3Ye1PMACJlO1Z,,,,,Computer Science,Rejected by CP,recGYMeDYmzmix6ud,python,,,recGYMeDYmzmix6ud,en
+recGzw3Ra6sdZd6UU,rec2Xnb1aA6Evh8id,,,75000,80000,Computer Science,Rejected by CP,recGzw3Ra6sdZd6UU,"algorithms,amazon-web-services-aws,c-c++-stl,cryptography,css,django,elasticsearch,elixir,git,html,javascript,mongodb,node.js,postgis,postgresql,python,redis,ruby-on-rails,typescript",,,recGzw3Ra6sdZd6UU,"en,fr,ru,zh"
+recH29zdQeYZdzz8v,rec7MvbTywFTvWryg,,,60000,0,Mastère spécialisé en mobilité et véhicules électriques,Interview Process,recH29zdQeYZdzz8v,"amazon-web-services-aws,cypress,django,heroku,mongodb,node.js,postgresql,python,react,react-native,redis,rspec,ruby,ruby-on-rails",recH29zdQeYZdzz8v,europe/france,recH29zdQeYZdzz8v,"en,fr"
+rech2MieMtx0dPoAo,recKRL2QH6xEYq7sa,2023-03-01,,65000,,,Rejected by CP,,,,,rech2MieMtx0dPoAo,"de,en"
+rech3iJEiWF0UEnRD,recWril35NdQ1pyCs,,,40000,,,Rejected by client,,,,,rech3iJEiWF0UEnRD,"en,fr,zh"
+rech4sbD1vUVNMuu7,recsld3DKqBhnW6rg,,,6500,7000,Computational Engineering and Networking - CSE,Rejected by CP,rech4sbD1vUVNMuu7,"data-science,machine-learning,tableau",rech4sbD1vUVNMuu7,asia/united-arab-emirates,rech4sbD1vUVNMuu7,"en,ml,ta"
+rechbyUd4Unbmwqdy,rec6N2U5wJf7t3ySH,,,0,110,Computational Linguistics,Rejected by CP,rechbyUd4Unbmwqdy,"design-patterns,design-research,web-design",rechbyUd4Unbmwqdy,europe/spain,rechbyUd4Unbmwqdy,"es,fr"
+recHCVgzGEUVQAeCr,recKRL2QH6xEYq7sa,2023-03-14,,60000,65000,International Business,Rejected by CP,recHCVgzGEUVQAeCr,"account-management,business-development,cold-calling,communication,data-science,deal-closure,lead-generation,leadership,management,organisational-leadership,organization-skills,saas,sales,sales-management,salesforce.com,software-development,start-ups,teamwork",,,recHCVgzGEUVQAeCr,"de,en,ru"
+recHD5b5EGOpLVhXg,recMh3kDSANBvdJbu,,,,,,Rejected by CP,recHD5b5EGOpLVhXg,"java,python",recHD5b5EGOpLVhXg,asia/india,recHD5b5EGOpLVhXg,"en,hi"
+rechDVFKxkRrWvpoB,rec7MvbTywFTvWryg,,,,,,Rejected by CP,,,,,rechDVFKxkRrWvpoB,"el,en,fr"
+rechgb2A1ntV0PLD3,recKmfrKT4uTpCS2x,,,,,Sales Management,Rejected by client,rechgb2A1ntV0PLD3,"business-development,communication,management,sales,training",,,rechgb2A1ntV0PLD3,"en,pl"
+rechHyTv689CVloEK,recGxlU3W94snVhuH,,,55000,,,Rejected by CP,rechHyTv689CVloEK,"business-analysis,crm-program-management,marketing",,,rechHyTv689CVloEK,en
+rechIVNIvmMlVSdSb,reciyBfDq6P4e5jEN,2023-03-01,,,,BA Hons. Business and Strategy ,Waiting list,rechIVNIvmMlVSdSb,"crypto,dao",,,rechIVNIvmMlVSdSb,en
+recHkPCGABy2NM66F,recu8QJacyAODTIeX,,,60000,,Transport Logistic Management,Rejected by client,recHkPCGABy2NM66F,"agribusiness,business-development,strategic-planning,supply-chain",recHkPCGABy2NM66F,europe/united-kingdom/england,recHkPCGABy2NM66F,"de,en,fr"
+recHkQH8UZlVXqV85,recA3Ye1PMACJlO1Z,2023-02-27,,90000,100000,Computer Science and Industrial Automation,Rejected by CP,,,,,recHkQH8UZlVXqV85,"en,ro"
+recHKWiDTzSSRuqJ7,recbkqmFA5hf81Ppv,2023-01-01,,,,,Signed,,,,,,
+rechLwDiv02eq0yuC,recXsP0cgPHypy429,,,55000,,,Rejected by client,,,,,rechLwDiv02eq0yuC,"en,fr,zh"
+recHriCgJmMPWXONM,recA3Ye1PMACJlO1Z,2023-03-08,,90,95,Bachelor of Applied Computer Science,Mission closed by client,recHriCgJmMPWXONM,"awstats,node.js,postgresql,python,react",,,recHriCgJmMPWXONM,en
+recHtNjZjMiX6vOIv,recwMSrftJ7BbX5mZ,2023-03-01,,,7920,Engineering in Information Technology,Rejected by CP,,,,,recHtNjZjMiX6vOIv,"en,fr,hi,mr"
+rechvqlqAQjskzO73,recJHwegfLPOBlDmf,,,,,,Rejected by CP,rechvqlqAQjskzO73,marketing,,,rechvqlqAQjskzO73,"en,es,fr,pt"
+recHxgz3LnOBwjAyQ,recA3Ye1PMACJlO1Z,2023-04-10,,96000,,Computer Science,Rejected by CP,recHxgz3LnOBwjAyQ,node.js,,,recHxgz3LnOBwjAyQ,"en,ro"
+recHyGuoLqL49VodB,recMh3kDSANBvdJbu,,,,,,Rejected by CP,recHyGuoLqL49VodB,"agile-amp-waterfall-methodologies,agile-testing,apis,bugzilla,java,jira,manual-testing,microsoft-sql-server,mysql,regression-testing,sanity-testing,selenium,selenium-testing,smoke-testing,sql-server-management-studio,test-automation,uix",,,recHyGuoLqL49VodB,"en,hi"
+recI37IsduivAvgoA,rec7MvbTywFTvWryg,2023-03-02,,45000,,Architecte en Technologies Numériques,Rejected by CP,recI37IsduivAvgoA,"angularjs,postgresql,ruby,ruby-on-rails",recI37IsduivAvgoA,europe/france,recI37IsduivAvgoA,"en,fr,ro,ru"
+recI3tYvFjPEuFhlP,rec0t420QAE6AgEAn,2023-03-08,,35000,,Ingénieur Technologies de l’Information pour la Santé,Rejected by CP,recI3tYvFjPEuFhlP,"django,node.js,python,react",recI3tYvFjPEuFhlP,europe/france,recI3tYvFjPEuFhlP,"en,fr"
+recI65G2zqqHESFp0,recwMSrftJ7BbX5mZ,2023-03-10,,,,Electrical Engineering,Rejected by CP,,,,,recI65G2zqqHESFp0,"en,hi,mr"
+reciDVtlr1vcOVxEz,recMh3kDSANBvdJbu,,,8500,,,Sent to Client,reciDVtlr1vcOVxEz,"integration,java,manual-testing,mysql,python",,,reciDVtlr1vcOVxEz,"en,hi"
+recIDVXfxN2WPU4X9,rec4HUudTcWwWYHm2,,,70000,,,Rejected by CP,recIDVXfxN2WPU4X9,"amazon-web-services-aws,git,heroku,postgresql,react",recIDVXfxN2WPU4X9,europe/france,recIDVXfxN2WPU4X9,"en,fr"
+reciEEkRB9Ta7P8Te,reclHFyhFZjXOSbEp,,,60000,62000,,Rejected by CP,reciEEkRB9Ta7P8Te,"javascript,react-native,typescript",reciEEkRB9Ta7P8Te,europe/france,reciEEkRB9Ta7P8Te,en
+recieSrM6pkgrmCld,recA3Ye1PMACJlO1Z,2023-03-23,,80000,, Computer Science,Rejected by CP,recieSrM6pkgrmCld,"agile-methodologies,amazon-web-services-aws,angularjs,apis,blockchain,bootstrap,ci-cd,css,git,github,html5,javascript,jira,json,mongodb,mysql,node.js,react,scrum,soap,unit-testing,user-interface,web-services,xml",,,recieSrM6pkgrmCld,en
+reciGz7tOuBKHR2O0,recwMSrftJ7BbX5mZ,,,,,IT and Marketing,Rejected by client,reciGz7tOuBKHR2O0,python,reciGz7tOuBKHR2O0,asia/india,reciGz7tOuBKHR2O0,"en,hi"
+recijLyAUdXLkWOO6,recUwquxTAuaSpYwc,,,70000,80000,,Rejected by client,recijLyAUdXLkWOO6,"business,business-development,investments,ivd,management",,,recijLyAUdXLkWOO6,"en,fr"
+recijYlynFubUjevv,recA3Ye1PMACJlO1Z,,,50000,70000,"Bachelor's Degree, Computer Graphics",Rejected by CP,recijYlynFubUjevv,".net,amazon-web-services-aws,csharp,graphql,javascript,javascript-libraries,node.js,smart-contracts",,,recijYlynFubUjevv,"en,ja"
+recIkf4rRYocXoC2N,rec6N2U5wJf7t3ySH,,,55000,70000,"Máster en Ingeniería Hidráulica y Medio Ambiente, HidráulicaMáster en Ingeniería Hidráulica y Medio Ambiente, Hidráulica 2011 - 2013",Rejected by CP,recIkf4rRYocXoC2N,"account-management,arcgis,autocad,business-development,business-planning,business-strategy,cbd,crop-protection,customer-service,energy-efficiency,energy-efficiency-consulting,engineering,epanet,financial-analysis,hec-ras,illustrator,indesign,marketing,marketing-strategy,microsoft-excel,microsoft-word,negotiation,office-365,photoshop,project-management,project-planning,sales,sales-management,sales-operations,sales-process,social-media,strategic-planning,sustainability,team-leadership,teamwork,water-pumps,water-resources,water-supply",,,recIkf4rRYocXoC2N,"en,es,it"
+recIkv1VmX2d09V8w,rec1fLbPRArMKBz4D,2023-04-03,2023-04-07,,,Business & Marketing,Rejected by client,recIkv1VmX2d09V8w,"administration,html,marketing-communications,sales,sales-presentations,team-alignment",recIkv1VmX2d09V8w,europe/united-kingdom,recIkv1VmX2d09V8w,"en,it"
+recINoBiDySMoNhuu,recDD8JBa77gVncOf,,,35000,,,Sent to Client,recINoBiDySMoNhuu,"account-management,business-development,commercial-insurance,general-insurance,sales",,,recINoBiDySMoNhuu,en
+recINSYaWyrL5kKPv,recMh3kDSANBvdJbu,,,,,,Sent to Client,recINSYaWyrL5kKPv,"bugzilla,css,html,java,jira,mongodb,mysql,python,selenium,testing",,,recINSYaWyrL5kKPv,"en,hi"
+recIOKrP90lMxEOdQ,recMh3kDSANBvdJbu,,,,,,Rejected by CP,recIOKrP90lMxEOdQ,"agile-methodologies,core-java,cucumber,edtech,java,manual-testing,maven,mysql,selenium-testing,test-automation",,,recIOKrP90lMxEOdQ,"en,hi"
+reciONFgKzjUOdydd,rec0t420QAE6AgEAn,2023-03-13,,32000,35000,RNCP (Répertoire national des certifications professionnelles) ,Rejected by CP,reciONFgKzjUOdydd,"cloud-applications,css,html,postgresql,python,react,sql-azure,typescript",,,reciONFgKzjUOdydd,"en,es,fr"
+recIq4JSbvn3RHTrM,reclHFyhFZjXOSbEp,,,,,,Rejected by CP,recIq4JSbvn3RHTrM,react-native,recIq4JSbvn3RHTrM,europe/france,recIq4JSbvn3RHTrM,fr
+recivZAGFCdoJvNl0,recXsP0cgPHypy429,,,,,,Rejected by client,,,,,recivZAGFCdoJvNl0,"en,fr,zh"
+recj5t3es5rumTnv4,recMh3kDSANBvdJbu,,,,,,Sent to Client,recj5t3es5rumTnv4,"black-box-testing,java",,,recj5t3es5rumTnv4,"en,hi"
+recj7ZKpf4I1yQCCp,recLaxiCREBzTpmDO,,,45000,,Team Management,Sent to Client,recj7ZKpf4I1yQCCp,"administrative-assistance,communication,event-management,invoicing,office-management",,,recj7ZKpf4I1yQCCp,"en,fr"
+recJ9dgDPHsSehPZA,recwMSrftJ7BbX5mZ,2023-03-07,2023-03-31,4500000,,B.E,Rejected by CP,recJ9dgDPHsSehPZA,python,,,recJ9dgDPHsSehPZA,en
+recjawPsgyFXehR2U,recql4vRdy52jvOWm,2023-02-27,2023-02-17,38000,40000,Higher Diploma in Building Services Engineering ,Waiting list,recjawPsgyFXehR2U,"customer-engagement,marketing,merchandise,supplier-sourcing",recjawPsgyFXehR2U,europe/united-kingdom,recjawPsgyFXehR2U,"en,zh"
+recJBcZxxsbMGQ8em,recdN16e9aiTj0z3a,,,,,M.B.A.SALES,Rejected by client,recJBcZxxsbMGQ8em,"crm,office-365",recJBcZxxsbMGQ8em,europe,recJBcZxxsbMGQ8em,"en,es"
+recjbk5dQJBRucoA4,rec5Vy4oVduUs4WKq,,,,,Management of Marketing and Advertising,Rejected by CP,recjbk5dQJBRucoA4,"internet-savvy,lotus-notes,microsoft-excel,microsoft-office,microsoft-word",recjbk5dQJBRucoA4,europe,recjbk5dQJBRucoA4,"de,en,hu"
+recJDkZoCCaBQzOeQ,rec8fX8ZnMmWDyHil,,,40000,45000,Marketing,Rejected by client,recJDkZoCCaBQzOeQ,"account-management,digital-strategy,marketing,social-media",recJDkZoCCaBQzOeQ,europe/united-kingdom,recJDkZoCCaBQzOeQ,"en,zh"
+recjeAjozLSEqVlTD,recONKansnIbXY6ij,,,,,,Mission closed by client,,,,,recjeAjozLSEqVlTD,"en,fr"
+recJfai7PQslU07k5,recMh3kDSANBvdJbu,,,,,,Sent to Client,recJfai7PQslU07k5,"agile-testing,apis,databases,java,jira,mysql,python,selenium-testing,software-development,sql-clr",,,recJfai7PQslU07k5,"en,hi,mr"
+recjGseuejMQt3tP0,recwMSrftJ7BbX5mZ,2023-03-01,,,9120,Engineering in Information Technology,Rejected by CP,,,,,recjGseuejMQt3tP0,"en,hi,mr"
+recJIFrkda8v7WSOF,recMh3kDSANBvdJbu,,,12,,,Rejected by CP,recJIFrkda8v7WSOF,"test-automation-framework,testing",,,recJIFrkda8v7WSOF,"en,hi"
+recJjijOcdLQsCeuD,reclHFyhFZjXOSbEp,,,48000,52000,,Rejected by CP,recJjijOcdLQsCeuD,"react,react-native",,,recJjijOcdLQsCeuD,"en,fr"
+recJJq3zMCWUvD0Gw,recMh3kDSANBvdJbu,,,,,,Sent to Client,recJJq3zMCWUvD0Gw,"black-box-testing,java",,,recJJq3zMCWUvD0Gw,"en,hi"
+recjKroriMy0i4et9,rec7MvbTywFTvWryg,,,50000,60000,"Master Grande Ecole (cours en français), Commerce et gestion",Rejected by client,recjKroriMy0i4et9,"ajax,back-end-development,bootstrap,css,git,heroku,html,html5,javascript,jquery-mobile,mysql,postgresql,redis,ruby,ruby-on-rails",recjKroriMy0i4et9,europe/france/paris,recjKroriMy0i4et9,"en,fr,zh"
+recjl5dW0RDLfXuQK,recGrGIFWaByaa5dg,2023-04-13,,,129000, Business administration,Screened by CP,recjl5dW0RDLfXuQK,"digital-marketing,leadership,web-site-production",,,recjl5dW0RDLfXuQK,"ar,en,es"
+recjMgdH8imd8qwAE,recUMYC6no6ATWX6U,,,68000,,,Rejected by CP,recjMgdH8imd8qwAE,sales-process,recjMgdH8imd8qwAE,"europe/france,europe/russia",recjMgdH8imd8qwAE,"en,fr"
+recJmHsX6fk3gbU0f,rec7MvbTywFTvWryg,,,0,6500,Electrical and Electronics Engineering,Rejected by CP,recJmHsX6fk3gbU0f,"css,eclipse,html,java,javascript,mysql,spring-framework,sql-azure",recJmHsX6fk3gbU0f,asia/india,recJmHsX6fk3gbU0f,"en,hi,kn,te"
+recJmN0fLbF4x66cQ,recMh3kDSANBvdJbu,,,,,,Sent to Client,recJmN0fLbF4x66cQ,"python,selenium",,,recJmN0fLbF4x66cQ,"en,hi"
+recJObt8kLuFzKk8U,recKRL2QH6xEYq7sa,,,,,,Rejected by CP,,,,,recJObt8kLuFzKk8U,"de,el,en,es"
+recjOEZ1kR1xnLhtj,recZzXqsiS77tAAcS,,,44000,,Business,Candidate not interested,recjOEZ1kR1xnLhtj,"energy,hubspot,pack-office,salesforce.com",recjOEZ1kR1xnLhtj,europe/france,recjOEZ1kR1xnLhtj,"de,en,fr"
+recjPoomXV94B8IHE,rec0t420QAE6AgEAn,2023-03-15,,38000,,SQL avancé / Java J2EE avancé / Spring / Angular / UML,Screened by CP,recjPoomXV94B8IHE,"angularjs,java,java-certified-programmer,react,spring-framework,sql-azure,typescript,uml",,,recjPoomXV94B8IHE,fr
+recjQ5xUOxh75LMLR,recMh3kDSANBvdJbu,,,1,,,Rejected by CP,recjQ5xUOxh75LMLR,"jira,python,selenium,testing",,,recjQ5xUOxh75LMLR,"en,ta"
+recJRpiBbYPLeLtRd,recwMSrftJ7BbX5mZ,,,10000,,,Sent to Client,recJRpiBbYPLeLtRd,"amazon-web-services-aws,etl,jenkins,performance-testing,python,sql-azure,testing",,,recJRpiBbYPLeLtRd,"en,hi"
+recjxqm7Kyiw8OYEe,recMh3kDSANBvdJbu,,,,,,Sent to Client,recjxqm7Kyiw8OYEe,"apache,automation,java,manual-testing,mysql",,,recjxqm7Kyiw8OYEe,"en,hi,mr"
+recJzwcX2yvzL9ajA,reclHFyhFZjXOSbEp,,,60000,80000,Bsc Computer Science,Rejected by CP,recJzwcX2yvzL9ajA,"android,android-development,android-sdk,ios,ios-design,ios-development,objective-c,user-scenarios,web-applications,web-development",,,recJzwcX2yvzL9ajA,en
+reckAXDtLiky1mPER,recKRL2QH6xEYq7sa,2023-04-03,,65000,,Agriculture and Life Science,Offer sent,reckAXDtLiky1mPER,"agricultural-economics,saas,sales",reckAXDtLiky1mPER,europe/germany,reckAXDtLiky1mPER,"de,en"
+recKBINSoeEbDEUuz,recdN16e9aiTj0z3a,,,35000,,,Sent to Client,recKBINSoeEbDEUuz,sales,,,recKBINSoeEbDEUuz,"en,es,it"
+reckd3ttea3eqKXrq,recsld3DKqBhnW6rg,,,90000,95000,Master’s in Business Administration,Mission closed by client,reckd3ttea3eqKXrq,"crm,market-research,operations-management",,,reckd3ttea3eqKXrq,en
+reckFTMC26bcGiehF,recAtcVMDz425qUT3,,,0,60000,,Rejected by CP,reckFTMC26bcGiehF,"data-modeling,data-warehousing,etl,python",,,reckFTMC26bcGiehF,en
+reckG7X2C6FuiThnk,recGrGIFWaByaa5dg,2023-02-13,,72000,72000,"Certificate, digital strategy and communication management ",Screened by CP,reckG7X2C6FuiThnk,"business-development,campaign-management,content-management,digital-marketing,google-analytics,marketing,sales",,,reckG7X2C6FuiThnk,"ar,en,fr"
+recKHgMoZaXOwb7em,rec2jbStt0bBp170k,,,,,Graphic Design,Rejected by CP,recKHgMoZaXOwb7em,"after-effects,graphic-design,graphic-illustrations,illustration,illustrator,indesign,photoshop",,,recKHgMoZaXOwb7em,"en,fr"
+reckhK8dLfb2wvZ02,recAczNwH7Yk3tM2z,,,,,,Rejected by CP,reckhK8dLfb2wvZ02,sales,,,reckhK8dLfb2wvZ02,fr
+recKi2P9TQ94ozwFv,recGxlU3W94snVhuH,2023-03-29,2023-04-15,40000,100000,Science in Entrepreneurship,Rejected by CP,recKi2P9TQ94ozwFv,"adobe-professional,microsoft-office,photoshop,silverstripe,spss",recKi2P9TQ94ozwFv,worldwide,recKi2P9TQ94ozwFv,"en,zh"
+reckiiZbXMM4l4Feh,recusVqWSM8W4Os51,,,60000,,Computer Application,Sent to Client,reckiiZbXMM4l4Feh,"c-c++-stl,data-visualization,html,java,numpy,python,sql-azure",,,reckiiZbXMM4l4Feh,"en,hi"
+recKkBLNVDXBYnILM,recETHEgTGsGxaBPv,,,,,,Rejected by CP,recKkBLNVDXBYnILM,react,,,recKkBLNVDXBYnILM,fr
+recKN6LVRYkhBeQV5,recGxlU3W94snVhuH,2023-06-01,,65000,70000,Marketing,Rejected by client,recKN6LVRYkhBeQV5,"account-management,advertising,asia-business-development,brand-awareness,brand-management,business-development,business-strategy,client-services,cross-functional-team-leadership,fashion-photography,fashion-writing,international-business,international-sales,key-account-mangement,marketing,marketing-communications,marketing-management,new-business-development,project-management,project-planning,public-relations,publications,retail,retail-sales,strategic-planning,visual-merchandising",,,recKN6LVRYkhBeQV5,"en,ms,zh"
+reckNBwNd2zkh9gCe,rec7MvbTywFTvWryg,,,40,,Developpeur Web,Rejected by CP,reckNBwNd2zkh9gCe,react,reckNBwNd2zkh9gCe,europe/france,reckNBwNd2zkh9gCe,"en,es,fr,vi"
+recKNTlWynsVqZzLY,rec7MvbTywFTvWryg,,,,,Computer Engineering,Rejected by CP,recKNTlWynsVqZzLY,"angularjs,api-development,git,github,java,jira,linux,mongodb,mysql,node.js,python,scrum,virtualization,web-services,xml",,,recKNTlWynsVqZzLY,"ar,en,fr"
+recKoFpqz4ovtmtB0,recXUiPBv1AYRBeEF,,,650,,,Mission closed by client,recKoFpqz4ovtmtB0,"algorithms,angularjs,derivative-trading,investment-banking,trading-systems,visual-c++",recKoFpqz4ovtmtB0,europe/united-kingdom,recKoFpqz4ovtmtB0,en
+recKrmyrHx7vHWzVJ,recwMSrftJ7BbX5mZ,,,12000,,,Sent to Client,recKrmyrHx7vHWzVJ,"quality-assurance,test-automation,test-automation-framework",,,recKrmyrHx7vHWzVJ,en
+recKSRkXHdfrcLjfq,rec5Vy4oVduUs4WKq,,,3500,,,Sent to Client,recKSRkXHdfrcLjfq,"international-sales,retail,store-management,team-leadership",,,recKSRkXHdfrcLjfq,"en,hu"
+recKU3fjATPtWLhz2,rec6N2U5wJf7t3ySH,,,65000,70000,Masters in Environmental Engineering and Sustainable Energy,Rejected by CP,recKU3fjATPtWLhz2,"c-c++-stl,management,project-management,python,shell-scripting,solution-focused,sql-plus",recKU3fjATPtWLhz2,europe/spain,recKU3fjATPtWLhz2,"de,en,es,fr"
+reckViWDejfz8j7km,recKRL2QH6xEYq7sa,2023-04-10,,65000,70000,Bachelor of Science in International Hospitality Management,Screened by CP,reckViWDejfz8j7km,"account-management,crm,hospitality,mac-os,marketing,microsoft-office,negotiation,presentations,retail,saas,sales,sales-management,team-building,team-leadership,team-management",reckViWDejfz8j7km,"europe,europe/switzerland,europe/united-kingdom",reckViWDejfz8j7km,"de,en,es,fr"
+recKWMnSJa5yyg3Fz,recwMSrftJ7BbX5mZ,2023-04-24,,8700,10000,BE Electrical engineering,Rejected by CP,recKWMnSJa5yyg3Fz,"amazon-web-services-aws,microsoft-sql-server,mysql,python",,,recKWMnSJa5yyg3Fz,"en,hi"
+reckwV2bXPwI6UKNS,recOLEbIR0xzdb1kT,,,,,"Master in management , finance entreprise ",Candidate not interested,reckwV2bXPwI6UKNS,finance,,,reckwV2bXPwI6UKNS,"en,fr"
+reckX7YOzWiDkusFA,recwMSrftJ7BbX5mZ,,,0,,,Sent to Client,reckX7YOzWiDkusFA,"java,software-testing-life-cycle,test-automation",,,reckX7YOzWiDkusFA,en
+recKZx4LV5Us6Vxsg,rec5Vy4oVduUs4WKq,,,19000,,,Rejected by CP,recKZx4LV5Us6Vxsg,sales,,,recKZx4LV5Us6Vxsg,"en,hu"
+recL0mPBEfLrb1BmN,recavhovBsS2p3eZO,,,,,Master Entrepreneurship and Business Administration,Candidate not interested,recL0mPBEfLrb1BmN,"account-management,driving-license,sales,salesforce.com",,,recL0mPBEfLrb1BmN,en
+recl25Ve7c58dRGL1,rec9B1Iwayh8YU3pc,,,,,Finance,Sourced,,,,,recl25Ve7c58dRGL1,"en,es,fr"
+recL4CerHrXfY3V6o,recOO9bDKaXhlAHdo,,,,,,Interview Process,recL4CerHrXfY3V6o,microsoft-office,,,recL4CerHrXfY3V6o,"el,en"
+recL4e14MkPQRzxfD,rec11F8d7djUmcYvT,,,,,Economy of Industry,Rejected by CP,recL4e14MkPQRzxfD,"business-development,driving-license,management,sales,sales-growth",,,recL4e14MkPQRzxfD,"bg,en,ru"
+recl5hm2GhrVQZk8n,recwMSrftJ7BbX5mZ,2023-03-31,,20000,,B.tech,Candidate not interested,recl5hm2GhrVQZk8n,"java,node.js,python,scala,sql-plus",,,recl5hm2GhrVQZk8n,en
+recL7WvjQtp1FsBKo,recaniL7Rb7phHsuO,,,0,,,Sourced,recL7WvjQtp1FsBKo,"crm,sales",,,recL7WvjQtp1FsBKo,"ar,en,fr"
+recLbHjVQnXw6bGN4,recwMSrftJ7BbX5mZ,2023-03-01,,,9120,Engineering in Information Technology,Rejected by CP,,,,,recLbHjVQnXw6bGN4,"en,hi"
+recLbqD7ENCmOoCcL,rec2jbStt0bBp170k,,,,,Digital Communication & Creation,Rejected by CP,recLbqD7ENCmOoCcL,"adobe-creative-suite,brand-development,content-management,figma,graphic-design",,,recLbqD7ENCmOoCcL,"en,fr,it"
+reclDpB8UO7tXXfT7,recKmfrKT4uTpCS2x,,,,,Master of Business Administration,Rejected by client,reclDpB8UO7tXXfT7,"active-directory,business-development,management,sales",,,reclDpB8UO7tXXfT7,"en,fr,pl,ru"
+reclGv7YlANsaOS8S,recMh3kDSANBvdJbu,,,7,,,Rejected by CP,reclGv7YlANsaOS8S,test-automation,reclGv7YlANsaOS8S,asia/india,reclGv7YlANsaOS8S,"en,hi"
+recLh6iqp4srtbqcz,reclHFyhFZjXOSbEp,,,60000,80000,Electronics,Rejected by CP,recLh6iqp4srtbqcz,"ci-cd,firewalls,java,mobile-applications,mobile-technology,mobile-telephony,react,react-native",,,recLh6iqp4srtbqcz,en
+recLInuyVTse1mcaX,recTOLFUh69KqHf4t,2023-05-01,,50000,,MSc Management ,Rejected by client,recLInuyVTse1mcaX,"hubspot,pack-office,sap",recLInuyVTse1mcaX,europe/france,recLInuyVTse1mcaX,"en,fr,hi"
+reclL8zrcvylGsRED,recAtcVMDz425qUT3,,,80000,,,Rejected by client,reclL8zrcvylGsRED,"data-modeling,data-science,etl,insurance,python",,,reclL8zrcvylGsRED,en
+recLogU9c9hdrfank,recwMSrftJ7BbX5mZ,,,12000,15000,Software Engineering,Rejected by CP,recLogU9c9hdrfank,"amazon-ec2,amazon-s3,amazon-web-services-aws,apache-kafka,apis,athena,bash,cosmos-fea,dbt,emr,glue,gnu-c++,iam,java,kms,kubernetes,lambda-expressions,mongodb,mysql,nosql,postgresql,python,shell-scripting,snow,snowflake,sparql,sql-azure,tableau,vmware,windows-azure,wrds",recLogU9c9hdrfank,europe/cyprus,recLogU9c9hdrfank,"de,en"
+recLqhIq9lGikkv9B,recavhovBsS2p3eZO,,,24000,25000,"Management, Marketing, Economics",Interview Process,recLqhIq9lGikkv9B,"direct-sales,driving-license,sales",,,recLqhIq9lGikkv9B,en
+recLtEeQdHkdjJFeZ,rec6N2U5wJf7t3ySH,,,60000,70000,Master’s Degree in environmental and Agricultural Sciences.,Rejected by CP,recLtEeQdHkdjJFeZ,"agriculture,data-driven-decision-making,digital-innovation",recLtEeQdHkdjJFeZ,europe/spain,recLtEeQdHkdjJFeZ,"en,es,fr,pt"
+recLtw3qAflpgbBhF,recwMSrftJ7BbX5mZ,2023-04-03,,7000,9000,Bachelor Of Information Technology,Rejected by CP,recLtw3qAflpgbBhF,"css,html5,microsoft-sql-server,mysql,python,windows-azure",,,recLtw3qAflpgbBhF,"en,hi"
+recLuimxVMpWUaU5C,rec5Vy4oVduUs4WKq,,,,,MBA FOR EUROPE,Rejected by CP,recLuimxVMpWUaU5C,"adobe-design-programs,map,matrixone,microsoft-excel,office-365,onenote,oracle,outlook,powerpoint,project-implementation,real-estate-development,sap,sap-sd,sharepoint,viewpoint",recLuimxVMpWUaU5C,europe,recLuimxVMpWUaU5C,"en,fr,hu"
+recLV2fWMBjUTqCBK,recusVqWSM8W4Os51,,,50000,,Elektrical and Electronics Engineering,Sent to Client,recLV2fWMBjUTqCBK,c-c++-stl,,,recLV2fWMBjUTqCBK,"en,tr"
+recLxtlLE49Wot1Dm,recMh3kDSANBvdJbu,,,,,,Rejected by CP,recLxtlLE49Wot1Dm,"java,unix",,,recLxtlLE49Wot1Dm,"en,hi,mr"
+reclYqHRd6WzXwQwR,rec7MvbTywFTvWryg,,,,,,Rejected by CP,reclYqHRd6WzXwQwR,.com,,,reclYqHRd6WzXwQwR,"en,fr"
+recM6Yf4IMQnibFUb,rec25eM1zf8i9g7V4,,,,,Computer Science,Sent to Client,recM6Yf4IMQnibFUb,"ethical-hacking,hacking,hardware-hacking",,,recM6Yf4IMQnibFUb,"en,hi"
+recMagcShiL1dKne5,recUwquxTAuaSpYwc,2023-03-30,,90000,90000,Double MBA (TIEMBA ‘21),Rejected by CP,recMagcShiL1dKne5,"business-planning,leadership,leadership-development,leadership-mentoring,research,start-up-ventures,start-ups,start-ups-management",recMagcShiL1dKne5,"asia/china,europe/france",recMagcShiL1dKne5,"en,fr,zh"
+recMaX10auIu2nv8L,recZzXqsiS77tAAcS,,,32000,,Finance général,Rejected by CP,recMaX10auIu2nv8L,pack-office,recMaX10auIu2nv8L,europe/france,recMaX10auIu2nv8L,"en,fr"
+recmbgagdB1skURea,rec5Vy4oVduUs4WKq,,,,,Logistics and supply chain management,Rejected by CP,recmbgagdB1skURea,internet-savvy,recmbgagdB1skURea,europe,recmbgagdB1skURea,"de,en,hu"
+recMEAgphr6LuRnHT,recwMSrftJ7BbX5mZ,,,4500,,,Rejected by CP,recMEAgphr6LuRnHT,automation,,,recMEAgphr6LuRnHT,en
+recmFKjpqBFtYMo9P,rec7MvbTywFTvWryg,,,48000,50000,Expert en ingénierie et management des technologies de l’information et de la communication,Rejected by CP,recmFKjpqBFtYMo9P,"jira,react,react-native,ruby-on-rails",,,recmFKjpqBFtYMo9P,en
+recmg1dvSuKZoQklz,recMh3kDSANBvdJbu,,,,,,Rejected by CP,recmg1dvSuKZoQklz,"java,mysql,selenium",,,recmg1dvSuKZoQklz,"en,hi"
+recmiLujK3y3g0w7z,rec11F8d7djUmcYvT,,,23000,,,Sent to Client,recmiLujK3y3g0w7z,sales,,,recmiLujK3y3g0w7z,"bg,en"
+recMIvnEHn7DFybec,rec25eM1zf8i9g7V4,,,,6000,Electrical and Electronics Engineering,Sent to Client,recMIvnEHn7DFybec,"css,html,java,javascript,microsoft-sql-server,mysql",recMIvnEHn7DFybec,asia/india,recMIvnEHn7DFybec,"en,hi,kn,te"
+recMjd8Gsq7OhlC6W,rec9B1Iwayh8YU3pc,,,,,M&A,Sourced,,,,,recMjd8Gsq7OhlC6W,"en,fr"
+recMkoRXtLTKU6mxo,recWril35NdQ1pyCs,,,,,,Rejected by client,,,,,recMkoRXtLTKU6mxo,"en,fr,zh"
+recMkRgF0Cfg0Idvm,recMh3kDSANBvdJbu,2023-03-24,,,,Computer Application,Rejected by client,,,,,recMkRgF0Cfg0Idvm,"en,hi"
+recmKZrpgx35vARTw,recCxmuaRimDj5fJh,,,80000,80000,Computer Science,Rejected by CP,recmKZrpgx35vARTw,"angularjs,front-end-engineering-design,react",,,recmKZrpgx35vARTw,en
+recmMNTrEjqtRoILy,recAtcVMDz425qUT3,,,85000,,,Already In Client Pipeline,recmMNTrEjqtRoILy,"cloud-based,data-analysis,data-modeling,data-visualization,data-warehousing,postgresql,python",,,recmMNTrEjqtRoILy,en
+recMmwqsVt0Ycm7C6,rec7MvbTywFTvWryg,,,40000,45000,Développeuse Web et Web Mobile Fullstack Javascript Spécialisation Data & API,Rejected by CP,recMmwqsVt0Ycm7C6,"git,graphql,heroku,infrastructure,javascript,node.js,postgresql,react,ruby,typescript",recMmwqsVt0Ycm7C6,europe/france,recMmwqsVt0Ycm7C6,"en,fr"
+recmNXRgzh9KnORVU,rec5Vy4oVduUs4WKq,,,3500,,,Sent to Client,recmNXRgzh9KnORVU,"analysis,business,marketing,sales,technical-ability",,,recmNXRgzh9KnORVU,"de,en,hu"
+recmQXZg7J07ddVus,recA3Ye1PMACJlO1Z,2023-04-03,,65000,120000, Computer Engineering,Rejected by CP,recmQXZg7J07ddVus,"amazon-web-services-aws,javascript,mobile-applications,node.js,react",,,recmQXZg7J07ddVus,en
+recMSlRaaQYFxGKQR,recwMSrftJ7BbX5mZ,,,,,,Rejected by CP,recMSlRaaQYFxGKQR,.com,,,recMSlRaaQYFxGKQR,en
+recMsvaBILoBJcLfU,recUMYC6no6ATWX6U,,,120000,130000,,Candidate not interested,recMsvaBILoBJcLfU,"key-account-acquisition-amp-retention,key-account-mangement,key-account-relationship-building,managing-key-accounts,sales,sales-growth,sales-management-coaching",,,recMsvaBILoBJcLfU,"de,en"
+recMswlUbDfRbCvF3,recwMSrftJ7BbX5mZ,,,8000,,,Rejected by CP,recMswlUbDfRbCvF3,"c-c++-stl,python,sql-azure",,,recMswlUbDfRbCvF3,"en,hi"
+recMTgthqfkjYo6jG,recA3Ye1PMACJlO1Z,2023-03-13,,120000,140000,Computer Science,Rejected by CP,recMTgthqfkjYo6jG,"amazon-web-services-aws,graphql,node.js,postgresql,windows-azure",,,recMTgthqfkjYo6jG,en
+recmxI3n4Oa4fUSXY,rec5Vy4oVduUs4WKq,,,,,Business Administration and Management General,Candidate not interested,recmxI3n4Oa4fUSXY,"canvas,social-media-communications",recmxI3n4Oa4fUSXY,europe,recmxI3n4Oa4fUSXY,"en,es,hu"
+recmYSqMOUubD69Ip,rec0t420QAE6AgEAn,2023-03-14,,37,,"Diplôme national d'ingénierie et de technologies",Rejected by CP,recmYSqMOUubD69Ip,".net,angularjs,jdeveloper,spring-framework",,,recmYSqMOUubD69Ip,"en,fr"
+recmYWOgByOy8fw4N,recA3Ye1PMACJlO1Z,,,,,,Rejected by CP,recmYWOgByOy8fw4N,java,,,recmYWOgByOy8fw4N,"en,fr"
+recmZOfD6VcsYUfUu,recCxmuaRimDj5fJh,,,75000,85000,Human Genetics ,Mission closed by client,recmZOfD6VcsYUfUu,"angularjs,javascript,leadership",,,recmZOfD6VcsYUfUu,en
+recN76GuPUyJG4YyR,rec5Vy4oVduUs4WKq,,,,,Commerce and Marketing Specialist,Interview Process,recN76GuPUyJG4YyR,"access,microsoft-excel,microsoft-word,outlook,powerpoint,salesforce.com,windows",recN76GuPUyJG4YyR,europe,recN76GuPUyJG4YyR,"de,en,hu"
+recnaBqChE2JvBw9I,recwe9VS4h7Qfkzjd,,,32000,,,Signed,,,,,recnaBqChE2JvBw9I,"en,fr,zh"
+recndpB0am8wTkOM7,recJA0GigXHF9h4jF,,,50000,100000,Computer Sceince,Mission closed by client,recndpB0am8wTkOM7,python,,,recndpB0am8wTkOM7,"en,fr"
+recnfCoVeyF0196cn,recMh3kDSANBvdJbu,2023-03-01,,,,Computer Science,Candidate not interested,,,,,recnfCoVeyF0196cn,"en,hi,mr"
+recng3aVu1p2Y1RDH,recavhovBsS2p3eZO,,,,,Marketing,Rejected by CP,recng3aVu1p2Y1RDH,"business,driving-license,leadership,marketing,sales",,,recng3aVu1p2Y1RDH,"en,ro"
+recnKWAxMivyWG8Hn,rec6N2U5wJf7t3ySH,,,70000,120000,IT Systems Engineering,Rejected by CP,recnKWAxMivyWG8Hn,"agile-project-management,cloud-computing,it-infrastructure-management,management,saas,user-experience,windows-azure",recnKWAxMivyWG8Hn,europe,recnKWAxMivyWG8Hn,"en,es,fr"
+recNme6suSkfGeIAx,recIYspADVlMVqb81,2023-03-01,,35000,,"Ingénieur d'affaires en hautes technologies",Rejected by client,recNme6suSkfGeIAx,"3d-modeling,crm,pack-office",recNme6suSkfGeIAx,europe/france,recNme6suSkfGeIAx,"en,fr"
+recNoV0SwOdpxNdN7,recu8QJacyAODTIeX,2023-06-30,,61000,65000,,Mission closed by client,recNoV0SwOdpxNdN7,"agribusiness,food,sales",recNoV0SwOdpxNdN7,europe/united-kingdom/england,recNoV0SwOdpxNdN7,en
+recnPKkgY1X9zjUIM,recOO9bDKaXhlAHdo,,,24000,,,Interview Process,recnPKkgY1X9zjUIM,"leadership,negotiation,sales",,,recnPKkgY1X9zjUIM,"el,en"
+recnSDdh00GlCtnLC,recMh3kDSANBvdJbu,,,,,,Rejected by CP,recnSDdh00GlCtnLC,"agile-testing,apis,bug-tracking,java,jira,selenium",,,recnSDdh00GlCtnLC,"en,hi"
+recnsjNg75UM66iOv,recMh3kDSANBvdJbu,,,,,,Rejected by CP,recnsjNg75UM66iOv,"core-java,selenium",recnsjNg75UM66iOv,asia/india,recnsjNg75UM66iOv,"en,hi"
+recnsLNLL2HKtL1gd,rec25eM1zf8i9g7V4,,,8500,10000,COMPUTER SCIENCE AND ENGINEERING,Rejected by CP,recnsLNLL2HKtL1gd,"core-java,cypress,java,manual-testing,postgresql,test-automation",recnsLNLL2HKtL1gd,asia/india,recnsLNLL2HKtL1gd,"en,hi"
+recNt2Y8MWNS0mvfP,reclHFyhFZjXOSbEp,,,50000,,,Rejected by CP,recNt2Y8MWNS0mvfP,"git,javascript,react,react-native,scrum,typescript",recNt2Y8MWNS0mvfP,europe/france,recNt2Y8MWNS0mvfP,"en,fr"
+recNuB4NqABjusUh8,reczkFBZXTtSjNX96,,,450,,,Rejected by CP,recNuB4NqABjusUh8,"business-analysis,fx-derivatives,mysql,risk-analysis,trading",,,recNuB4NqABjusUh8,en
+recnvVmqZi6Gio8ZO,recXsP0cgPHypy429,,,,,,Rejected by client,,,,,recnvVmqZi6Gio8ZO,"en,fr,zh"
+recNwBa0uGpVoEjxc,recavhovBsS2p3eZO,,,,,Mechanical,Rejected by CP,recNwBa0uGpVoEjxc,"business-development,driving-license,management,marketing,sales,team-leadership",,,recNwBa0uGpVoEjxc,"en,fr,ro"
+recnzEqU7d8g5BtAU,recObvBwoSTSuFEll,,,42000,,,Screened by CP,recnzEqU7d8g5BtAU,"auditing,energy,energy-audits,energy-efficiency,energy-management",,,recnzEqU7d8g5BtAU,fr
+recO1lIu87BUyGPzY,recA3Ye1PMACJlO1Z,2023-04-03,,65000,120000,Mathematics and Informatics,Rejected by CP,recO1lIu87BUyGPzY,"amazon-web-services-aws,csharp,javascript,mysql,php,python",,,recO1lIu87BUyGPzY,"en,fr,ru,uk"
+reco6icITqspLyLCU,rec7MvbTywFTvWryg,,,45000,,,Rejected by CP,reco6icITqspLyLCU,"css,github,heroku,html,javascript,postgresql,python,react,ruby",,,reco6icITqspLyLCU,fr
+recocpVcw1ZEIjCm5,recWril35NdQ1pyCs,,,,,,Rejected by client,,,,,recocpVcw1ZEIjCm5,"en,fr,zh"
+recodrCvMz3sQiMbt,recwMSrftJ7BbX5mZ,,,,,,Sent to Client,recodrCvMz3sQiMbt,etl,,,recodrCvMz3sQiMbt,"en,hi"
+recof9Ngf1EePK6vA,recwMSrftJ7BbX5mZ,2023-04-03,,12500,,Post Graduate Diploma in Data Science,Rejected by client,recof9Ngf1EePK6vA,"data-visualization,hadoop,hypothesis-testing,java,machine-learning,object-oriented-languages,sql-azure",,,recof9Ngf1EePK6vA,"en,hi"
+recOgcjUDXU7E9cdC,recLaxiCREBzTpmDO,,,42000,,,Rejected by CP,recOgcjUDXU7E9cdC,"ariba,canvas,crm,microsoft-office",recOgcjUDXU7E9cdC,europe/france,recOgcjUDXU7E9cdC,"en,fr,hi"
+recOh3xAEo6sbgH5u,recwMSrftJ7BbX5mZ,,,,,,Sent to Client,recOh3xAEo6sbgH5u,"python,sql-azure",,,recOh3xAEo6sbgH5u,"en,hi,te"
+recoHBOTH5nnXTieW,recXsP0cgPHypy429,,,45000,50000,,Rejected by client,,,,,recoHBOTH5nnXTieW,"fr,zh"
+recolmlGaG7sZlCBi,recAtcVMDz425qUT3,,,,,,Rejected by CP,recolmlGaG7sZlCBi,"etl,python",,,recolmlGaG7sZlCBi,en
+recoLwJUQiiu6kRND,recnBWL7L2B5oicAV,,,54000,,Risk management,Rejected by CP,recoLwJUQiiu6kRND,"crm,crm-databases,hubspot,illustrator,photoshop,salesforce.com",,,recoLwJUQiiu6kRND,"en,es,fr"
+recOoFoGopBmLsXMk,recwMSrftJ7BbX5mZ,,,4500,,,Rejected by CP,recOoFoGopBmLsXMk,"test-automation,test-automation-framework",,,recOoFoGopBmLsXMk,en
+recoRGyGGmmJIynSz,recwMSrftJ7BbX5mZ,,,7000,,,Sent to Client,recoRGyGGmmJIynSz,"core-java,selenium,selenium-testing,software-testing-life-cycle",,,recoRGyGGmmJIynSz,en
+recOSGnPO3gk8tkED,recGrGIFWaByaa5dg,2023-02-23,,36000,60000,,Mission closed by client,recOSGnPO3gk8tkED,"brand-development,canvas,content-management,multi-channel-marketing",,,recOSGnPO3gk8tkED,"ar,en"
+recOvA68aeeEY5rsQ,rec1fLbPRArMKBz4D,,,40000,,,Sent to Client,recOvA68aeeEY5rsQ,"business-development,consumer-electronics,electronics,sales",,,recOvA68aeeEY5rsQ,"en,zh"
+recoY2UCwRwyfQsDq,rec0t420QAE6AgEAn,2023-03-08,,40000,,Développeur Fullstack Javascript Spécialisation Data optimizations/API,Rejected by CP,recoY2UCwRwyfQsDq,"graphql,node.js,postgresql,react,typescript",recoY2UCwRwyfQsDq,europe/france,recoY2UCwRwyfQsDq,"en,fr"
+recozTCGXYT7MjIb8,recKmfrKT4uTpCS2x,,,,,Business International Economics,Waiting list,recozTCGXYT7MjIb8,"business-development,driving-license,marketing,project-management,sales",,,recozTCGXYT7MjIb8,"de,en,pl"
+recp9Hf0EnCttCeMb,recA3Ye1PMACJlO1Z,2023-04-03,,65000,120000,Computer Software Engineering,Rejected by CP,recp9Hf0EnCttCeMb,"agile-methodologies,angularjs,api-development,back-end-development,blockchain,cloud-applications,css,django,git,html,javascript,laravel,node.js,php,python,react,typescript,windows-azure",,,recp9Hf0EnCttCeMb,"en,sq"
+recpBTq9buh2ZREYz,rec25eM1zf8i9g7V4,,,,,,Rejected by CP,recpBTq9buh2ZREYz,security,,,recpBTq9buh2ZREYz,en
+recPCY8tSpj7PGf5P,recTOLFUh69KqHf4t,,,65000,,Etudes en Commerce et Management ,Rejected by CP,recPCY8tSpj7PGf5P,"energy,pack-office",recPCY8tSpj7PGf5P,"europe/france,worldwide",recPCY8tSpj7PGf5P,"ar,en,fr"
+recpFg7CfHXhEoSfV,rec5Vy4oVduUs4WKq,,,24000,24000,Business administration and Management (in English),Rejected by CP,recpFg7CfHXhEoSfV,"sales,sales-effectiveness,sales-growth,sales-process",,,recpFg7CfHXhEoSfV,"en,hu"
+recpgJ6OtaMeogylT,recLaxiCREBzTpmDO,,,45000,,European Master in Migration and Intercultural Relations,Rejected by client,recpgJ6OtaMeogylT,"communication,coordinating-meetings,coordinating-tasks,microsoft-office,organization-of-events",,,recpgJ6OtaMeogylT,"en,es,fr"
+recPHtGRdRVSX6yU0,recwMSrftJ7BbX5mZ,2023-04-03,,10000,,BACHELOR OF TECHNOLOGY,Rejected by CP,recPHtGRdRVSX6yU0,"apache,apache-spark,awstats,big-data,python",,,recPHtGRdRVSX6yU0,hi
+recPJc0EH9o4xML6z,recGxlU3W94snVhuH,2023-02-24,2023-03-03,40000,45000,Bachelor of Arts (Honours): Marketing and Public Relations,Rejected by CP,recPJc0EH9o4xML6z,"direct-sales,key-client-relationships,negotiation,new-business-development,new-business-generation",recPJc0EH9o4xML6z,europe/united-kingdom,recPJc0EH9o4xML6z,"en,zh"
+recpJMwx03c7hHdUq,rec6N2U5wJf7t3ySH,2023-04-23,,60000,,Technical Engineering in Computer Systems,Rejected by CP,recpJMwx03c7hHdUq,"c-c++-stl,css,ios,javascript,mysql,node.js,nosql,php,python,xhtml",recpJMwx03c7hHdUq,europe/spain,recpJMwx03c7hHdUq,"en,es,fr"
+recPK84kk4REmiTgC,recwMSrftJ7BbX5mZ,,,,,,Sent to Client,recPK84kk4REmiTgC,jira,,,recPK84kk4REmiTgC,"en,hi"
+recPlaMS5Bd5arlBU,recBNbiMFDkK5SgOv,,,30000,,"Bachelor of Art history and Archeology, Sorbonne University; Master of Science Cultural and Artistic Activities Management",Rejected by CP,recPlaMS5Bd5arlBU,"crm,crm-databases,facebook,linkedin-api,photoshop",recPlaMS5Bd5arlBU,europe,recPlaMS5Bd5arlBU,"en,fr,zh"
+recPOojmoI1J2mrDF,recu8QJacyAODTIeX,,,50000,,Master of Science (MSc),Rejected by client,recPOojmoI1J2mrDF,"fmcg,saas",recPOojmoI1J2mrDF,europe/united-kingdom/england,recPOojmoI1J2mrDF,"ar,de,en,fr"
+recPPi36wrNqIxgLp,recGrGIFWaByaa5dg,2023-03-01,,65,68,,Mission closed by client,recPPi36wrNqIxgLp,"content-management,copywriting,crm,customer-retention,data-analysis,marketing,social-media-marketing",recPPi36wrNqIxgLp,asia/united-arab-emirates/dubai,recPPi36wrNqIxgLp,"ar,en,hi,ur"
+recpuNHXn3cgUbqe5,rec2Xnb1aA6Evh8id,,,60,,,Sent to Client,recpuNHXn3cgUbqe5,"javascript,mongodb,postgresql,ruby-on-rails",,,recpuNHXn3cgUbqe5,en
+recQ4aNqPvnfBPHFo,recwMSrftJ7BbX5mZ,2023-03-01,,,7920,Engineering in Information Technology,Rejected by CP,,,,,recQ4aNqPvnfBPHFo,"en,hi"
+recq7BruhmIYFguvA,rec7MvbTywFTvWryg,2023-03-31,,40000,,developpement javascript/ react js / redux et developpement web full stack ruby on rails,Rejected by CP,recq7BruhmIYFguvA,"bootstrap,css,heroku,html,javascript,json,mongodb,mysql,node.js,postgresql,react,ruby-on-rails",,,recq7BruhmIYFguvA,"de,en,es,fr"
+recq7kYB9ir6krII4,rec6N2U5wJf7t3ySH,,,60000,70000,Master Information Technologies,Rejected by client,recq7kYB9ir6krII4,"agriculture,html5,hydroponics,iot,javascript,pcb-design,php,project-coordination,project-management,project-planning,python,renewable-energy",recq7kYB9ir6krII4,europe/spain,recq7kYB9ir6krII4,"en,es"
+recq9VCXmbnSQz0Ix,recA3Ye1PMACJlO1Z,2023-03-20,,120000,120000,Computer Software Engineering,Rejected by CP,recq9VCXmbnSQz0Ix,"amazon-web-services-aws,graphql,javascript,node.js,postgresql,windows-azure",,,recq9VCXmbnSQz0Ix,en
+recQAzWxpYy1G7PqV,rec9B1Iwayh8YU3pc,2023-06-01,2023-12-01,,,Finance,Sourced,,,,,recQAzWxpYy1G7PqV,"en,fr,ja,zh"
+recqdUrFU60KTisKl,recdN16e9aiTj0z3a,,,30000,42000,"Business, Business Administration",Rejected by CP,recqdUrFU60KTisKl,"financial-markets,google-analytics,microsoft-excel",,,recqdUrFU60KTisKl,"en,es"
+recqEODVNRErNRENP,recONKansnIbXY6ij,,,65000,,,Mission closed by client,,,,,recqEODVNRErNRENP,"en,fr"
+recQfV5KcRK0qDv2F,recUwquxTAuaSpYwc,,,160000,,Master of Science in Management,Rejected by client,recQfV5KcRK0qDv2F,"business-development,google-analytics,healthcare,ivd,market-entry,market-research,medical-diagnostics",recQfV5KcRK0qDv2F,europe/france,recQfV5KcRK0qDv2F,"en,fr,zh"
+recQhjLIJJFCxCTZ9,recMh3kDSANBvdJbu,,,,,,Sent to Client,recQhjLIJJFCxCTZ9,"mysql,selenium",,,recQhjLIJJFCxCTZ9,"en,hi"
+recqLyMgid3e6bGfG,recXUiPBv1AYRBeEF,,,,55000,Electronics and Communication,Rejected by client,recqLyMgid3e6bGfG,"embedded-c++,python",recqLyMgid3e6bGfG,europe/united-kingdom,recqLyMgid3e6bGfG,en
+recQMT2HnR8mNTQGD,recXsP0cgPHypy429,,,45000,50000,,Rejected by client,,,,,recQMT2HnR8mNTQGD,"en,fr,zh"
+recQMt5we2CRURrhb,recql4vRdy52jvOWm,2023-02-13,2023-02-20,40000,40000,"BA Hons, Politics & East Asian Studies (2ii)",Screened by CP,recQMt5we2CRURrhb,"direct-sales,distribution-center-operations,leadership,long-term-customer-relationships,negotiation,sales,supplier-development",recQMt5we2CRURrhb,europe/united-kingdom,recQMt5we2CRURrhb,"en,zh"
+recqoCWDBGPSB33zO,recA3Ye1PMACJlO1Z,2023-03-16,,90,90,"Bachelor's degree, Computer Engineering",Rejected by CP,recqoCWDBGPSB33zO,".net,amazon-web-services-aws,graphql,node.js,php,postgresql",,,recqoCWDBGPSB33zO,"en,es"
+recqplDenRV1ooEOT,recu8QJacyAODTIeX,2023-02-13,2023-02-27,55000,60000,Masters,Waiting list,recqplDenRV1ooEOT,"client-focus,closing-abilities,communication,data-aggregation,direct-sales,new-business-development,situational-sales-negotiation,team-management,technical-ability",recqplDenRV1ooEOT,europe,recqplDenRV1ooEOT,"ar,de,en,fr"
+recqq70NkG6ctU8Rn,recwMSrftJ7BbX5mZ,,,3998,,,Rejected by CP,recqq70NkG6ctU8Rn,"test-automation,test-automation-framework",,,recqq70NkG6ctU8Rn,en
+recqQIUcm8JXm5p3S,recwMSrftJ7BbX5mZ,,,4000,,,Sent to Client,recqQIUcm8JXm5p3S,"automation,java,jira,selenium,test-automation,testing",,,recqQIUcm8JXm5p3S,en
+recqQveQBB1ByDBYS,recavhovBsS2p3eZO,,,,,Marketing and Foreign Trade,Rejected by CP,recqQveQBB1ByDBYS,"leadership,marketing,sales,sales-management",,,recqQveQBB1ByDBYS,"en,ro"
+recQWlpEuRx7jihTM,rec5J1KpQYUAeo0rW,,,55000,,International Business ,Rejected by client,recQWlpEuRx7jihTM,"crm,marketing,saas",recQWlpEuRx7jihTM,europe/spain,recQWlpEuRx7jihTM,"es,fr"
+recQx2rO7pKN4BVfP,recAtcVMDz425qUT3,,,75000,80000,"Bachelor of Science (Hons), Physics (Duration - 4 years)",Candidate not interested,recQx2rO7pKN4BVfP,"amazon-web-services-aws,data-feeds,data-science,data-visualization,insurance,python,tableau",,,recQx2rO7pKN4BVfP,en
+recqxxjDhUR5D5hWi,recOLEbIR0xzdb1kT,2023-04-02,,110000,130000,"Master of Business Administration, Finance Specialisation, 3.9/4.0 GPA ",Rejected by CP,recqxxjDhUR5D5hWi,"analysis-of-business-problems-needs,analytical-method-validation,auditing,business-analysis,campaign-strategies,customer-acquisition,data-modeling,deal-execution,energy-efficiency-consulting,finance,focused-execution,growth-strategies,international-business,international-development,investment-strategies,strategy-execution",recqxxjDhUR5D5hWi,europe/france/ile-de-france,recqxxjDhUR5D5hWi,"en,es,fr"
+recQyTRX6ltdciDbV,recusVqWSM8W4Os51,,,60000,,Marketing and Sales Management,Sent to Client,recQyTRX6ltdciDbV,"bash,cpp,crm,csharp,erp,git,ios,linux,python,windows",,,recQyTRX6ltdciDbV,"en,es"
+recr0up1d4K5GBF82,rec2Xnb1aA6Evh8id,2023-04-03,,60000,,Multimedia programming & design,Rejected by client,recr0up1d4K5GBF82,"django,heroku,ruby",recr0up1d4K5GBF82,europe/france,recr0up1d4K5GBF82,"ar,en,fr"
+recr2I4RRj35YcF68,recA3Ye1PMACJlO1Z,2023-03-06,,160000,170000,Computer Science,Mission closed by client,recr2I4RRj35YcF68,"amazon-web-services-aws,graphql,javascript,node.js,saas,typescript,windows-azure",,,recr2I4RRj35YcF68,en
+recR3AKYSWMkzj3ga,recGxlU3W94snVhuH,2023-03-01,2025-03-02,40000,40000,Media Management,Rejected by client,recR3AKYSWMkzj3ga,business-development,recR3AKYSWMkzj3ga,europe/united-kingdom,recR3AKYSWMkzj3ga,"en,zh"
+recR3w146SfZG996i,recwMSrftJ7BbX5mZ,2023-04-17,,8700,10000,B.E (Mechanical),Rejected by CP,recR3w146SfZG996i,"ide,machine-learning,microsoft-sql-server,python,tableau",,,recR3w146SfZG996i,"en,hi"
+recr7DStKDLHph3ez,recdN16e9aiTj0z3a,,,35000,,,Sent to Client,recr7DStKDLHph3ez,sales,,,recr7DStKDLHph3ez,"en,es,fr,nl"
+recrA2TnrybhaU24H,recA3Ye1PMACJlO1Z,,,1600,,"Bachelor of Engineering - BE, Computer Engineering",Mission closed by client,recrA2TnrybhaU24H,"angularjs,css,html,javascript,javascript-libraries,node.js,react",,,recrA2TnrybhaU24H,en
+recRAGJQ1IFtjPIc2,recu8QJacyAODTIeX,2023-03-27,,55000,,Politics,Rejected by client,recRAGJQ1IFtjPIc2,"account-management,advertising,business-development,business-strategy,consulting,crm,direct-sales,lead-generation,leadership,market-research,marketing,marketing-communications,marketing-strategy,negotiation,new-business-development,project-management,relationship-building,research,sales,sales-management,sales-process,salesforce.com,strategic-planning,strategy,team-leadership,time-management,training",recRAGJQ1IFtjPIc2,europe/united-kingdom/england,recRAGJQ1IFtjPIc2,"de,en,fr"
+recrDirIHWuVumyD4,recIa8aDuWkKPM8rx,,,43000,45000,Programme Grande Ecole Management,Rejected by CP,recrDirIHWuVumyD4,"client-relations,sales",recrDirIHWuVumyD4,europe/france,recrDirIHWuVumyD4,"en,es"
+recrEami6gAFN0M1I,recOO9bDKaXhlAHdo,,,,,,Rejected by CP,recrEami6gAFN0M1I,"marketing,sales",,,recrEami6gAFN0M1I,"el,en"
+recRf7JgcOv1hnBdp,recwe9VS4h7Qfkzjd,,,32000,,,Mission closed by client,,,,,recRf7JgcOv1hnBdp,"en,fr,zh"
+recrHFMV4GBdh74Cj,recKRL2QH6xEYq7sa,2023-04-03,,65000,,Education,Rejected by CP,recrHFMV4GBdh74Cj,"analytical-skills,business-development,cloud-security,customer-engagement,customer-relations,customer-service,interpersonal-skills,management,microsoft-office,new-business-development,presentation-skills,presentations,saas,sales-management,salesforce.com,strategic-planning,team-building,team-leadership,training,zoom",,,recrHFMV4GBdh74Cj,"de,en,ru"
+recrHYi8Actg57WGh,recwe9VS4h7Qfkzjd,,,,,,Mission closed by client,,,,,recrHYi8Actg57WGh,"en,fr,zh"
+recRlaQKUuaeHksIL,rec2jbStt0bBp170k,,,28000,30000,,Mission closed by client,recRlaQKUuaeHksIL,graphic-arts,,,recRlaQKUuaeHksIL,fr
+recRoVIwrEOjPp0Gv,recsld3DKqBhnW6rg,,,70000,75000,Bachelor of Science (BSC),Mission closed by client,recRoVIwrEOjPp0Gv,"business-development,reporting-amp-analysis,strategic-thinking",recRoVIwrEOjPp0Gv,asia/united-arab-emirates,recRoVIwrEOjPp0Gv,en
+recrqeJY8jCU3LY87,recwMSrftJ7BbX5mZ,2023-03-28,,1500000,,B.tech,Rejected by CP,recrqeJY8jCU3LY87,sql-plus,,,recrqeJY8jCU3LY87,en
+recrRaaCH8QxXHgfF,rec2Xnb1aA6Evh8id,,,,,,Rejected by CP,recrRaaCH8QxXHgfF,"react,react-native",,,recrRaaCH8QxXHgfF,"en,fr"
+recRtBe4Qgka7LnDF,recwMSrftJ7BbX5mZ,2023-04-03,,10000,,"Bachelor of Engineering (Mechanical Engineering), ",Rejected by CP,recRtBe4Qgka7LnDF,"jsp,mysql,oracle,servlets,sql-azure",,,recRtBe4Qgka7LnDF,"en,hi"
+recRuu5BrKyXfTwBx,rec6N2U5wJf7t3ySH,2023-06-01,,70000,75000,Industrial Electronic Engineer,Interview Process,recRuu5BrKyXfTwBx,"embedded-c++,javascript,python",,,recRuu5BrKyXfTwBx,"en,es"
+recRv6LXdY0RFxwyq,recMh3kDSANBvdJbu,,,,,,Sent to Client,recRv6LXdY0RFxwyq,"black-box-testing,java",,,recRv6LXdY0RFxwyq,"en,hi"
+recRXGa1uMW4P91qp,rec7MvbTywFTvWryg,,,40000,,,Rejected by CP,recRXGa1uMW4P91qp,"amazon-web-services-aws,javascript,node.js,python,react,ruby,typescript",,,recRXGa1uMW4P91qp,"en,fr"
+recry9i5CymCQ0TZ7,recwMSrftJ7BbX5mZ,,,5997,,,Rejected by CP,recry9i5CymCQ0TZ7,"test-automation,test-automation-framework",,,recry9i5CymCQ0TZ7,en
+recrZ2C5QnaefARZE,recMh3kDSANBvdJbu,,,,,,Sent to Client,recrZ2C5QnaefARZE,"api-testing,jira,junit,mysql,sdlc,selenium",,,recrZ2C5QnaefARZE,"en,hi"
+recs1cmxc9bxBbDbF,recMh3kDSANBvdJbu,,,,,,Rejected by CP,recs1cmxc9bxBbDbF,selenium,,,recs1cmxc9bxBbDbF,"en,hi"
+recS1EamL8Ao5qpn9,recGxlU3W94snVhuH,,,,,,Rejected by client,recS1EamL8Ao5qpn9,"sales,sales-management",,,recS1EamL8Ao5qpn9,en
+recS3xnSaBDTDnzZS,recGrGIFWaByaa5dg,,,,,,Waiting list,recS3xnSaBDTDnzZS,"e-commerce,marketing-management,supply-chain",,,recS3xnSaBDTDnzZS,"ar,en"
+recs5xMVn83nbk6oh,rec7MvbTywFTvWryg,,,,,,Rejected by CP,recs5xMVn83nbk6oh,.com,,,recs5xMVn83nbk6oh,"en,fr"
+recS9JphtPHsNhZ0h,recA3Ye1PMACJlO1Z,,,3000,5000,Computer Science,Rejected by CP,recS9JphtPHsNhZ0h,"html,saas",,,recS9JphtPHsNhZ0h,"en,pa,ur"
+recSe6Wsoi3VNxMLE,rec7MvbTywFTvWryg,,,52000,60000,Bachelor in Computer Sciences,Rejected by CP,recSe6Wsoi3VNxMLE,"bootstrap,cisco-technologies,codeigniter,communication,css,databases,git,github,heroku,hip-hop-dance,html,javascript,jquery-mobile,leadership,linux,mentoring,mysql,node.js,php,postgresql,python,react,rspec,ruby,ruby-on-rails,web-development",recSe6Wsoi3VNxMLE,europe,recSe6Wsoi3VNxMLE,"en,fr"
+recsFn5KR41xLWEoS,recObvBwoSTSuFEll,2023-04-01,2023-04-30,45000,, Énergies renouvelables et efficacité énergétique,Rejected by client,recsFn5KR41xLWEoS,"linux,matlab,python,ubuntu,vba",recsFn5KR41xLWEoS,europe,recsFn5KR41xLWEoS,"en,es,fr"
+recsJOw6NHxs0j0iu,recdN16e9aiTj0z3a,,,,,Industrial Relations & Economics,Rejected by CP,recsJOw6NHxs0j0iu,"business-development,human-resources,sales,training",,,recsJOw6NHxs0j0iu,"en,es,ru"
+recsKESQdmnTc5hAW,rec9B1Iwayh8YU3pc,2024-01-01,2024-06-01,,,Finance,Sourced,,,,,recsKESQdmnTc5hAW,"en,fr"
+recSL7MvZ2FBEyjAK,recMh3kDSANBvdJbu,,,,,,Sent to Client,recSL7MvZ2FBEyjAK,"apis,manual-testing",recSL7MvZ2FBEyjAK,asia/india,recSL7MvZ2FBEyjAK,"en,hi"
+recSmAwb0jpjTrgPB,recKRL2QH6xEYq7sa,2023-04-17,,62000,65000,Bachelor of Economics & Business Management,Screened by CP,recSmAwb0jpjTrgPB,"data-analysis,lead-generation,sales,strategic-negotiations",,,recSmAwb0jpjTrgPB,"ar,de,en,fr"
+recsnde0DhCyryjxb,rec7MvbTywFTvWryg,2023-04-03,,35000,,Web Developer,Rejected by client,recsnde0DhCyryjxb,ruby,recsnde0DhCyryjxb,europe/france,recsnde0DhCyryjxb,"en,fr"
+recSOlBDWKqgSZNUZ,recavhovBsS2p3eZO,,,20000,,,Rejected by CP,recSOlBDWKqgSZNUZ,sales,,,recSOlBDWKqgSZNUZ,"en,ro"
+recSpm2EvAmMNBGCu,recAtcVMDz425qUT3,,,1000,,,Rejected by CP,recSpm2EvAmMNBGCu,react,,,recSpm2EvAmMNBGCu,"en,fr"
+recsrnzT1woU2dUUN,recLaxiCREBzTpmDO,,,43000,,Information & Communication,Rejected by client,recsrnzT1woU2dUUN,"aperture,google-apps,microsoft-office,sap",,,recsrnzT1woU2dUUN,"en,es,fr"
+recSsG0M6XhPLSJlb,recKmfrKT4uTpCS2x,,,,,Economy,Rejected by client,recSsG0M6XhPLSJlb,"business-development,marketing,sales,sales-management",,,recSsG0M6XhPLSJlb,"en,pl"
+recssV0BzxG1zo3Ds,recWril35NdQ1pyCs,,,45000,,,Rejected by client,,,,,recssV0BzxG1zo3Ds,"en,fr,zh"
+recSUs9u1rfoumuTt,rec7MvbTywFTvWryg,,,43000,,,Interview Process,recSUs9u1rfoumuTt,"java,postgresql,python,react,react-native,ruby,ruby-on-rails,typescript",recSUs9u1rfoumuTt,europe/france,recSUs9u1rfoumuTt,"en,fr"
+recsUWTWjEvEiVgFZ,recwe9VS4h7Qfkzjd,,,,,,Rejected by client,,,,,recsUWTWjEvEiVgFZ,"en,fr,zh"
+recsvLioejEIsy5NJ,recMh3kDSANBvdJbu,2023-03-01,,,,Computer Science,Rejected by CP,,,,,recsvLioejEIsy5NJ,"en,hi,mr"
+recSXla4dHT01ERWk,rec6N2U5wJf7t3ySH,,,75000,,,Rejected by CP,recSXla4dHT01ERWk,hydraulics,,,recSXla4dHT01ERWk,"ca,en,es,fr"
+recsYru1J58e1m5v4,rec7MvbTywFTvWryg,2023-04-04,,37000,,DUT informatique / Bachelor Developpement Full Stack and DevOps,Rejected by CP,recsYru1J58e1m5v4,"angularjs,django,heroku,java,javascript,mongodb,mysql,node.js,php,postgresql,python,react,react-native,symfony,typescript",,,recsYru1J58e1m5v4,fr
+rect2Z7kztBE0uRvi,rec2Xnb1aA6Evh8id,,,,,,Rejected by CP,,,,,rect2Z7kztBE0uRvi,"en,fr"
+recTAi7S8y2uZkIgy,recTOLFUh69KqHf4t,,,55000,,,Rejected by client,recTAi7S8y2uZkIgy,"erp,microsoft-office",recTAi7S8y2uZkIgy,europe/france,recTAi7S8y2uZkIgy,"en,fr,zh"
+rectbzgqk8HoIMDuA,recA3Ye1PMACJlO1Z,2023-03-13,,60000,72000,Computer Science,Rejected by CP,rectbzgqk8HoIMDuA,"amazon-web-services-aws,ecs,graphql,node.js,postgresql",,,rectbzgqk8HoIMDuA,en
+rectEJBtMpyDEagUI,recLaxiCREBzTpmDO,,,40000,,Conferences and events Orgabisation,Sent to Client,rectEJBtMpyDEagUI,"dynamics,imovie,microsoft-office",,,rectEJBtMpyDEagUI,"en,es,fr"
+rectEYCKU554X7B3G,recavhovBsS2p3eZO,,,,,Marketing & Commerce,Sent to Client,rectEYCKU554X7B3G,"analytical-skills,business-development,business-management,communication,driving-license,leadership,people-management,project-management,sales,sales-management",,,rectEYCKU554X7B3G,"en,ro"
+recTGSUfVfAbH1X3R,recXUiPBv1AYRBeEF,,,650,,,Mission closed by client,recTGSUfVfAbH1X3R,"apis,bash,embedded-c++,git,gnu-c++,java,javascript,linux,microsoft-visual-studio-c++,perl,python,unit-testing,visual-c++",recTGSUfVfAbH1X3R,europe/united-kingdom,recTGSUfVfAbH1X3R,"en,fr"
+recti1Ek9opWZ6q4x,recA3Ye1PMACJlO1Z,2023-03-13,,120000,140000,Computer Science,Rejected by CP,recti1Ek9opWZ6q4x,"amazon-web-services-aws,ecs,graphql,node.js,postgresql,windows-azure",,,recti1Ek9opWZ6q4x,en
+rectjgYIaQ97QFkpC,reciyBfDq6P4e5jEN,2023-03-01,,36000,36000,,Screened by CP,rectjgYIaQ97QFkpC,"crypto,dao",rectjgYIaQ97QFkpC,europe,rectjgYIaQ97QFkpC,"en,tr"
+recTJIaVW5Sr1RIY2,rec6N2U5wJf7t3ySH,2023-03-19,,70000,,"Master of Science - MS, data science",Rejected by client,recTJIaVW5Sr1RIY2,"ajax,css,html,https,java,javascript,jquery-mobile,json,mongodb,mysql,neo4j,python,ruby-on-rails,unity3d,xml",recTJIaVW5Sr1RIY2,europe/spain,recTJIaVW5Sr1RIY2,"en,es,it"
+recTkkIAt5a0SW6jX,recwMSrftJ7BbX5mZ,,,,,,Rejected by CP,,,,,recTkkIAt5a0SW6jX,"en,hi"
+recTmS0qlqpEtXtzj,rec25eM1zf8i9g7V4,,,,,,Rejected by CP,recTmS0qlqpEtXtzj,security,,,recTmS0qlqpEtXtzj,en
+rectOUakTAu1Y4L6H,rec11F8d7djUmcYvT,,,,,,Rejected by CP,rectOUakTAu1Y4L6H,sales,,,rectOUakTAu1Y4L6H,"bg,de"
+rectOuOkPIdUJlZ3t,recavhovBsS2p3eZO,,,,,Jurist,Rejected by CP,rectOuOkPIdUJlZ3t,"driving-license,key-account-mangement,management,project-management,sales,sales-management",,,rectOuOkPIdUJlZ3t,"en,es,ro"
+recTR6MP7fT0u8Dnt,recDD8JBa77gVncOf,,,40000,,,Interview Process,recTR6MP7fT0u8Dnt,"business-development,insurance,sales,underwriting",,,recTR6MP7fT0u8Dnt,en
+rectRV3dTC2BeHwyQ,recUMYC6no6ATWX6U,,,130000,,,Candidate not interested,rectRV3dTC2BeHwyQ,"closings,lead-generation,leadership,saas,sales,strategic-partnerships",,,rectRV3dTC2BeHwyQ,"de,en"
+rectsaNMijamvS10F,recWril35NdQ1pyCs,,,45000,,,Signed,,,,,rectsaNMijamvS10F,"en,fr,zh"
+recTXHcLgx76fUmGm,recMh3kDSANBvdJbu,,,,,,Rejected by CP,recTXHcLgx76fUmGm,"python,selenium",,,recTXHcLgx76fUmGm,"en,hi"
+recTY442NnoOYLfMg,recXUiPBv1AYRBeEF,,,650,,,Mission closed by client,recTY442NnoOYLfMg,"agile-methodologies,angularjs,avl-boost,c-c++-stl,data-structures,design-patterns,embedded-c++,java,javascript,kanban,linux,mac,mfc,microsoft-visual-studio-c++,mysql,objective-c,perl,pgsql,postgresql,python,scrum,shell-scripting,solaris,stl,symbian,typescript,unix,visual-c++,windows-azure,xml",,,recTY442NnoOYLfMg,en
+recTYmoAuEsA9aLc6,rec2Xnb1aA6Evh8id,,,65000,,,Rejected by CP,recTYmoAuEsA9aLc6,"heroku,node.js,postgresql,react,redis,ruby-on-rails,typescript",,,recTYmoAuEsA9aLc6,fr
+recTZvzEzEqCCidf7,recu8QJacyAODTIeX,,,55000,,,Rejected by client,recTZvzEzEqCCidf7,"pipeline-construction,saas,sales",recTZvzEzEqCCidf7,europe/united-kingdom/united-kingdom,recTZvzEzEqCCidf7,en
+recu1GhC7vNCRM7P7,recMh3kDSANBvdJbu,,,,,,Sent to Client,recu1GhC7vNCRM7P7,"agile-modeling,api-testing,bug-tracking,jira,mysql,scrum,sdlc,selenium,sql-clr,stlc,testing",,,recu1GhC7vNCRM7P7,"en,hi"
+recu7AKgue3YEbSsr,rec11F8d7djUmcYvT,,,20000,24000,,Rejected by client,recu7AKgue3YEbSsr,"crm,google-drive,microsoft-excel,sales",recu7AKgue3YEbSsr,europe,recu7AKgue3YEbSsr,"bg,en"
+recU9ipOM3H1vd7Pk,recLaxiCREBzTpmDO,,,35000,,Esthetics and Cultural,Sent to Client,recU9ipOM3H1vd7Pk,"microsoft-office,problem-solving,reliability",,,recU9ipOM3H1vd7Pk,"cs,en,fr"
+recUabXgD4OTvaaVU,rec5J1KpQYUAeo0rW,,,60000,,Master of Agribusiness,Interview Process,recUabXgD4OTvaaVU,"agtek,finance,marketing,saas",recUabXgD4OTvaaVU,europe/spain,recUabXgD4OTvaaVU,"de,en,es"
+recUaLv78wSeh1FXy,recJHwegfLPOBlDmf,,,,,,Rejected by CP,recUaLv78wSeh1FXy,partnerships,,,recUaLv78wSeh1FXy,fr
+recUbQSCT17cO17wE,recI8ZjHBtBdkYS21,,,42,,,Rejected by CP,recUbQSCT17cO17wE,business,,,recUbQSCT17cO17wE,de
+recUCTULgAAtESW82,recwMSrftJ7BbX5mZ,,,4000,,,Rejected by CP,recUCTULgAAtESW82,"test-automation,test-automation-framework",,,recUCTULgAAtESW82,en
+recuFB1dwsdEm9BdZ,recdN16e9aiTj0z3a,,,,,Manufacturing Industry,Rejected by client,recuFB1dwsdEm9BdZ,"business-development,international-organizations,team-management",,,recuFB1dwsdEm9BdZ,"en,es,fr"
+recuFoMTjS923jGzl,recdN16e9aiTj0z3a,,,,,Commerce,Rejected by CP,recuFoMTjS923jGzl,"change-management,cognos,crm,erp,hcm-processes-amp-forms,hyperion,lotus-notes,microsoft-office,project-management,sap,sharepoint",recuFoMTjS923jGzl,europe,recuFoMTjS923jGzl,"en,es,hi"
+recuHuQ5slNdaKair,recwMSrftJ7BbX5mZ,2023-02-28,,8500,,B.tech,Rejected by CP,recuHuQ5slNdaKair,python,,,recuHuQ5slNdaKair,"en,hi"
+recuL9Gq5NWROPVpp,rec11F8d7djUmcYvT,,,,24000,achelor’s Degree in Foreign Trade and Sales,Interview Process,recuL9Gq5NWROPVpp,"bulgarian,driving-license,english,foreign-trade-zone,international-business,microsoft-office,sales",,,recuL9Gq5NWROPVpp,"bg,de,en"
+recuOHdWGnSTuqjeH,rec9B1Iwayh8YU3pc,,,,,Banking-Finance,Sourced,,,,,recuOHdWGnSTuqjeH,"en,es,fr"
+recuPgdna1r5ZOwBM,rec25eM1zf8i9g7V4,,,,,,Sent to Client,recuPgdna1r5ZOwBM,"black-box-testing,functional-testing,regression-testing,usability-testing",,,recuPgdna1r5ZOwBM,"en,hi"
+recuqSFN2iTsdIzAZ,rec11F8d7djUmcYvT,,,24000,,,Sent to Client,recuqSFN2iTsdIzAZ,"negotiation,sales",,,recuqSFN2iTsdIzAZ,"bg,en"
+recuSWIpg5RWI6o8Y,recu8QJacyAODTIeX,2023-02-06,,65000,,,Waiting list,recuSWIpg5RWI6o8Y,"fmcg,food-safety,food-technology,gmp,haccp,project-management",recuSWIpg5RWI6o8Y,europe/united-kingdom/united-kingdom,recuSWIpg5RWI6o8Y,"de,en"
+recuUmjzVJm0w55pV,recAczNwH7Yk3tM2z,,,35,,,Interview Process,recuUmjzVJm0w55pV,"google-apps,marketing,microsoft-office,project-management,sales,supply-chain-management",,,recuUmjzVJm0w55pV,"en,fr"
+recUvDrx8yb2bdBmW,recKmfrKT4uTpCS2x,,,,,Tourism and Recreation,Waiting list,recUvDrx8yb2bdBmW,"driving-license,e-commerce,fmcg,horeca,sales,salesforce.com,team-management",,,recUvDrx8yb2bdBmW,"en,pl,ru"
+recuxG88MY4qk93lI,rec7MvbTywFTvWryg,,,35000,,,Rejected by CP,,,,,recuxG88MY4qk93lI,"en,fr"
+recUYFuVjR2GfTsYq,recOLEbIR0xzdb1kT,2023-04-02,,50000,50000,MASTER INTERNATIONAL MANAGEMENT,Rejected by CP,recUYFuVjR2GfTsYq,"active-ts-sci-clearance,analysis-of-business-problems-needs,bank-reconciliation,banking-relationships,budget-analysis,business-analysis,business-development,business-modeling,business-opportunity-evaluation,business-strategy,business-valuation,corporate-finance,deal-closure,deal-sourcing,dealer-relationships,due-diligence,economic-development,economic-modeling,finance,financial-accounting,financial-audits,financial-modeling,financial-risk,financial-variance-analysis,fusion-pro,international-business,investment-banking,investment-strategies,latin-american-business,modeling,multiple-project-coordination,operational-due-diligence,private-banking,strategic-business-initiatives",recUYFuVjR2GfTsYq,"europe/france,europe/france/ile-de-france,europe/france/paris",recUYFuVjR2GfTsYq,"en,es,fr"
+recUYiRq7140CzKS7,rec4uikpCMqbSRZVN,,,40000,43000,History of Art,Rejected by client,recUYiRq7140CzKS7,"creative-strategy,digital-strategy,strategy,strategy-alignment,strategy-execution",recUYiRq7140CzKS7,europe/united-kingdom,recUYiRq7140CzKS7,en
+recV1Tsu9M54mzZ5K,reclHFyhFZjXOSbEp,,,60000,80000,MSc Computer Science,Rejected by CP,recV1Tsu9M54mzZ5K,"javascript,react,react-native,typescript",,,recV1Tsu9M54mzZ5K,"de,en"
+recv2M14Bemc1JTz3,recu8QJacyAODTIeX,2023-02-22,,59000,,Business administration,Rejected by client,recv2M14Bemc1JTz3,"agribusiness,business,food,saas",recv2M14Bemc1JTz3,europe/united-kingdom/england,recv2M14Bemc1JTz3,en
+recV5XxC96uytOzZ0,recTOLFUh69KqHf4t,,,,,,Rejected by CP,recV5XxC96uytOzZ0,.com,recV5XxC96uytOzZ0,europe/france,recV5XxC96uytOzZ0,en
+recV6YUddhFI4h2iU,rec8fX8ZnMmWDyHil,,,,,Media and arts,Rejected by CP,recV6YUddhFI4h2iU,".com,adobe-professional,illustrator,lightroom,photoshop,xdcam",,,recV6YUddhFI4h2iU,"en,fr,zh"
+recV9QiEyaceljCbb,rec6N2U5wJf7t3ySH,2023-03-16,2023-03-31,70000,115000,Business administration,Rejected by client,recV9QiEyaceljCbb,"ignite-ux,scrum",recV9QiEyaceljCbb,europe,recV9QiEyaceljCbb,"en,es"
+recVCrdsUq8JEDfK6,recavhovBsS2p3eZO,,,,,Business Administration,Rejected by CP,recVCrdsUq8JEDfK6,"business,business-development,driving-license,leadership,management,product-knowledge,sales",,,recVCrdsUq8JEDfK6,"en,ro"
+recVDTlmbPZzK8iWq,recA3Ye1PMACJlO1Z,2023-03-01,2023-03-31,120,, Information Technology ,Rejected by CP,recVDTlmbPZzK8iWq,".net-compact-framework,amazon-web-services-aws,angularjs,graphql,green-technology,node.js,postgresql",recVDTlmbPZzK8iWq,americas/united-states,recVDTlmbPZzK8iWq,en
+recvEe2nNcSP1C2M1,recDD8JBa77gVncOf,,,32000,35000,None,Candidate not interested,recvEe2nNcSP1C2M1,"account-management,business-development,insurance,sales",recvEe2nNcSP1C2M1,europe/united-kingdom,recvEe2nNcSP1C2M1,en
+recVgca3ca53LgncE,rec2Xnb1aA6Evh8id,2023-06-27,,60000,65000,Ingénieur Robotique électronique,Rejected by client,recVgca3ca53LgncE,"css,html,react,ruby",,,recVgca3ca53LgncE,"ar,en,fr"
+recVhfirD5rRtueOS,rec25eM1zf8i9g7V4,,,4500,,,Sent to Client,recVhfirD5rRtueOS,"jira,quality-assurance,testing",,,recVhfirD5rRtueOS,en
+recvlH47baecj5eKH,recKRL2QH6xEYq7sa,,,65000,,Business Administration,Rejected by client,recvlH47baecj5eKH,"agribusiness,business,saas,sales",recvlH47baecj5eKH,europe/germany,recvlH47baecj5eKH,"de,en"
+recvLPH9WMzbbFQek,recu8QJacyAODTIeX,,,55000,,M.Sc. Management (International Marketing,Rejected by client,recvLPH9WMzbbFQek,"ppc,saas,sales,sales-management,seo",recvLPH9WMzbbFQek,europe/united-kingdom,recvLPH9WMzbbFQek,"en,pa"
+recvM1tQydmRUNr9d,recavhovBsS2p3eZO,,,22000,,,Sent to Client,recvM1tQydmRUNr9d,sales,,,recvM1tQydmRUNr9d,"en,es,fr,it,ro"
+recvoEokp4N85TXQA,recIYspADVlMVqb81,,,,,,Rejected by CP,recvoEokp4N85TXQA,".com,3d-graphics",recvoEokp4N85TXQA,europe/france,recvoEokp4N85TXQA,en
+recvQt874oFHvlYg6,recnBWL7L2B5oicAV,,,52000,58000,,Candidate not interested,recvQt874oFHvlYg6,"energy,energy-audits,energy-conservation,energy-efficiency,energy-efficiency-consulting,energy-industry",recvQt874oFHvlYg6,"europe,europe/france",recvQt874oFHvlYg6,fr
+recVsdMQXYqtvVn6Z,recONKansnIbXY6ij,,,47000,,,Rejected by client,,,,,recVsdMQXYqtvVn6Z,"en,fr,ja,zh"
+recvSmZXuwdnWkI6K,reciyBfDq6P4e5jEN,2023-03-01,,,,Master in Finance,Waiting list,recvSmZXuwdnWkI6K,"crypto,dao",,,recvSmZXuwdnWkI6K,"en,fr"
+recvtsI9yI77zEpYO,rec5J1KpQYUAeo0rW,,,60000,,"Master Supply Chain Management, Major In Logistics",Signed,recvtsI9yI77zEpYO,"crm,market-analysis,team-management",recvtsI9yI77zEpYO,europe/spain,recvtsI9yI77zEpYO,"bg,en,es"
+recVVA83QhkSRce4Z,recMh3kDSANBvdJbu,,,,,,Rejected by CP,recVVA83QhkSRce4Z,"agile-testing,bug-tracking,java,jira,scrum,sdlc,selenium,stlc,test-planning,test-strategy",,,recVVA83QhkSRce4Z,"en,hi"
+recvyfey1tg0Sa8wR,reclHFyhFZjXOSbEp,,,64000,,"Cycle d’ingénieur d’État en informatique option : Génie Logiciel et Systèmes d'Information",Rejected by client,recvyfey1tg0Sa8wR,"git,graphql,mysql,node.js,react,react-native,scrum",,,recvyfey1tg0Sa8wR,"ar,en,fr"
+recVZkUgRFku3xh6K,recavhovBsS2p3eZO,,,24000,,,Rejected by CP,recVZkUgRFku3xh6K,sales,,,recVZkUgRFku3xh6K,"en,ro"
+recvZpgwTd2OVzjXI,recAtcVMDz425qUT3,,,70000,,,Rejected by CP,recvZpgwTd2OVzjXI,"amazon-web-services-aws,apache-kafka,data-modeling,data-warehousing,etl,gcp,jira,postgresql,python,snowflake",,,recvZpgwTd2OVzjXI,"en,hi"
+recw2XHfKcAF3mB8h,recwMSrftJ7BbX5mZ,2023-03-22,,800000,1000000,B.sc-IT,Rejected by CP,recw2XHfKcAF3mB8h,"data-warehousing,etl,python,sql-server-management-studio",recw2XHfKcAF3mB8h,"asia/india,worldwide",recw2XHfKcAF3mB8h,"en,hi"
+recW3rvVORaTIhwEO,recAtcVMDz425qUT3,,,85000,,,Rejected by CP,recW3rvVORaTIhwEO,"python,vpython",,,recW3rvVORaTIhwEO,en
+recW5VSSVvL4G6l7P,recKRL2QH6xEYq7sa,2023-03-16,,65000,,Bachelor of Arts - Economics & Sport-Management,Rejected by CP,recW5VSSVvL4G6l7P,saas,,,recW5VSSVvL4G6l7P,"de,en"
+recw99HERhv2HkQKd,rec2Xnb1aA6Evh8id,,,70000,75000,BTS informatique spécialité développement,Rejected by client,recw99HERhv2HkQKd,"amazon-web-services-aws,elasticsearch,gcp,git,graphql,javascript,postgresql,react,rspec,ruby,ruby-on-rails,typescript",recw99HERhv2HkQKd,europe/france,recw99HERhv2HkQKd,"en,fr"
+recwCUQ1gRhFU0aJB,recA3Ye1PMACJlO1Z,,,,,,Mission closed by client,recwCUQ1gRhFU0aJB,.com,,,recwCUQ1gRhFU0aJB,"en,fr"
+recwe4QHhJrZxd7pU,recA3Ye1PMACJlO1Z,2023-03-06,,80000,100000,Computer controlled machines CNC,Rejected by client,,,,,recwe4QHhJrZxd7pU,"en,sr"
+recwH1zUaNVzuurMJ,recKRL2QH6xEYq7sa,2023-03-08,,55000,60000,MASTERS DEGREE IN INTERNATIONAL BUSINESS MANAGEMENT,Screened by CP,recwH1zUaNVzuurMJ,".com,asana,excel-dashboards,hubspot,sap,ukrainian,zendesk",,,recwH1zUaNVzuurMJ,"de,en,ru,uk"
+recwHeomTWN5ks6JM,recOO9bDKaXhlAHdo,,,24000,,,Rejected by CP,recwHeomTWN5ks6JM,sales,,,recwHeomTWN5ks6JM,"el,en,ru"
+recWiyW6foZSNnZlY,recKmfrKT4uTpCS2x,,,,,Marketing,Rejected by client,recWiyW6foZSNnZlY,"marketing,sales,sales-management,trade-marketing",,,recWiyW6foZSNnZlY,"en,pl,ru"
+recWL6jzgJvFS0XZa,recwMSrftJ7BbX5mZ,,,,,,Rejected by CP,recWL6jzgJvFS0XZa,"quality-assurance,test-automation,test-automation-framework",,,recWL6jzgJvFS0XZa,en
+recwlxS95g7A5IWyZ,reclHFyhFZjXOSbEp,,,50000,,,Rejected by CP,recwlxS95g7A5IWyZ,"ci-cd,cloud-based,github,graphql,node.js,python,react,react-native,selenium",recwlxS95g7A5IWyZ,europe/france,recwlxS95g7A5IWyZ,"en,fr"
+recwmQZffFwXCK86U,rec7MvbTywFTvWryg,,,45000,47000,,Rejected by CP,recwmQZffFwXCK86U,ruby-on-rails,,,recwmQZffFwXCK86U,en
+recWnEApQW6fFZxqR,rec0t420QAE6AgEAn,2023-03-21,,50000,,"Diplôme d'ingénieur généraliste - spécialité informatique",Rejected by CP,recWnEApQW6fFZxqR,"amazon-web-services-aws,node.js,postgresql,react,typescript",recWnEApQW6fFZxqR,europe/france,recWnEApQW6fFZxqR,"en,fr"
+recWOH8sffI3pWQGz,rec7MvbTywFTvWryg,2023-04-03,,35000,,Web Development ,Rejected by client,recWOH8sffI3pWQGz,"heroku,ruby",,,recWOH8sffI3pWQGz,"en,fr,pt"
+recWQlbO38413Tjdj,rec0t420QAE6AgEAn,2023-07-03,,38,45,Bachelor degree in Computer science,Rejected by CP,recWQlbO38413Tjdj,"amazon-web-services-aws,java,linux,postgresql,python,react",,,recWQlbO38413Tjdj,"fr,it"
+recwQZ5QUJhGEGfi3,recql4vRdy52jvOWm,,,40000,,Politics & East Asian Studies,Screened by CP,recwQZ5QUJhGEGfi3,sales,recwQZ5QUJhGEGfi3,europe/united-kingdom/birmingham,recwQZ5QUJhGEGfi3,"en,ja,zh"
+recwtDkFsf9bKJbT4,recMh3kDSANBvdJbu,,,,,,Sent to Client,recwtDkFsf9bKJbT4,"java,manual-testing,maven,selenium",recwtDkFsf9bKJbT4,asia/india,recwtDkFsf9bKJbT4,"en,hi"
+recwUyUXqF5mX6wE1,recXUiPBv1AYRBeEF,,,650,,,Rejected by CP,recwUyUXqF5mX6wE1,turbo-c++,,,recwUyUXqF5mX6wE1,en
+recwvrBdBLJDwLxmL,recXUiPBv1AYRBeEF,,,,,,Rejected by CP,recwvrBdBLJDwLxmL,turbo-c++,,,recwvrBdBLJDwLxmL,en
+recwYLL1ImlRsJXhO,recA3Ye1PMACJlO1Z,2023-04-03,,65000,120000,Software Engineering,Rejected by CP,recwYLL1ImlRsJXhO,"api-development,back-end-development,cloud-applications,core-java,databases,front-end,hibernate,java-enterprise-edition,jms,jpa,spring-framework,testing",,,recwYLL1ImlRsJXhO,en
+recwYMOi4WahGwnMG,recAtcVMDz425qUT3,2023-04-01,2026-04-02,80000,80000,Computer Science,Rejected by client,recwYMOi4WahGwnMG,"amazon-web-services-aws,etl,python",recwYMOi4WahGwnMG,europe/united-kingdom,recwYMOi4WahGwnMG,en
+recwyRv6e0ytA45Si,recavhovBsS2p3eZO,,,,,Marketing,Rejected by CP,recwyRv6e0ytA45Si,"business-development,driving-license,management,marketing,sales",,,recwyRv6e0ytA45Si,"en,fr,ro"
+recWZLJSzhQy5tEki,recMh3kDSANBvdJbu,,,,,bachelor degre,Sent to Client,recWZLJSzhQy5tEki,"java,mysql,selenium",,,recWZLJSzhQy5tEki,"en,hi"
+recWzT24YOubryqTR,recwMSrftJ7BbX5mZ,2023-03-31,,15000,20000,B.tech,Rejected by client,recWzT24YOubryqTR,python,,,recWzT24YOubryqTR,en
+recx0otGSqSaXm7i7,recdN16e9aiTj0z3a,,,,,Master in Business administration,Interview Process,recx0otGSqSaXm7i7,"business-development,international-sales,sales",,,recx0otGSqSaXm7i7,"de,en,es,pl"
+recx3DSod8BF87chr,rec8fX8ZnMmWDyHil,,,35000,37000,Bachelor of Science (BSc.) Finance: Accounting,Rejected by CP,recx3DSod8BF87chr,"account-management,business-development,digital-marketing,seo,social-media",recx3DSod8BF87chr,europe/united-kingdom,recx3DSod8BF87chr,"en,zh"
+recx5aVo85qBlBDtM,recA3Ye1PMACJlO1Z,2023-03-03,,120,120,"Master’s degree, Computer Science",Rejected by CP,recx5aVo85qBlBDtM,"django,graphql,javascript,node.js,postgresql,python,react,typescript",,,recx5aVo85qBlBDtM,en
+recx63QxjnUbBh3n1,recXUiPBv1AYRBeEF,2023-05-01,,700,,Computing Science,Rejected by client,recx63QxjnUbBh3n1,"linux,visual-c++",,,recx63QxjnUbBh3n1,en
+recx8Danlme5LxVgB,rec5Vy4oVduUs4WKq,,,42000,,,Rejected by CP,recx8Danlme5LxVgB,"electronics,sales",,,recx8Danlme5LxVgB,"en,hu"
+recx9ubvPPyr0yIPx,recAczNwH7Yk3tM2z,,,40000,46000,Msc/MBA Degree in International Business,Rejected by CP,recx9ubvPPyr0yIPx,"crm,google-analytics,marketing,marketing-strategy,matlab,office-365",recx9ubvPPyr0yIPx,europe/france,recx9ubvPPyr0yIPx,"ar,en,fr,zh"
+recxGylCDvomWbHxm,recGrGIFWaByaa5dg,,,,,,Waiting list,recxGylCDvomWbHxm,"digital-marketing,mobile-content",,,recxGylCDvomWbHxm,"en,hi,ur"
+recxikRUSaV4bNivs,recWril35NdQ1pyCs,,,55000,,,Signed,,,,,recxikRUSaV4bNivs,"en,es,fr,zh"
+recXJhcV7rnZHJPcA,recUwquxTAuaSpYwc,,,60000,70000,International Executive MBA,Rejected by CP,recXJhcV7rnZHJPcA,business-development,recXJhcV7rnZHJPcA,europe,recXJhcV7rnZHJPcA,"en,fa,fr,zh"
+recxJwmb3KKfTCJtY,recA3Ye1PMACJlO1Z,,,,,,Rejected by CP,recxJwmb3KKfTCJtY,.com,recxJwmb3KKfTCJtY,asia/india,recxJwmb3KKfTCJtY,en
+recxKJ4RWptHcqhpJ,recLaxiCREBzTpmDO,,,36000,,,Rejected by CP,recxKJ4RWptHcqhpJ,"administrative-assistance,communication,organization-skills,translation",,,recxKJ4RWptHcqhpJ,"en,fr,it"
+recXl9QrD7GXcizr3,rec4HUudTcWwWYHm2,,,62,62,Génie informatique,Signed,recXl9QrD7GXcizr3,python,recXl9QrD7GXcizr3,europe,recXl9QrD7GXcizr3,"en,fr"
+recxLb18HBnZPf6gu,recdN16e9aiTj0z3a,,,,,Business Administration and Management,Rejected by CP,recxLb18HBnZPf6gu,"office-365,outlook,sales-force-alignment",,,recxLb18HBnZPf6gu,"en,es,it,pt"
+recxMsWeSLEvhuRTF,reciyBfDq6P4e5jEN,2023-03-01,,55000,55000,BA Linguistics,Screened by CP,recxMsWeSLEvhuRTF,"crypto,dao",,,recxMsWeSLEvhuRTF,"de,en,it,pt"
+recxPry0ZAHbWKjZT,recCxmuaRimDj5fJh,,,65000,65000,Computer Science,Rejected by client,recxPry0ZAHbWKjZT,"angularjs,front-end-engineering-design,typescript",,,recxPry0ZAHbWKjZT,en
+recXQDJdKIKQPTBOB,rec2Xnb1aA6Evh8id,,,65000,,,Rejected by CP,recXQDJdKIKQPTBOB,"graphql,javascript,react,react-native,ruby-on-rails,typescript",,,recXQDJdKIKQPTBOB,"en,es"
+recxtE0R25knDrANp,rec5Vy4oVduUs4WKq,,,3500,,,Sent to Client,recxtE0R25knDrANp,"coaching,competition-law,leadership,market-research,marketing,retail-sales,sales",,,recxtE0R25knDrANp,"en,hu"
+recXVGczkRoWKvXAM,recZzXqsiS77tAAcS,,,37000,,"Ingénierie d'Affaires",Rejected by CP,recXVGczkRoWKvXAM,crm,recXVGczkRoWKvXAM,europe/france/paris,recXVGczkRoWKvXAM,"en,fr"
+recxvTp1IOlnHfo7R,recavhovBsS2p3eZO,,,24000,,,Rejected by CP,recxvTp1IOlnHfo7R,"sales,sales-growth",,,recxvTp1IOlnHfo7R,"en,ro"
+recXxSfN5oCgH1RL8,recUwquxTAuaSpYwc,,,70000,,Master en Commerce International et Economie,Rejected by CP,recXxSfN5oCgH1RL8,business-development,recXxSfN5oCgH1RL8,europe,recXxSfN5oCgH1RL8,"en,fr,zh"
+recXz8vHqTj5ltm6H,rec5J1KpQYUAeo0rW,,,65000,,International Business,Candidate not interested,recXz8vHqTj5ltm6H,"agriculture,sales-management,seed-production",recXz8vHqTj5ltm6H,europe/spain,recXz8vHqTj5ltm6H,"en,es,fr,pt"
+recXzpV5SuUghIvKC,recdN16e9aiTj0z3a,,,,,Executive MBA,Rejected by client,recXzpV5SuUghIvKC,"agile-project-management,business-development,coaching,launch-experience,leadership,management,sales,training",,,recXzpV5SuUghIvKC,"en,es,fr,pt"
+recY0TrzB7Q1rx7YJ,rect4fduNiqcXC123,,,,,,Rejected by CP,recY0TrzB7Q1rx7YJ,.com,recY0TrzB7Q1rx7YJ,europe,recY0TrzB7Q1rx7YJ,zh
+recy5bCG0sGdW2pXX,recI8ZjHBtBdkYS21,,,,,,Rejected by CP,recy5bCG0sGdW2pXX,.com,,,recy5bCG0sGdW2pXX,en
+recY8MrHytmjGRpyo,reco7sqp1LuUkyVRc,,,42,,,Screened by CP,recY8MrHytmjGRpyo,"design-build,ies-ve,iso-50001,labview,pack-office,powerbuilder,pvsyst",recY8MrHytmjGRpyo,worldwide,recY8MrHytmjGRpyo,"ar,en,fr"
+recYcS1pLkMwDpaQK,recwMSrftJ7BbX5mZ,2023-04-03,,8500,10000,Master of Computer Applications ,Interview Process,recYcS1pLkMwDpaQK,"mysql,nosql,object-oriented-languages,python,windows-azure",,,recYcS1pLkMwDpaQK,"en,hi"
+recygL44OHZEus6ih,rec1fLbPRArMKBz4D,,,48000,,,Rejected by client,recygL44OHZEus6ih,marketing,recygL44OHZEus6ih,europe/united-kingdom,recygL44OHZEus6ih,en
+recygsz0SHlsIFQUk,rec7MvbTywFTvWryg,,,,,,Rejected by CP,,,,,recygsz0SHlsIFQUk,"el,en,fr"
+recYJ5Z63VAXFN1i2,recAtcVMDz425qUT3,,,85000,,,Rejected by client,recYJ5Z63VAXFN1i2,"amazon-web-services-aws,apache-kafka,data-modeling,etl,python",,,recYJ5Z63VAXFN1i2,"en,hi"
+recykJ0NMUJhDsYkG,recwMSrftJ7BbX5mZ,,,8000,,,Rejected by CP,recykJ0NMUJhDsYkG,"data-analysis,data-science,python,sql-azure",,,recykJ0NMUJhDsYkG,"en,hi"
+recyLxQagPmXTKM8C,recMh3kDSANBvdJbu,,,,,,Sent to Client,recyLxQagPmXTKM8C,"java,python,ruby",,,recyLxQagPmXTKM8C,"en,hi"
+recYM5lVFjkW4ZYqm,recql4vRdy52jvOWm,2023-02-12,2023-03-19,30000,35000,MBA ,Screened by CP,recYM5lVFjkW4ZYqm,"direct-sales,distribution-center-operations,leadership,negotiation,sales",recYM5lVFjkW4ZYqm,europe/united-kingdom,recYM5lVFjkW4ZYqm,"en,zh"
+recyMFWrqwqY0ippK,recXsP0cgPHypy429,,,55000,,,Rejected by client,,,,,recyMFWrqwqY0ippK,"en,fr,zh"
+recYmSheNBCbQywWq,rec6N2U5wJf7t3ySH,2023-03-16,,70000,,Mathematics and Computer Science,Rejected by CP,recYmSheNBCbQywWq,"2d-graphics,android-development,asp,asp.net,benchmarking,business-intelligence,business-objects,crm,crystal-reports,data-driven-instruction,decision-making,erp,etl,excel-models,intranet-portals,lotus-notes,microsoft-sql-server,mysql,olap,oracle-biee,php,programming,project-management,sap,seo,sql-server-management-studio,web-development",,,recYmSheNBCbQywWq,"en,es,fr"
+recyQ75J4G1r6Rcrb,recMh3kDSANBvdJbu,,,,,,Sent to Client,recyQ75J4G1r6Rcrb,"maven,selenium",recyQ75J4G1r6Rcrb,asia/india,recyQ75J4G1r6Rcrb,"en,hi"
+recySDgngpFa2L03g,recwMSrftJ7BbX5mZ,2023-04-03,,10000,12000,Bachelor of Engineering- Electrical Engineering,Rejected by CP,recySDgngpFa2L03g,"apache-spark,java,machine-learning,microsoft-sql-server,object-oriented-languages,python,scala,system-testing,test-cases",,,recySDgngpFa2L03g,"en,hi"
+recYTF7AhYWiAlEX4,recZzXqsiS77tAAcS,,,35000,,,Rejected by client,recYTF7AhYWiAlEX4,pack-office,recYTF7AhYWiAlEX4,europe/france,recYTF7AhYWiAlEX4,"en,fr"
+recYu3TXJwveZYD5J,recsld3DKqBhnW6rg,2023-04-17,2023-04-17,90000,95000,Bachelor of Technologyin Information Technology,Mission closed by client,recYu3TXJwveZYD5J,"big-data-analytics,kpi-dashboards,operations-management",,,recYu3TXJwveZYD5J,en
+recYVnQbqm4o6Znvc,rec2Xnb1aA6Evh8id,,,60000,62000,Computer Software Engineering,Rejected by CP,recYVnQbqm4o6Znvc,"react,ruby-on-rails",recYVnQbqm4o6Znvc,europe/france,recYVnQbqm4o6Znvc,"ar,en"
+recyWfea7Km4ucUli,recA3Ye1PMACJlO1Z,2023-03-08,,90000,,Informatique & Robotique,Interview Process,recyWfea7Km4ucUli,"amazon-web-services-aws,angularjs,node.js,postgresql,python,react,windows-azure",recyWfea7Km4ucUli,"europe,europe/france",recyWfea7Km4ucUli,"en,es,fr"
+recYWhRgZYt9oZhIs,reczkFBZXTtSjNX96,,,600,700,,Rejected by CP,recYWhRgZYt9oZhIs,"business-analysis,fx-options,risk-analysis,sql-tuning",recYWhRgZYt9oZhIs,europe/france,recYWhRgZYt9oZhIs,en
+recYx4Xfv14qYQrPw,recMh3kDSANBvdJbu,,,,,,Sent to Client,recYx4Xfv14qYQrPw,"agile-methodologies,java,jira,mysql,scrum,selenium",,,recYx4Xfv14qYQrPw,"en,hi"
+recYYhn6xJN9fEudQ,recavhovBsS2p3eZO,,,20000,,,Rejected by CP,recYYhn6xJN9fEudQ,sales,,,recYYhn6xJN9fEudQ,ro
+recZ21xxdPfMriUFo,recdN16e9aiTj0z3a,,,,,Marketing,Rejected by client,recZ21xxdPfMriUFo,"business-development,management,marketing,sales,strategic-thinking,team-leadership",,,recZ21xxdPfMriUFo,"en,es"
+recZ2jSNlYiMCk9JB,recKmfrKT4uTpCS2x,,,,,Management and Marketing,Waiting list,recZ2jSNlYiMCk9JB,"branch-management,business,business-development,driving-license,marketing,sales",,,recZ2jSNlYiMCk9JB,"de,en,fr,pl"
+recZ7NsGFgndyWG0m,recavhovBsS2p3eZO,,,,,management,Rejected by CP,recZ7NsGFgndyWG0m,"driving-license,management,marketing,sales,sales-management,team-management",,,recZ7NsGFgndyWG0m,"en,fr,rm,ru,uk"
+reczbaoSMK08EcOaQ,recJHwegfLPOBlDmf,,,54000,0,,Interview Process,reczbaoSMK08EcOaQ,"energy,project-management,real-estate,sales",,,reczbaoSMK08EcOaQ,"en,fr"
+reczBGyHnW85l57ZS,rec11F8d7djUmcYvT,,,24000,24000,Management of Sport,Rejected by client,reczBGyHnW85l57ZS,"sales,sales-growth,sales-management,salesforce.com",,,reczBGyHnW85l57ZS,"bg,en"
+recZBupOMPuTuI66L,recBNbiMFDkK5SgOv,,,,,French/logistics/marketing,Rejected by CP,recZBupOMPuTuI66L,"crm,marketing,sales",recZBupOMPuTuI66L,"europe/belgium,europe/france,europe/luxembourg,europe/netherlands",recZBupOMPuTuI66L,"en,fr,zh"
+reczDNTyLDRqBY700,recIa8aDuWkKPM8rx,,,50000,60000,Marketing et management,Rejected by CP,reczDNTyLDRqBY700,public-private-partnerships,reczDNTyLDRqBY700,europe/france,reczDNTyLDRqBY700,en
+recZEEhRwiaH3sP6i,recUwquxTAuaSpYwc,2023-03-22,2023-04-09,100000,100000,- Lycée Florent Schmitt (rebaptisé : Alexandre DUMAS) de SAINT-CLOUD ,Rejected by CP,recZEEhRwiaH3sP6i,"field-research,ivd,leadership-development,mergers-amp-acquisitions,recruiting,start-up-ventures",,,recZEEhRwiaH3sP6i,"en,es,fr"
+recZEHt6oePEdxE9c,rec7MvbTywFTvWryg,,,65000,,Informatique,Interview Process,recZEHt6oePEdxE9c,".net,amazon-web-services-aws,apis,end-to-end-testing,heroku,java,mongodb,mysql,postgresql,react,rspec,ruby,saas,typescript,user-interface",,,recZEHt6oePEdxE9c,"ar,en,fr"
+recZfqXf7ooNueWB0,recusVqWSM8W4Os51,,,80000,,Backend developer,Sent to Client,recZfqXf7ooNueWB0,"c-c++-stl,css,git,html,javascript,php,programming",,,recZfqXf7ooNueWB0,"en,hu"
+reczgBLhf4idlM5es,recAtcVMDz425qUT3,,,,90000,Microelectronics - Master of Science,Rejected by CP,reczgBLhf4idlM5es,"data-analysis,data-extraction,data-migration,data-modeling,data-science,data-sheets,data-warehouse-architecture,data-warehousing,databases,etl,etl-tools,information-retrieval,project-management,python,solution-architecture,spreadsheets",,,reczgBLhf4idlM5es,en
+reczi1LPCLOdqO6r7,recMh3kDSANBvdJbu,,,8000,,,Rejected by CP,reczi1LPCLOdqO6r7,"c-c++-stl,data-visualization,html,java,python,sql-azure,sql-clr",,,reczi1LPCLOdqO6r7,"en,hi"
+recZIFY5ZWbPtBh8X,recETHEgTGsGxaBPv,2023-07-03,,,,Spécialité management de la production,Sent to Client,recZIFY5ZWbPtBh8X,"technical-leadership,technical-support",recZIFY5ZWbPtBh8X,europe/france,recZIFY5ZWbPtBh8X,fr
+recZiNQQF9lVBfTc5,recKmfrKT4uTpCS2x,,,,,Business Management,Waiting list,recZiNQQF9lVBfTc5,"business-management,communication,leadership,marketing-communications,sales,sales-management",,,recZiNQQF9lVBfTc5,"en,pl"
+recZKEALYa5Ep0N69,recwMSrftJ7BbX5mZ,,,6500,,,Rejected by CP,recZKEALYa5Ep0N69,"test-automation,test-automation-framework",,,recZKEALYa5Ep0N69,en
+reczKZ9PvzooZ3yPz,recONKansnIbXY6ij,,,40000,45000,,Mission closed by client,,,,,reczKZ9PvzooZ3yPz,"en,fr"
+recZOcuqKu5jmeDqO,recAtcVMDz425qUT3,,,60000,,,Rejected by client,recZOcuqKu5jmeDqO,"amazon-web-services-aws,data-modeling,data-warehousing,etl,python",recZOcuqKu5jmeDqO,europe/united-kingdom,recZOcuqKu5jmeDqO,en
+reczoL7mzirvkxpZX,recAczNwH7Yk3tM2z,,,2000,,,Rejected by CP,reczoL7mzirvkxpZX,react,,,reczoL7mzirvkxpZX,fr
+reczP6LundDtHeOdo,recMh3kDSANBvdJbu,,,,,,Sent to Client,reczP6LundDtHeOdo,"agile-testing,java,jira,manual-testing,mysql,scrum,selenium",,,reczP6LundDtHeOdo,"en,hi"
+reczs7KQezNWjPHZG,rec1fLbPRArMKBz4D,,,45000,48000,Business Administration,Rejected by client,reczs7KQezNWjPHZG,"driving-license,negotiation,sales-effectiveness,sales-management,sales-presentations,sales-process",,,reczs7KQezNWjPHZG,en
+recZStGAZW7H0Z4Xz,recsld3DKqBhnW6rg,,,85000,86000,Bachelor Science in Computer Engineering,Mission closed by client,recZStGAZW7H0Z4Xz,"google-analytics,mysql,python,salesforce.com,tableau",,,recZStGAZW7H0Z4Xz,"ar,en"
+reczvb1E0zCVisecD,recwMSrftJ7BbX5mZ,2023-03-31,,1500000,2500000,B.tech,Rejected by CP,reczvb1E0zCVisecD,"node.js,python,sql-plus",,,reczvb1E0zCVisecD,en
+reczW4s46p9kUIoIw,recOLEbIR0xzdb1kT,2023-04-01,2023-06-27,52000,62000,Finance,Rejected by CP,reczW4s46p9kUIoIw,"finance,mergers-amp-acquisitions,strategic-growth-initiatives",reczW4s46p9kUIoIw,europe/france/paris,reczW4s46p9kUIoIw,"en,fr"
+recZwhLIm4PU12YED,rec9B1Iwayh8YU3pc,2023-03-01,,,,,Sourced,,,,,recZwhLIm4PU12YED,"en,fr"
+reczWMXCU0fsRhhvg,recavhovBsS2p3eZO,,,,,"International Relations and European Studies, RISE",Rejected by CP,reczWMXCU0fsRhhvg,"communication,driving-license,leadership,management,marketing,sales,target-marketing",,,reczWMXCU0fsRhhvg,"en,ro"
+recZXW7lFdvDAS77u,rec5Vy4oVduUs4WKq,,,,,Marketing Major,Rejected by CP,recZXW7lFdvDAS77u,"exacttarget,office-365,salesforce.com,siebel,sql-tuning",recZXW7lFdvDAS77u,europe,recZXW7lFdvDAS77u,"de,en,hu"
+reczYogN8KLKiB2ps,recsld3DKqBhnW6rg,2023-04-17,2023-04-17,95000,100000,BA in Business Management & Administration,Mission closed by client,reczYogN8KLKiB2ps,"business-analysis,data-analysis,market-research,operations-management,team-management",,,reczYogN8KLKiB2ps,en

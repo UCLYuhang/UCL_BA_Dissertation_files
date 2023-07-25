@@ -1,0 +1,161 @@
+,missionCandidate,missionId,status,Time_matching_score,Salary_matching_score,General_matching_score_dict,matchingId
+0,rec0ijxnKLBBDIYQ7,rec7MvbTywFTvWryg,Rejected by CP,,-0.2,"{
+    ""Hardskill_Matching_Score"": 0.8,
+    ""Degree_Subjects_Matching_Score"": 0.6,
+    ""Position_Matching_Score"": 0.9,
+    ""Location_Matching_Score"": 1,
+    ""Language_Matching_Score"": 0,
+    ""Reason"": ""The candidate has hardskills of javascript and ruby-on-rails which are related to the job requirement of Ruby, PostgreSQL, Heroku, Typescript, React native, React. The degree subject of Web developer is related to the job requirement. The candidate has the ability to work remotely and travel to the headquarters in Paris from time to time to meet the team. The candidate is capable of the job position. The candidate's location is europe/france which contains the job location of europe/france/paris. However, the candidate can only speak English which is not the required language of the job.""
+    }",0
+1,rec0int3CbDJkliSl,recUwquxTAuaSpYwc,Interview Process,,-6.0,"{
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": 0.5,
+        ""Position_Matching_Score"": 0.7,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""Candidate has healthcare and ivd hardskills which are related to the job requirement; Candidate has degree in Biotechnology & Pharmaceutical Management which covers some of the job requirement; Candidate has hardskills and degree subjects which are related to the job position; Candidate can go to Europe/France which is the job location; Candidate can speak all the languages required by the job.""
+    }",1
+2,rec0j4E310FlCL6zl,rec6N2U5wJf7t3ySH,Rejected by client,-0.01,-2.5,"{
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": 0.6,
+        ""Position_Matching_Score"": 0.9,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has experience in a start-up, tech position with responsabilities, has an entrepreneur/startup mindset, stayed at his previous positions for at least one year, has experience with agronomic and technical issues, worked in greenhouse hydroponics, has knowledge of UX, and has the required hardskills, degree subjects, location and language for the job. Therefore, the candidate is a good match for the job.""
+    }",2
+3,rec0jTM9sbzgKMpqP,rec5Vy4oVduUs4WKq,Sent to Client,,-2.15,"{
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": 0.6,
+        ""Position_Matching_Score"": 0.9,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has 7 hardskills which are related to the job requirements, and the degree subjects are related to the job position. The candidate can go to the job location and speak the required language.""
+    }",3
+4,rec0pko6Vul5U0H61,recETHEgTGsGxaBPv,Screened by CP,-1.54,-2.0,"{
+        ""Hardskill_Matching_Score"": 0.5,
+        ""Degree_Subjects_Matching_Score"": 0.8,
+        ""Position_Matching_Score"": 0.7,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has relevant hardskills and degree subjects for the job position, and the candidate can go to the job location and speak the required language.""
+    }",4
+5,rec0QxeXOIvtWkU7A,recAczNwH7Yk3tM2z,Rejected by CP,,,"{
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": 0.6,
+        ""Position_Matching_Score"": 0.9,
+        ""Location_Matching_Score"": 0,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has a Bachelor or Master in business, knowledge of Entrepreneur, passion for BTOB Sales, fluency in English and local language, driving license, willing to travel, and be able to attend necessary meetings. The candidate has .com hardskills which is related to the job position. The candidate has nan degree subjects which is related to the job position. The candidate's location is not matched with the job location. The candidate's language is matched with the job language.""
+    }",5
+6,rec0rp34NubKJl8V4,recJHwegfLPOBlDmf,Rejected by client,,-0.0,"{
+    ""Hardskill_Matching_Score"": 0.5,
+    ""Degree_Subjects_Matching_Score"": 0.8,
+    ""Position_Matching_Score"": 0.7,
+    ""Location_Matching_Score"": 1,
+    ""Language_Matching_Score"": 1,
+    ""Reason"": ""The candidate has Microsoft Office, Oracle CRM, Photoshop and Salesforce.com hardskills which are related to the job requirements. The candidate has Information Systems Management degree subject which covers the job requirements. The candidate has the same language as the job requires. The candidate has the same location as the job requires. The candidate has the potential to do the job position.""
+    }",6
+7,,recA3Ye1PMACJlO1Z,Rejected by CP,-0.33,-5.5,"{
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": 0.6,
+        ""Position_Matching_Score"": 0.9,
+        ""Location_Matching_Score"": 0,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has experience in building backend data services and microservices at scale, leading and architecting major new enhancements, strong understanding of web services and best practices, strong experience with managing the security aspects, working knowledge on Node.js, GraphQl, AWS, Express JS, PostgreSQL, Hasura. The candidate has a degree in Computer Science which covers most of the job requirements. The candidate has the hard skills and experience to fulfill the job position. The candidate can only speak English and Hindi, which does not match the job language requirement of English. The candidate is located in India, which does not match the job location requirement of Americas/United States, Asia/India, Europe.""
+    }",7
+8,rec0UyMHemcZU2cCd,recJHwegfLPOBlDmf,Rejected by CP,,,"{
+    ""Hardskill_Matching_Score"": 0.5,
+    ""Degree_Subjects_Matching_Score"": 0.8,
+    ""Position_Matching_Score"": 0.7,
+    ""Location_Matching_Score"": 1,
+    ""Language_Matching_Score"": 1,
+    ""Reason"": ""The candidate has hardskills related to the job requirements, such as BTO. The degree subjects of the candidate covers most of the job requirements. The candidate has the ability to do the job position. The candidate can go to the job location. The candidate can speak all the languages required for the job.""
+    }",8
+9,,recwMSrftJ7BbX5mZ,Rejected by CP,,,"{
+        ""Hardskill_Matching_Score"": ""NA"",
+        ""Degree_Subjects_Matching_Score"": ""NA"",
+        ""Position_Matching_Score"": ""NA"",
+        ""Location_Matching_Score"": 0,
+        ""Language_Matching_Score"": 0,
+        ""Reason"": ""The candidate's location does not match the job location and the candidate's language does not match the job language.""
+    }",9
+10,rec0x1TasOk6bHSiR,reckP2haWFD9xplVj,Rejected by CP,,,"{
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": 0.9,
+        ""Position_Matching_Score"": 0.7,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 0,
+        ""Reason"": ""The candidate has 8 out of 9 hardskills required in the job description, and the degree subject covers all the job requirement. The candidate has some of the hardskills and degree subjects required for the job position, but not all. The candidate's location matches the job location. The candidate's language does not match the job language.""
+    }",10
+11,rec0X28U5DFjwVB2G,recLaxiCREBzTpmDO,Rejected by CP,,-0.4,"{
+        ""Hardskill_Matching_Score"": 0.5,
+        ""Degree_Subjects_Matching_Score"": 0.8,
+        ""Position_Matching_Score"": 0.7,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has 2 out of 3 hardskills required for the job, their degree subjects cover most of the job requirements, they have the language skills required for the job, and they can work in the job location.""
+    }",11
+12,rec10XB9YYbJmFsYA,rect4fduNiqcXC123,Interview Process,-0.06,-1.5,"{
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": 0.6,
+        ""Position_Matching_Score"": 0.9,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has strong experience in Outbound Sales and a first experience as a manager, which matches the job requirements. The candidate has a degree in International Business, which covers some of the skills required in the job. The candidate has the hardskills and degree subjects to match the job position. The candidate can go to the job location. The candidate can speak all the languages required for the job.""
+    }",12
+13,rec137G1mig6nZrkI,recsld3DKqBhnW6rg,Rejected by CP,-0.21,-0.65,"{
+    ""Hardskill_Matching_Score"": 0.8,
+    ""Degree_Subjects_Matching_Score"": 0.9,
+    ""Position_Matching_Score"": 0.9,
+    ""Location_Matching_Score"": 1,
+    ""Language_Matching_Score"": 1,
+    ""Reason"": ""The candidate has 2+ years experience in management consulting or data science, excellent analytical skills and ability to leverage data, metrics, analytics to generate insights creative ideas, quantitative thinking and strong problem-solving skills, excellent communication skills and full fluency in English and Arabic, and collaborative mindset. The candidate has hardskills of hive, java, Microsoft SQL Server, object-oriented languages, and python which are related to the job position of head-data-operations. The candidate has a degree in Computer Science which covers the skills required in the job position. The candidate can go to the job location of Asia/United Arab Emirates/Dubai. The candidate can speak the language of English and Arabic which are required in the job.""
+    }",13
+14,rec1ELGXcgw4I5HPi,recnBWL7L2B5oicAV,Rejected by client,-0.61,-1.2,"{
+    ""Hardskill_Matching_Score"": 0.8,
+    ""Degree_Subjects_Matching_Score"": 0.6,
+    ""Position_Matching_Score"": 0.9,
+    ""Location_Matching_Score"": 1,
+    ""Language_Matching_Score"": 1,
+    ""Reason"": ""The candidate has hardskills related to the job requirements, such as energy, energy-audits, energy-conservation. The degree subject of the candidate is Energy Markets, which covers some of the job requirements. The candidate has experience in business-development, which is the job position. The candidate can go to the job location, Europe/France. The candidate can speak the language required by the job, French.""
+    }",14
+15,rec1gO76DygLR1LLn,recDD8JBa77gVncOf,Rejected by client,,-0.75,"{
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": ""NA"",
+        ""Position_Matching_Score"": 0.7,
+        ""Location_Matching_Score"": 1,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has 4 out of 5 hardskills required by the job, and the candidate's location and language are matched with the job's location and language.""
+    }",15
+16,rec1HL9iQwL50uUnO,recAczNwH7Yk3tM2z,Rejected by client,,-1.0,"{
+    ""Hardskill_Matching_Score"": 0.75,
+    ""Degree_Subjects_Matching_Score"": 0.5,
+    ""Position_Matching_Score"": 0.75,
+    ""Location_Matching_Score"": 1,
+    ""Language_Matching_Score"": 1,
+    ""Reason"": ""The candidate has 3 out of 4 hardskills required for the job, has a degree in International Trade which covers some of the job requirements, has a driving license and is willing to travel, and speaks all the languages required for the job.""
+    }",16
+17,rec1kBBtHtKA304Z4,recAtcVMDz425qUT3,Rejected by client,,-0.0,"{
+    ""Hardskill_Matching_Score"": 0.8,
+    ""Degree_Subjects_Matching_Score"": 0.9,
+    ""Position_Matching_Score"": 0.9,
+    ""Location_Matching_Score"": 1,
+    ""Language_Matching_Score"": 1,
+    ""Reason"": ""The candidate has 5 years of experience in data engineering or related field, BSc in Computer Science or similar, proven experience with Python, strong understanding of data warehousing, ETL processes, and data modelling, exposure to spreadsheet data pipelines, experience with Fintech companies, have an understanding how insurance works, experience with data visualisation tools, especially AWS QuickInsights, is a plus. The candidate is located in Europe/United Kingdom and can speak English. Therefore, the hardskill matching score is 0.8, degree subjects matching score is 0.9, position matching score is 0.9, location matching score is 1, language matching score is 1.""
+    }",17
+18,rec1mIGi8qrfBetmy,recwMSrftJ7BbX5mZ,Rejected by CP,,-0.332,"{
+    ""Hardskill_Matching_Score"": 0.8,
+    ""Degree_Subjects_Matching_Score"": 0.6,
+    ""Position_Matching_Score"": 0.7,
+    ""Location_Matching_Score"": 0,
+    ""Language_Matching_Score"": 1,
+    ""Reason"": ""The candidate has two hardskills which are related to the job requirements, and the candidate has a degree in a related field. The candidate can speak all the languages required for the job, but the candidate's location does not match the job location.""
+    }",18
+19,,recGrGIFWaByaa5dg,Mission closed by client,,-1.1,"{
+        ""Hardskill_Matching_Score"": 0.8,
+        ""Degree_Subjects_Matching_Score"": 0.6,
+        ""Position_Matching_Score"": 0.9,
+        ""Location_Matching_Score"": 0,
+        ""Language_Matching_Score"": 1,
+        ""Reason"": ""The candidate has 8 years of experience in growth hacking/marketing role in e-commerce industry, which is close to the job requirement. The candidate has a degree in marketing, which covers the skills required in the job. The candidate can speak all the languages required in the job. However, the candidate is located in a different country than the job location, so the location matching score is 0.""
+    }",19
